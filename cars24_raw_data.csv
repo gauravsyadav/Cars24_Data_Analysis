@@ -1,0 +1,1104 @@
+,CAR_MODEL,BRAND,CAR_NAME,CAR_VARIANT,CAR_TRANSMISSION,KM_DRIVEN,OWNER_TYPE,FUEL_TYPE,REGISTRAION_ID,MONTHLY_EMI,CAR_PRICE,DOWNPAYMENT_AMOUNT,LOCATION
+0,2022,Maruti,Eeco,7 STR STD(O),Manual,"27,431 km",1st owner,Petrol,DL1C-AF9509,"₹8,915/month",₹4.56 Lakh,On Zero down payment,Noida
+1,2020,Hyundai,Verna,SX (O) 1.5 VTVT IVT,Automatic,"24,243 km",1st owner,Petrol,DL8C-BA3472,"₹21,680/month",₹11.39 Lakh,On Zero down payment,Noida
+2,2020,Maruti,Vitara Brezza,VXI,Manual,"46,380 km",1st owner,Petrol,HR26-EL3064,"₹13,562/month",₹6.94 Lakh,On Zero down payment,Gurgaon
+3,2018,Maruti,Celerio,ZXI,Manual,"25,527 km",2nd owner,Petrol,DL3C-CP5238,"₹7,605/month",₹3.89 Lakh,On Zero down payment,Noida
+4,2016,Renault,Kwid,RXT 1.0 (O),Manual,"53,885 km",2nd owner,Petrol,HR26-DA4220,"₹5,455/month",₹2.79 Lakh,On Zero down payment,Faridabad
+5,2021,Maruti,New Wagon-R,LXI CNG 1.0,Manual,"39,261 km",1st owner,CNG,DL8C-BB3057,"₹10,577/month",₹5.41 Lakh,On Zero down payment,Gurgaon
+6,2018,Jeep,Compass,LIMITED (O) 2.0 DIESEL 4X4,Manual,"53,437 km",2nd owner,Diesel,HR81-A2519,"₹21,375/month",₹11.23 Lakh,On Zero down payment,New Delhi
+7,2016,Renault,Kwid,RXT 1.0 (O),Manual,"77,559 km",2nd owner,Petrol,DL8C-AP2541,"₹5,083/month",₹2.6 Lakh,On Zero down payment,New Delhi
+8,2021,Maruti,IGNIS,SIGMA 1.2,Manual,"11,171 km",1st owner,Petrol,DL3C-CT6740,"₹9,619/month",₹4.92 Lakh,On Zero down payment,Gurgaon
+9,2020,Maruti,Vitara Brezza,LXI,Manual,"34,915 km",1st owner,Petrol,UP16-CP9856,"₹13,138/month",₹6.72 Lakh,On Zero down payment,Noida
+10,2021,Tata,Safari,XT PLUS,Manual,"58,825 km",1st owner,Diesel,HR98-C6288,"₹26,819/month",₹14.09 Lakh,On Zero down payment,Gurgaon
+11,2018,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,"62,298 km",2nd owner,Petrol,HR26-DM0510,"₹17,055/month",₹8.96 Lakh,On Zero down payment,New Delhi
+12,2013,Maruti,Swift,VXI,Manual,"76,217 km",3rd owner,Petrol,DL6C-N2684,"₹5,063/month",₹2.59 Lakh,On Zero down payment,Gurgaon
+13,2015,Maruti,Wagon R 1.0,VXI,Manual,"66,106 km",1st owner,Petrol,HR29-AJ4725,"₹5,337/month",₹2.73 Lakh,On Zero down payment,Noida
+14,2020,KIA,SONET,GTX PLUS 1.5,Manual,"32,215 km",2nd owner,Diesel,HR26-EK3911,"₹17,816/month",₹9.36 Lakh,On Zero down payment,Gurgaon
+15,2017,Volkswagen,Polo,HIGHLINE1.2L,Manual,"65,148 km",2nd owner,Petrol,HR29-AP0902,"₹10,180/month",₹5.21 Lakh,On Zero down payment,Gurgaon
+16,2018,Nissan,Micra Active,XV SAFETY PACK,Manual,"70,860 km",1st owner,CNG,HR26-DU5605,"₹7,019/month",₹3.59 Lakh,On Zero down payment,Gurgaon
+17,2019,Honda,Civic,1.6L I-DTEC ZX MT,Manual,"74,961 km",1st owner,Diesel,CH01-CA0047,"₹31,616/month",₹16.61 Lakh,On Zero down payment,Gurgaon
+18,2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"44,794 km",1st owner,Petrol,HR26-CY0589,"₹15,646/month",₹8.22 Lakh,On Zero down payment,Gurgaon
+19,2020,Tata,ALTROZ,XZ PETROL,Manual,"57,955 km",1st owner,Petrol,HR14-S1979,"₹12,356/month",₹6.32 Lakh,On Zero down payment,Gurgaon
+20,2022,Hyundai,VENUE,SX (O) 1.5 CRDI,Manual,"24,293 km",1st owner,Diesel,HR26-EV4166,"₹22,466/month",₹11.8 Lakh,On Zero down payment,Gurgaon
+21,2016,Tata,Tiago,XM PETROL,Manual,"89,370 km",1st owner,Petrol,HR03-V2912,"₹6,764/month",₹3.46 Lakh,On Zero down payment,Gurgaon
+22,2020,Honda,Civic,1.6L I-DTEC ZX MT,Manual,"23,614 km",1st owner,Diesel,UP16-CL2626,"₹33,900/month",₹17.81 Lakh,On Zero down payment,Noida
+23,2021,Toyota,URBAN CRUISER,MID GRADE AT,Automatic,"29,116 km",1st owner,Petrol,HR70-F4947,"₹18,615/month",₹9.78 Lakh,On Zero down payment,Gurgaon
+24,2019,Honda,WR-V,1.2 i-VTEC VX MT,Manual,"17,070 km",1st owner,Petrol,DL4C-AZ0752,"₹14,154/month",₹7.24 Lakh,On Zero down payment,Noida
+25,2015,Maruti,Alto K10,VXI AMT,Automatic,"34,904 km",2nd owner,Petrol,DL3C-CA5085,"₹5,689/month",₹2.91 Lakh,On Zero down payment,Ghaziabad
+26,2019,Maruti,Celerio,VXI CNG,Manual,"92,215 km",1st owner,CNG,HR30-U2811,"₹7,722/month",₹3.95 Lakh,On Zero down payment,Gurgaon
+27,2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"32,669 km",1st owner,Diesel,UP65-DQ1818,"₹14,839/month",₹7.59 Lakh,On Zero down payment,Noida
+28,2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"59,756 km",1st owner,Petrol,DL5C-R6046,"₹10,792/month",₹5.52 Lakh,On Zero down payment,Noida
+29,2017,Jeep,Compass,LIMITED 1.4 PETROL AT,Automatic,"123,456 km",2nd owner,Petrol,HR26-DP4894,"₹19,205/month",₹10.09 Lakh,On Zero down payment,Gurgaon
+30,2016,Maruti,Alto K10,VXI,Manual,"78,597 km",3rd owner,CNG,HR16-Z7285,"₹5,846/month",₹2.99 Lakh,On Zero down payment,Gurgaon
+31,2015,Hyundai,i20 Active,1.2 S,Manual,"76,272 km",2nd owner,Petrol,HR26-CQ1446,"₹8,606/month",₹4.4 Lakh,On Zero down payment,Gurgaon
+32,2022,Mahindra,XUV300,W8 1.2 PETROL,Manual,"21,601 km",1st owner,Petrol,HR87-H8637,"₹19,415/month",₹10.2 Lakh,On Zero down payment,Gurgaon
+33,2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"62,560 km",1st owner,Petrol,HR30-V1490,"₹10,362/month",₹5.3 Lakh,On Zero down payment,Faridabad
+34,2021,Honda,City,1.5L I-VTE V CVT,Automatic,"69,943 km",1st owner,Petrol,HR10-AL0897,"₹20,005/month",₹10.51 Lakh,On Zero down payment,Gurgaon
+35,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"65,712 km",2nd owner,CNG,DL9C-AP1628,"₹10,850/month",₹5.55 Lakh,On Zero down payment,New Delhi
+36,2019,Honda,WR-V,1.2L I-VTEC S ALIVE EDITION,Manual,"68,859 km",1st owner,Petrol,UP14-EA1116,"₹11,705/month",₹5.99 Lakh,On Zero down payment,Ghaziabad
+37,2015,Honda,CRV,2.0L I-VTEC 2WD AT,Automatic,"81,888 km",1st owner,Petrol,DL3C-CC8883,"₹14,506/month",₹7.42 Lakh,On Zero down payment,Ghaziabad
+38,2019,Renault,TRIBER,RXT,Manual,"56,503 km",1st owner,Petrol,DL12-CS1849,"₹9,228/month",₹4.72 Lakh,On Zero down payment,Noida
+39,2020,Maruti,XL6,ZETA AT,Automatic,"47,191 km",1st owner,Petrol,DL12-CT2590,"₹17,207/month",₹9.04 Lakh,On Zero down payment,Faridabad
+40,2016,Mahindra,Kuv100,K8 5 STR,Manual,"46,364 km",2nd owner,Petrol,HR51-BJ8337,"₹6,628/month",₹3.39 Lakh,On Zero down payment,Faridabad
+41,2023,Honda,City,1.5L I-VTEC VX CVT,Automatic,"24,701 km",1st owner,Petrol,UP14-FS6235,"₹25,011/month",₹13.14 Lakh,On Zero down payment,Ghaziabad
+42,2020,Ford,FREESTYLE,FLAIR EDITION 1.2 PETROL,Manual,"23,819 km",1st owner,Petrol,HR51-CB7149,"₹11,300/month",₹5.78 Lakh,On Zero down payment,Faridabad
+43,2012,Maruti,Wagon R 1.0,LXI CNG,Manual,"41,472 km",1st owner,CNG,DL11-CA0410,"₹4,301/month",₹2.2 Lakh,On Zero down payment,New Delhi
+44,2021,Maruti,Vitara Brezza,VXI,Manual,"24,278 km",1st owner,Petrol,HR98-A6505,"₹15,912/month",₹8.36 Lakh,On Zero down payment,Gurgaon
+45,2017,Toyota,Fortuner,2.8 4X2 AT,Automatic,"103,102 km",1st owner,Diesel,DL8C-AQ2032,"₹46,062/month",₹24.2 Lakh,On Zero down payment,Gurgaon
+46,2019,KIA,SELTOS,HTK PLUS 1.5,Manual,"43,519 km",2nd owner,Petrol,HR26-EB2020,"₹18,273/month",₹9.6 Lakh,On Zero down payment,Gurgaon
+47,2018,Tata,TIGOR,XM PETROL,Manual,"35,381 km",2nd owner,Petrol,DL12-CN1701,"₹8,078/month",₹4.13 Lakh,On Zero down payment,Noida
+48,2019,Mahindra,TUV300,T10,Manual,"57,818 km",1st owner,Diesel,DL8C-AY1527,"₹14,702/month",₹7.52 Lakh,On Zero down payment,New Delhi
+49,2016,Maruti,Ertiga,VXI ABS,Manual,"43,699 km",1st owner,Petrol,HR26-CY7609,"₹14,076/month",₹7.2 Lakh,On Zero down payment,Gurgaon
+50,2015,Hyundai,Elite i20,ASTA 1.2,Manual,"79,934 km",2nd owner,Petrol,HR26-CV8877,"₹9,599/month",₹4.91 Lakh,On Zero down payment,Gurgaon
+51,2022,Tata,Safari,XZA PLUS DARK EDITION,Automatic,"36,986 km",1st owner,Diesel,HR87-G0056,"₹39,397/month",₹20.7 Lakh,On Zero down payment,Gurgaon
+52,2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"29,811 km",1st owner,Petrol,HR51-BM1865,"₹7,214/month",₹3.69 Lakh,On Zero down payment,Gurgaon
+53,2017,Honda,City,1.5L I-VTEC V MT,Manual,"58,573 km",1st owner,Petrol,HR26-DJ2341,"₹13,834/month",₹7.08 Lakh,On Zero down payment,New Delhi
+54,2017,Maruti,Baleno,RS 1.0 PETROL,Manual,"43,507 km",1st owner,Petrol,HR10-AE3396,"₹9,325/month",₹4.77 Lakh,On Zero down payment,Gurgaon
+55,2017,Maruti,Celerio,VXI,Manual,"118,591 km",1st owner,Petrol,HR26-DF4853,"₹5,748/month",₹2.94 Lakh,On Zero down payment,Gurgaon
+56,2018,Maruti,Wagon R 1.0,LXI CNG,Manual,"66,027 km",1st owner,CNG,HR87-A3908,"₹7,468/month",₹3.82 Lakh,On Zero down payment,Gurgaon
+57,2022,Mahindra,Bolero,B6,Manual,"12,854 km",1st owner,Diesel,HR10-AP8591,"₹19,320/month",₹10.15 Lakh,On Zero down payment,Gurgaon
+58,2019,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,"32,006 km",1st owner,Petrol,DL12-CR1547,"₹21,109/month",₹11.09 Lakh,On Zero down payment,Noida
+59,2022,Tata,Tiago,XZ PLUS CNG,Manual,"17,447 km",1st owner,CNG,HR29-AY6457,"₹13,196/month",₹6.75 Lakh,On Zero down payment,Gurgaon
+60,2014,Honda,City,1.5L I-VTEC V MT,Manual,"62,763 km",1st owner,Petrol,DL2C-AT4101,"₹9,404/month",₹4.81 Lakh,On Zero down payment,Ghaziabad
+61,2022,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,"26,559 km",1st owner,Petrol,DL11-CD4026,"₹20,119/month",₹10.57 Lakh,On Zero down payment,Ghaziabad
+62,2021,Skoda,Rapid,AMBITION TSI,Manual,"13,295 km",1st owner,Petrol,HR87-G2514,"₹18,387/month",₹9.66 Lakh,On Zero down payment,Gurgaon
+63,2022,Hyundai,VENUE,S 1.2,Manual,"16,339 km",1st owner,Petrol,UP13-BX4515,"₹15,315/month",₹8.05 Lakh,On Zero down payment,Noida
+64,2021,Nissan,MAGNITE,XL,Manual,"19,104 km",1st owner,Petrol,HR51-CE6133,"₹11,398/month",₹5.83 Lakh,On Zero down payment,Gurgaon
+65,2012,Honda,Brio,S MT,Manual,"77,904 km",2nd owner,CNG,DL9C-U3329,"₹3,890/month",₹1.99 Lakh,On Zero down payment,Faridabad
+66,2019,Mahindra,XUV300,W8 1.5 DIESEL,Manual,"70,744 km",1st owner,Diesel,DL7C-Q9568,"₹14,385/month",₹7.36 Lakh,On Zero down payment,Noida
+67,2021,Tata,Harrier,XMA 2.0L KRYOTEC,Automatic,"27,724 km",1st owner,Diesel,DL10-CQ6900,"₹27,847/month",₹14.63 Lakh,On Zero down payment,Noida
+68,2022,Volkswagen,VIRTUS,GT PLUS TSI 1.5 EVO DSG,Automatic,"18,470 km",1st owner,Petrol,DL12-CV2963,"₹30,493/month",₹16.02 Lakh,On Zero down payment,New Delhi
+69,2023,MG,HECTOR,SHARP 1.5 PETROL CVT,Automatic,"10,366 km",1st owner,Petrol,DL12-CW2422,"₹37,497/month",₹19.7 Lakh,On Zero down payment,New Delhi
+70,2014,Toyota,Etios Liva,G,Manual,"36,837 km",1st owner,Petrol,DL10-CE6548,"₹5,630/month",₹2.88 Lakh,On Zero down payment,Gurgaon
+71,2019,Renault,Kwid,RXT 1.0 (O),Manual,"19,938 km",1st owner,Petrol,HR26-EC2391,"₹7,253/month",₹3.71 Lakh,On Zero down payment,Gurgaon
+72,2019,KIA,SELTOS,HTK PLUS 1.5 DIESEL,Manual,"70,292 km",1st owner,Diesel,UP16-CH9971,"₹18,901/month",₹9.93 Lakh,On Zero down payment,Gurgaon
+73,2019,Tata,NEXON,XZA PLUS PETROL,Automatic,"30,309 km",2nd owner,Petrol,HR26-DZ5088,"₹14,995/month",₹7.67 Lakh,On Zero down payment,Noida
+74,2023,Honda,Amaze,1.2L I-VTEC VX CVT,Automatic,"8,272 km",1st owner,Petrol,HR26-FA3635,"₹18,425/month",₹9.68 Lakh,On Zero down payment,Gurgaon
+75,2021,Hyundai,Verna,SX (O) 1.5 CRDI AT,Automatic,"63,411 km",1st owner,Diesel,UP14-ES4949,"₹22,555/month",₹11.85 Lakh,On Zero down payment,Noida
+76,2022,Mahindra,XUV300,W4 1.5 DIESEL,Manual,"23,035 km",1st owner,Diesel,UP14-EZ0684,"₹16,236/month",₹8.53 Lakh,On Zero down payment,Noida
+77,2023,MG,HECTOR,SHARP 1.5 PETROL CVT,Automatic,"13,580 km",1st owner,Petrol,DL7C-V1724,"₹36,660/month",₹19.26 Lakh,On Zero down payment,Noida
+78,2019,Renault,Duster,110 PS RXZ 4X2 AMT DIESEL,Automatic,"24,617 km",1st owner,Diesel,HR26-EB2072,"₹16,579/month",₹8.71 Lakh,On Zero down payment,Gurgaon
+79,2020,Mahindra,XUV500,W11(O),Manual,"48,273 km",2nd owner,Diesel,DL12-CS7084,"₹25,677/month",₹13.49 Lakh,On Zero down payment,New Delhi
+80,2018,Volkswagen,Ameo,TRENDLINE 1.0L,Manual,"30,422 km",2nd owner,Petrol,DL1C-AA8529,"₹9,169/month",₹4.69 Lakh,On Zero down payment,Noida
+81,2019,Tata,Hexa,Varicor 400 XM,Manual,"45,799 km",1st owner,Diesel,HR26-DZ4199,"₹20,481/month",₹10.76 Lakh,On Zero down payment,Gurgaon
+82,2022,Maruti,Dzire,ZXI CNG,Manual,"30,011 km",1st owner,CNG,HR98-E5978,"₹15,582/month",₹7.97 Lakh,On Zero down payment,Faridabad
+83,2017,Tata,Tiago,XTA PETROL,Automatic,"32,714 km",1st owner,Petrol,CH01-BQ0648,"₹9,071/month",₹4.64 Lakh,On Zero down payment,Gurgaon
+84,2022,Mahindra,XUV700,AX 7 LUXURY D AWD AT 7 STR,Automatic,"16,532 km",1st owner,Diesel,HR98-G8662,"₹50,440/month",₹26.5 Lakh,On Zero down payment,Gurgaon
+85,2023,Hyundai,AURA,SX 1.2 CNG,Manual,"11,056 km",1st owner,CNG,HR87-K3858,"₹16,407/month",₹8.62 Lakh,On Zero down payment,Gurgaon
+86,2020,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"9,806 km",1st owner,Petrol,HR26-EL3982,"₹15,327/month",₹7.84 Lakh,On Zero down payment,Gurgaon
+87,2019,Jeep,Compass,LONGITUDE (O) 1.4 PETROL AT,Automatic,"54,448 km",2nd owner,Petrol,HR26-DY1462,"₹22,684/month",₹11.92 Lakh,On Zero down payment,Gurgaon
+88,2015,Mahindra,Scorpio,S4,Manual,"70,340 km",1st owner,Diesel,DL10-CT1792,"₹13,744/month",₹7.03 Lakh,On Zero down payment,Noida
+89,2021,Tata,ALTROZ,XZ 1.5 RTQ,Manual,"38,257 km",1st owner,Diesel,HR26-EN0418,"₹14,487/month",₹7.41 Lakh,On Zero down payment,Noida
+90,2021,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,"30,388 km",1st owner,Petrol,DL12-CT4353,"₹11,449/month",₹5.86 Lakh,On Zero down payment,New Delhi
+91,2018,Honda,WR-V,1.2 i-VTEC VX MT,Manual,"12,724 km",2nd owner,Petrol,HR26-DP6924,"₹13,040/month",₹6.67 Lakh,On Zero down payment,Gurgaon
+92,2017,Maruti,Dzire,VXI,Manual,"52,020 km",1st owner,Petrol,HR87-1350,"₹9,286/month",₹4.75 Lakh,On Zero down payment,Gurgaon
+93,2018,Tata,Tiago,XE PETROL,Manual,"41,731 km",1st owner,Petrol,HR26-DR3436,"₹7,879/month",₹4.03 Lakh,On Zero down payment,Gurgaon
+94,2022,MG,HECTOR,SHARP 2.0 DIESEL,Manual,"10,184 km",1st owner,Diesel,DL14-CG4342,"₹32,529/month",₹17.09 Lakh,On Zero down payment,Gurgaon
+95,2017,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"92,995 km",2nd owner,Petrol,HR36-AB2952,"₹7,429/month",₹3.8 Lakh,On Zero down payment,New Delhi
+96,2019,Renault,TRIBER,RXT,Manual,"24,012 km",1st owner,Petrol,UP14-ED8105,"₹10,014/month",₹5.12 Lakh,On Zero down payment,Ghaziabad
+97,2019,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"58,833 km",2nd owner,Petrol,HR26-DZ2497,"₹15,475/month",₹8.13 Lakh,On Zero down payment,Gurgaon
+98,2023,Tata,NEXON,XZA PLUS PETROL,Automatic,"4,491 km",1st owner,Petrol,DL9C-BB4976,"₹19,853/month",₹10.43 Lakh,On Zero down payment,New Delhi
+99,2019,Renault,TRIBER,RXL MT,Manual,"33,239 km",1st owner,Petrol,HR26-EH6708,"₹11,183/month",₹5.72 Lakh,On Zero down payment,Gurgaon
+100,2017,Hyundai,Elite i20,ASTA 1.2,Manual,"78,319 km",2nd owner,Petrol,HR26-DH7400,"₹9,228/month",₹4.72 Lakh,On Zero down payment,New Delhi
+101,2022,Tata,NEXON,XM SUNROOF DIESEL,Manual,"45,325 km",1st owner,Diesel,HR51-CG8851,"₹15,912/month",₹8.36 Lakh,On Zero down payment,New Delhi
+102,2019,Mahindra,XUV500,W7 AT,Automatic,"15,070 km",2nd owner,Diesel,HR26-DZ2249,"₹22,670/month",₹11.91 Lakh,On Zero down payment,Gurgaon
+103,2021,Skoda,Rapid,AMBITION AT TSI,Automatic,"29,787 km",1st owner,Petrol,DL7C-S2517,"₹17,797/month",₹9.35 Lakh,On Zero down payment,New Delhi
+104,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"32,917 km",1st owner,Diesel,HR51-BX3425,"₹15,503/month",₹7.93 Lakh,On Zero down payment,Faridabad
+105,2017,Maruti,Wagon R 1.0,LXI CNG,Manual,"80,484 km",1st owner,CNG,HR26-DJ8002,"₹7,136/month",₹3.65 Lakh,On Zero down payment,New Delhi
+106,2015,Mahindra,Scorpio,S4 PLUS,Manual,"62,617 km",2nd owner,Diesel,HR26-CP2780,"₹14,584/month",₹7.46 Lakh,On Zero down payment,Gurgaon
+107,2016,Honda,Amaze,1.2L I-VTEC SX,Manual,"64,134 km",1st owner,Petrol,HR26-CZ8218,"₹8,309/month",₹4.25 Lakh,On Zero down payment,Gurgaon
+108,2016,Maruti,Wagon R 1.0,VXI AMT,Automatic,"33,726 km",1st owner,Petrol,HR26-CV4755,"₹6,979/month",₹3.57 Lakh,On Zero down payment,Gurgaon
+109,2017,Hyundai,Elite i20,ASTA 1.2 (O),Manual,"69,158 km",2nd owner,Petrol,HR06-AN3579,"₹10,870/month",₹5.56 Lakh,On Zero down payment,Gurgaon
+110,2019,Mahindra,XUV500,W5,Manual,"67,598 km",1st owner,Diesel,HR26-DW8396,"₹20,195/month",₹10.61 Lakh,On Zero down payment,Gurgaon
+111,2016,Honda,City,1.5L I-VTEC VX,Manual,"62,128 km",2nd owner,Petrol,DL9C-AU2404,"₹12,356/month",₹6.32 Lakh,On Zero down payment,Gurgaon
+112,2015,Toyota,Etios,CROSS 1.2 G,Manual,"79,927 km",1st owner,Petrol,DL8C-AK5321,"₹7,742/month",₹3.96 Lakh,On Zero down payment,Ghaziabad
+113,2021,Toyota,URBAN CRUISER,MID GRADE MT,Manual,"37,122 km",1st owner,Petrol,DL3C-CT7243,"₹15,484/month",₹7.92 Lakh,On Zero down payment,New Delhi
+114,2020,Maruti,Vitara Brezza,VXI AT SHVS,Automatic,"42,650 km",1st owner,CNG,DL2C-BC0861,"₹15,589/month",₹8.19 Lakh,On Zero down payment,New Delhi
+115,2022,Nissan,MAGNITE,XV TURBO,Manual,"12,527 km",1st owner,Petrol,HR72-G0865,"₹15,451/month",₹7.9 Lakh,On Zero down payment,Gurgaon
+116,2019,Mahindra,XUV500,W11 AT,Automatic,"35,860 km",1st owner,Diesel,DL12-CR4522,"₹24,744/month",₹13 Lakh,On Zero down payment,Gurgaon
+117,2022,Maruti,New Wagon-R,VXI CNG 1.0,Manual,"51,608 km",1st owner,CNG,HR50-J5399,"₹11,632/month",₹5.95 Lakh,On Zero down payment,Faridabad
+118,2017,Hyundai,Xcent,SX 1.2,Manual,"32,493 km",1st owner,Petrol,HR26-DF7094,"₹10,127/month",₹5.18 Lakh,On Zero down payment,Gurgaon
+119,2019,Mahindra,XUV300,W8 DIESEL MT,Manual,"86,105 km",1st owner,Diesel,DL12-CR1575,"₹14,408/month",₹7.37 Lakh,On Zero down payment,New Delhi
+120,2021,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"28,627 km",1st owner,Petrol,HR26-EP8284,"₹20,747/month",₹10.9 Lakh,On Zero down payment,Gurgaon
+121,2019,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"53,942 km",1st owner,Petrol,HR26-DX4054,"₹8,778/month",₹4.49 Lakh,On Zero down payment,Gurgaon
+122,2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,"80,028 km",1st owner,Petrol,DL8C-Y6392,"₹9,521/month",₹4.87 Lakh,On Zero down payment,New Delhi
+123,2022,Maruti,BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,"28,284 km",1st owner,Petrol,HR30-Z6223,"₹22,479/month",₹11.81 Lakh,On Zero down payment,Gurgaon
+124,2018,Skoda,Rapid,STYLE 1.6 MPI AT,Automatic,"84,700 km",1st owner,Petrol,HR26-DS8594,"₹14,858/month",₹7.6 Lakh,On Zero down payment,Faridabad
+125,2020,Tata,NEXON,XZ PLUS DIESEL,Manual,"49,718 km",1st owner,Diesel,HR87-F4007,"₹15,503/month",₹7.93 Lakh,On Zero down payment,Gurgaon
+126,2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"44,921 km",1st owner,Diesel,UP16-CE0811,"₹13,587/month",₹6.95 Lakh,On Zero down payment,Noida
+127,2018,Honda,City,1.5L I-VTE V CVT,Automatic,"74,813 km",2nd owner,Petrol,HR26-DU2642,"₹14,037/month",₹7.18 Lakh,On Zero down payment,Gurgaon
+128,2019,Maruti,New Wagon-R,VXI 1.2,Manual,"18,712 km",1st owner,Petrol,HR51-BV2869,"₹10,264/month",₹5.25 Lakh,On Zero down payment,Gurgaon
+129,2015,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"39,938 km",1st owner,Petrol,HR29-AL0596,"₹7,664/month",₹3.92 Lakh,On Zero down payment,Gurgaon
+130,2022,Volkswagen,Polo,COMFORTLINE 1.0L TSI AT,Automatic,"36,797 km",1st owner,Petrol,UP14-EZ6728,"₹16,268/month",₹8.55 Lakh,On Zero down payment,Noida
+131,2021,Skoda,Rapid,STYLE 1.0TSI MT,Manual,"13,561 km",1st owner,Petrol,UP78-GM3355,"₹18,996/month",₹9.98 Lakh,On Zero down payment,Noida
+132,2015,Maruti,Celerio,VXI AMT,Automatic,"91,740 km",2nd owner,Petrol,HR26-CP9444,"₹6,354/month",₹3.25 Lakh,On Zero down payment,Gurgaon
+133,2019,Honda,Civic,1.6L I-DTEC VX MT,Manual,"49,735 km",1st owner,Diesel,UP14-EF6007,"₹25,525/month",₹13.41 Lakh,On Zero down payment,Noida
+134,2020,KIA,SELTOS,HTK PLUS 1.5 DIESEL,Manual,"93,108 km",1st owner,Diesel,HR36-AH9000,"₹18,577/month",₹9.76 Lakh,On Zero down payment,Faridabad
+135,2019,Renault,Duster,110 PS RXZ 4X4 MT DIESEL,Manual,"35,331 km",1st owner,Diesel,DL10-CN2221,"₹17,188/month",₹9.03 Lakh,On Zero down payment,Noida
+136,2018,Ford,Ecosport,TITANIUM 1.5L PETROL,Manual,"47,069 km",1st owner,Petrol,DL10-CK7815,"₹13,411/month",₹6.86 Lakh,On Zero down payment,Gurgaon
+137,2021,Maruti,Dzire,ZXI Plus AMT,Automatic,"34,855 km",2nd owner,Petrol,HR26-EQ7337,"₹14,584/month",₹7.46 Lakh,On Zero down payment,Gurgaon
+138,2017,Honda,Amaze,1.2L I-VTEC VX,Manual,"77,854 km",2nd owner,Petrol,DL3C-CM6901,"₹8,602/month",₹4.4 Lakh,On Zero down payment,New Delhi
+139,2019,Honda,WR-V,1.2L I-VTEC S MT,Manual,"70,303 km",1st owner,Petrol,UP16-CC3173,"₹11,632/month",₹5.95 Lakh,On Zero down payment,Noida
+140,2019,Maruti,Alto K10,VXI (O),Manual,"21,572 km",2nd owner,Petrol,HR51-BV5728,"₹7,398/month",₹3.78 Lakh,On Zero down payment,Faridabad
+141,2019,Mahindra,XUV300,W8 1.2 PETROL,Manual,"17,531 km",1st owner,Petrol,DL10-CM3302,"₹16,560/month",₹8.7 Lakh,On Zero down payment,New Delhi
+142,2015,Hyundai,Elite i20,ASTA 1.2,Manual,"53,005 km",1st owner,Petrol,DL8C-AE9433,"₹9,169/month",₹4.69 Lakh,On Zero down payment,New Delhi
+143,2019,Volkswagen,Ameo,HIGHLINE PLUS 1.5L AT 16 ALLOY,Automatic,"67,811 km",2nd owner,Diesel,DL8C-AY2310,"₹14,291/month",₹7.31 Lakh,On Zero down payment,New Delhi
+144,2015,Maruti,Wagon R Stingray,VXI,Manual,"28,281 km",1st owner,Petrol,HR26-CS2014,"₹7,429/month",₹3.8 Lakh,On Zero down payment,Gurgaon
+145,2011,Honda,City,1.5L I-VTEC S MT,Manual,"63,735 km",1st owner,Petrol,HR10-S4042,"₹5,220/month",₹2.67 Lakh,On Zero down payment,Faridabad
+146,2018,Hyundai,Elite i20,SPORTZ 1.2,Manual,"77,753 km",1st owner,Petrol,HR36-AC9649,"₹11,730/month",₹6 Lakh,On Zero down payment,Gurgaon
+147,2019,Honda,Amaze,1.5L I-DTEC E,Manual,"43,683 km",1st owner,Diesel,HR10-AH2648,"₹12,727/month",₹6.51 Lakh,On Zero down payment,Gurgaon
+148,2021,Tata,Harrier,XZA PLUS 2.0L DUAL TONE,Automatic,"34,543 km",1st owner,Diesel,HR51-CF1000,"₹33,938/month",₹17.83 Lakh,On Zero down payment,Faridabad
+149,2022,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"30,615 km",1st owner,Diesel,UP85-CA1497,"₹17,264/month",₹9.07 Lakh,On Zero down payment,Noida
+150,2017,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"48,227 km",1st owner,Petrol,HR51-BS8907,"₹14,017/month",₹7.17 Lakh,On Zero down payment,Faridabad
+151,2015,Honda,City,1.5L I-VTEC E MT,Manual,"72,114 km",1st owner,Petrol,HR26-CN0513,"₹8,778/month",₹4.49 Lakh,On Zero down payment,Gurgaon
+152,2020,Mahindra,XUV300,W6 1.5 DIESEL AMT,Automatic,"85,834 km",1st owner,Diesel,HR29-AW1100,"₹15,684/month",₹8.24 Lakh,On Zero down payment,Gurgaon
+153,2020,Tata,NEXON,XZA PLUS SUNROOF PETROL,Automatic,"61,402 km",1st owner,Petrol,HR26-EJ9690,"₹17,182/month",₹9.03 Lakh,On Zero down payment,Gurgaon
+154,2019,Jeep,Compass,LIMITED PLUS DIESEL 4X4,Manual,"35,191 km",1st owner,Diesel,HR51-BW3927,"₹28,018/month",₹14.72 Lakh,On Zero down payment,Noida
+155,2019,Jeep,Compass,SPORT PLUS 2.0 DIESEL,Manual,"45,108 km",1st owner,Diesel,DL3C-CR0322,"₹23,697/month",₹12.45 Lakh,On Zero down payment,Ghaziabad
+156,2018,Tata,NEXON,XM DIESEL,Manual,"37,384 km",1st owner,Diesel,DL5C-P9435,"₹12,278/month",₹6.28 Lakh,On Zero down payment,Gurgaon
+157,2020,KIA,SELTOS,HTX PLUS AT1.5 DIESEL,Automatic,"89,649 km",1st owner,Diesel,UP14-EN7757,"₹23,697/month",₹12.45 Lakh,On Zero down payment,Ghaziabad
+158,2019,Maruti,IGNIS,SIGMA 1.2,Manual,"13,147 km",1st owner,Petrol,DL2C-BB1651,"₹9,247/month",₹4.73 Lakh,On Zero down payment,Gurgaon
+159,2014,Maruti,Ertiga,VXI,Manual,"45,864 km",1st owner,Petrol,DL9C-AK4482,"₹11,085/month",₹5.67 Lakh,On Zero down payment,Gurgaon
+160,2018,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,"62,411 km",2nd owner,Diesel,HR26-DM6581,"₹10,362/month",₹5.3 Lakh,On Zero down payment,New Delhi
+161,2016,Honda,Amaze,1.2L I-VTEC SX,Manual,"108,133 km",1st owner,Petrol,HR51-BM1217,"₹6,960/month",₹3.56 Lakh,On Zero down payment,New Delhi
+162,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"53,104 km",1st owner,Petrol,DL4C-AY7189,"₹11,828/month",₹6.05 Lakh,On Zero down payment,Gurgaon
+163,2021,Skoda,Rapid,1.0 AMBITION TSI MT,Manual,"67,205 km",1st owner,Petrol,HR51-CC7900,"₹16,940/month",₹8.9 Lakh,On Zero down payment,Gurgaon
+164,2022,Maruti,Alto,LXI O,Manual,"11,932 km",1st owner,Petrol,DL6C-T2765,"₹7,617/month",₹3.9 Lakh,On Zero down payment,Ghaziabad
+165,2022,Tata,NEXON,XZA PLUS (O) PETROL DARK EDITION,Automatic,"11,788 km",1st owner,Petrol,HR98-D2123,"₹20,509/month",₹10.78 Lakh,On Zero down payment,Gurgaon
+166,2022,Renault,TRIBER,RXL MT,Manual,"49,749 km",1st owner,Petrol,DL3C-CV6979,"₹10,889/month",₹5.57 Lakh,On Zero down payment,Noida
+167,2013,Hyundai,i10,SPORTZ 1.2,Manual,"41,298 km",1st owner,Petrol,CH01-AR5917,"₹5,142/month",₹2.63 Lakh,On Zero down payment,Gurgaon
+168,2020,KIA,SELTOS,HTX 1.5 DIESEL,Manual,"91,690 km",1st owner,Diesel,HR26-EG1027,"₹20,842/month",₹10.95 Lakh,On Zero down payment,Faridabad
+169,2013,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,"70,735 km",2nd owner,Petrol,DL14-C1157,"₹5,044/month",₹2.58 Lakh,On Zero down payment,Noida
+170,2021,Honda,City,1.5L I-VTEC SV,Manual,"14,840 km",1st owner,Petrol,HR26-EP6997,"₹17,492/month",₹9.19 Lakh,On Zero down payment,Gurgaon
+171,2021,Tata,TIGOR,XZ PLUS PETROL,Manual,"40,663 km",1st owner,Petrol,HR24-AD3225,"₹11,965/month",₹6.12 Lakh,On Zero down payment,Gurgaon
+172,2015,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,"84,265 km",2nd owner,Petrol,HR51-BE8066,"₹6,823/month",₹3.49 Lakh,On Zero down payment,Gurgaon
+173,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"37,783 km",1st owner,Petrol,HR30-U6448,"₹11,671/month",₹5.97 Lakh,On Zero down payment,Gurgaon
+174,2018,Hyundai,Creta,SX (O) 1.6 PETROL,Manual,"80,751 km",1st owner,Petrol,UP16-BX1212,"₹17,321/month",₹9.1 Lakh,On Zero down payment,Noida
+175,2011,Honda,City,1.5L I-VTEC S MT,Manual,"80,436 km",2nd owner,Petrol,HR26-BL4504,"₹5,161/month",₹2.64 Lakh,On Zero down payment,Faridabad
+176,2017,Tata,Tiago,WIZZ EDITION PETROL,Manual,"58,073 km",1st owner,Petrol,HR03-W3327,"₹7,429/month",₹3.8 Lakh,On Zero down payment,New Delhi
+177,2021,Toyota,YARIS,G MT,Manual,"23,747 km",1st owner,Petrol,HR51-CD6169,"₹16,788/month",₹8.82 Lakh,On Zero down payment,Gurgaon
+178,2014,Hyundai,Grand i10,MAGNA 1.2 VTVT,Manual,"100,217 km",3rd owner,CNG,DL7C-P5955,"₹5,513/month",₹2.82 Lakh,On Zero down payment,New Delhi
+179,2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,"84,801 km",1st owner,Petrol,HR26-CX4479,"₹9,697/month",₹4.96 Lakh,On Zero down payment,New Delhi
+180,2020,Maruti,S Cross,ALPHA AT SMART HYBRID,Automatic,"24,427 km",1st owner,Petrol,HR51-CA4433,"₹19,129/month",₹10.05 Lakh,On Zero down payment,Gurgaon
+181,2018,Maruti,Vitara Brezza,VDI (O),Manual,"89,908 km",1st owner,Diesel,HR51-BS1576,"₹10,831/month",₹5.54 Lakh,On Zero down payment,Gurgaon
+182,2020,Skoda,Rapid,STYLE TSI,Manual,"113,946 km",1st owner,Petrol,HR26-EM8862,"₹15,341/month",₹8.06 Lakh,On Zero down payment,Gurgaon
+183,2016,Honda,City,1.5L I-VTEC E MT,Manual,"37,672 km",1st owner,Petrol,DL14-CC5192,"₹10,674/month",₹5.46 Lakh,On Zero down payment,Noida
+184,2019,Honda,Jazz,1.2L I-VTEC V,Manual,"35,970 km",1st owner,Petrol,HR26-DY7214,"₹10,909/month",₹5.58 Lakh,On Zero down payment,Faridabad
+185,2011,Maruti,Wagon R 1.0,VXI,Manual,"75,861 km",1st owner,Petrol,HR51-AM9045,"₹3,304/month",₹1.69 Lakh,On Zero down payment,Gurgaon
+186,2019,Maruti,Vitara Brezza,ZDI PLUS AMT,Automatic,"13,001 km",1st owner,Diesel,DL5C-Q9970,"₹15,608/month",₹8.2 Lakh,On Zero down payment,Gurgaon
+187,2020,Tata,Tiago,XZ PLUS PETROL,Manual,"42,882 km",1st owner,Petrol,HR87-F8631,"₹10,674/month",₹5.46 Lakh,On Zero down payment,Gurgaon
+188,2019,Hyundai,VENUE,S 1.2,Manual,"55,280 km",1st owner,Petrol,HR36-AG7509,"₹13,802/month",₹7.06 Lakh,On Zero down payment,Faridabad
+189,2019,Jeep,Compass,LONGITUDE (O) 2.0 DIESEL,Manual,"87,927 km",1st owner,Diesel,DL10-CM8549,"₹22,765/month",₹11.96 Lakh,On Zero down payment,Gurgaon
+190,2016,Maruti,Swift,VXI,Manual,"68,157 km",1st owner,CNG,HR36-Z7632,"₹8,485/month",₹4.34 Lakh,On Zero down payment,Gurgaon
+191,2021,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,"20,810 km",1st owner,Petrol,DL3C-CT7587,"₹16,617/month",₹8.73 Lakh,On Zero down payment,Ghaziabad
+192,2010,Hyundai,i10,SPORTZ 1.2,Manual,"122,483 km",1st owner,Petrol,HR12-Q1370,"₹2,561/month",₹1.31 Lakh,On Zero down payment,Ghaziabad
+193,2017,Honda,City,1.5L I-VTEC V MT,Manual,"53,765 km",1st owner,Petrol,HR26-DG8748,"₹14,193/month",₹7.26 Lakh,On Zero down payment,Gurgaon
+194,2023,Maruti,New Wagon-R,LXI 1.0,Manual,"10,661 km",1st owner,Petrol,HR98-J0682,"₹11,339/month",₹5.8 Lakh,On Zero down payment,Gurgaon
+195,2021,Hyundai,AURA,S 1.2 CNG,Manual,"47,673 km",1st owner,CNG,HR10-AL2530,"₹13,939/month",₹7.13 Lakh,On Zero down payment,Gurgaon
+196,2019,Tata,NEXON,XMA PETROL,Automatic,"69,521 km",2nd owner,Petrol,HR26-EA3409,"₹12,278/month",₹6.28 Lakh,On Zero down payment,Gurgaon
+197,2019,Hyundai,Elite i20,MAGNA PLUS 1.4 CRDI,Manual,"78,813 km",1st owner,Diesel,UP14-EK7555,"₹10,929/month",₹5.59 Lakh,On Zero down payment,Noida
+198,2019,Ford,Ecosport,TITANIUM 1.5L THUNDER EDTION PETROL,Manual,"35,355 km",1st owner,Petrol,HR26-EC3473,"₹16,503/month",₹8.67 Lakh,On Zero down payment,Gurgaon
+199,2019,Hyundai,GRAND I10 NIOS,ASTA U2 1.2 CRDI,Manual,"66,419 km",2nd owner,Diesel,HR06-AV7247,"₹12,375/month",₹6.33 Lakh,On Zero down payment,Gurgaon
+200,2022,KIA,SONET,HTK PLUS 1.0 IMT,Manual,"11,013 km",1st owner,Petrol,DL8C-BD2003,"₹20,081/month",₹10.55 Lakh,On Zero down payment,Noida
+201,2020,Ford,New Figo,TITANIUM 1.2 PETROL MT,Manual,"66,833 km",1st owner,CNG,DL12-CS3856,"₹10,127/month",₹5.18 Lakh,On Zero down payment,New Delhi
+202,2019,Volkswagen,Ameo,TRENDLINE 1.5L,Manual,"54,341 km",1st owner,Diesel,UP14-EF1831,"₹11,202/month",₹5.73 Lakh,On Zero down payment,Noida
+203,2015,Maruti,Ciaz,ZXI,Manual,"48,211 km",1st owner,Petrol,HR26-CR9152,"₹11,026/month",₹5.64 Lakh,On Zero down payment,Gurgaon
+204,2016,Hyundai,Creta,S 1.6 PETROL,Manual,"48,483 km",1st owner,Petrol,HR11-J6520,"₹13,255/month",₹6.78 Lakh,On Zero down payment,Gurgaon
+205,2015,Toyota,Innova,2.5 GX 8 STR,Manual,"82,422 km",1st owner,Diesel,HR29-AJ4011,"₹20,157/month",₹10.59 Lakh,On Zero down payment,Gurgaon
+206,2017,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,"55,162 km",2nd owner,Petrol,DL12-CM2711,"₹10,498/month",₹5.37 Lakh,On Zero down payment,New Delhi
+207,2018,Mahindra,XUV500,W7,Manual,"112,969 km",1st owner,Diesel,HR51-BU6090,"₹15,932/month",₹8.37 Lakh,On Zero down payment,Gurgaon
+208,2019,Mahindra,XUV500,W7 AT,Automatic,"36,821 km",2nd owner,Diesel,DL1C-AB0682,"₹22,837/month",₹12 Lakh,On Zero down payment,Noida
+209,2020,KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,Automatic,"82,433 km",1st owner,Diesel,HR51-CA7647,"₹20,595/month",₹10.82 Lakh,On Zero down payment,New Delhi
+210,2020,KIA,SELTOS,HTX PLUS 1.5 DIESEL,Manual,"64,655 km",1st owner,Diesel,UP14-EJ9608,"₹21,451/month",₹11.27 Lakh,On Zero down payment,Noida
+211,2019,Renault,Duster,85 PS RXS MT DIESEL,Manual,"67,396 km",1st owner,Diesel,UP14-EA9393,"₹13,822/month",₹7.07 Lakh,On Zero down payment,Noida
+212,2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"87,878 km",1st owner,Petrol,DL10-CH9761,"₹16,046/month",₹8.43 Lakh,On Zero down payment,New Delhi
+213,2023,Nissan,MAGNITE,XV PREMIUM,Manual,"6,216 km",1st owner,Petrol,DL9C-BB3379,"₹15,627/month",₹8.21 Lakh,On Zero down payment,Noida
+214,2020,Honda,City,1.5L I-VTE V CVT,Automatic,"55,768 km",1st owner,Petrol,DL14-CE8647,"₹17,359/month",₹9.12 Lakh,On Zero down payment,Noida
+215,2018,Honda,WR-V,1.5L I-DTEC S MT,Manual,"51,594 km",2nd owner,Diesel,DL9C-AP9731,"₹10,010/month",₹5.12 Lakh,On Zero down payment,Noida
+216,2017,Renault,Duster,RXS CVT,Automatic,"80,423 km",2nd owner,Petrol,UP16-BV6820,"₹11,776/month",₹6.02 Lakh,On Zero down payment,New Delhi
+217,2013,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,Manual,"45,636 km",1st owner,Petrol,HR26-BX4313,"₹8,133/month",₹4.16 Lakh,On Zero down payment,Gurgaon
+218,2014,Maruti,Wagon R 1.0,LXI,Manual,"42,346 km",2nd owner,Petrol,DL2C-AS8347,"₹5,670/month",₹2.9 Lakh,On Zero down payment,Ghaziabad
+219,2021,Toyota,URBAN CRUISER,MID GRADE AT,Automatic,"62,441 km",1st owner,Petrol,UP16-DB8388,"₹15,570/month",₹8.18 Lakh,On Zero down payment,New Delhi
+220,2014,Toyota,Etios,G,Manual,"76,413 km",2nd owner,Petrol,HR26-CL9425,"₹7,664/month",₹3.92 Lakh,On Zero down payment,Gurgaon
+221,2018,Maruti,Vitara Brezza,VDI,Manual,"48,217 km",1st owner,Diesel,HR36-AD7595,"₹12,356/month",₹6.32 Lakh,On Zero down payment,Gurgaon
+222,2021,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"6,251 km",1st owner,Petrol,UP16-CY5795,"₹24,687/month",₹12.97 Lakh,On Zero down payment,Ghaziabad
+223,2015,Skoda,Octavia,AMBITION PLUS 1.4 TSI,Manual,"93,874 km",1st owner,Petrol,DL1C-T9022,"₹15,015/month",₹7.68 Lakh,On Zero down payment,Noida
+224,2018,Toyota,Corolla Altis,G DIESEL,Manual,"51,848 km",2nd owner,Diesel,HR51-BT3214,"₹19,434/month",₹10.21 Lakh,On Zero down payment,Gurgaon
+225,2019,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"35,110 km",1st owner,Petrol,HR10-AJ9252,"₹12,766/month",₹6.53 Lakh,On Zero down payment,Gurgaon
+226,2018,Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,Manual,"80,153 km",1st owner,Petrol,HR26-DS8513,"₹12,629/month",₹6.46 Lakh,On Zero down payment,Gurgaon
+227,2021,Renault,Kiger,RXZ 1.0 TURBO MT,Manual,"9,787 km",1st owner,Petrol,DL3C-CU6117,"₹15,410/month",₹7.88 Lakh,On Zero down payment,New Delhi
+228,2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"78,882 km",1st owner,Petrol,HR36-AC2417,"₹9,931/month",₹5.08 Lakh,On Zero down payment,Gurgaon
+229,2016,Honda,Amaze,1.2L I-VTEC SX,Manual,"33,745 km",1st owner,Petrol,DL5C-N1167,"₹8,504/month",₹4.35 Lakh,On Zero down payment,New Delhi
+230,2012,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"46,284 km",1st owner,Petrol,HR26-BU9057,"₹5,200/month",₹2.66 Lakh,On Zero down payment,Faridabad
+231,2021,KIA,SONET,HTK PLUS 1.5 AT,Automatic,"84,800 km",1st owner,Diesel,HR13-R3127,"₹16,864/month",₹8.86 Lakh,On Zero down payment,Noida
+232,2016,Volkswagen,Vento,COMFORTLINE 1.6,Manual,"96,970 km",1st owner,Petrol,HR26-CW7722,"₹9,912/month",₹5.07 Lakh,On Zero down payment,Gurgaon
+233,2018,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,"60,674 km",1st owner,CNG,HR26-DN3188,"₹9,423/month",₹4.82 Lakh,On Zero down payment,Gurgaon
+234,2022,Tata,NEXON,XZA PLUS DIESEL,Automatic,"26,245 km",1st owner,Diesel,HR26-ET6429,"₹20,309/month",₹10.67 Lakh,On Zero down payment,Faridabad
+235,2022,Maruti,S PRESSO,VXI (O) CNG,Manual,"20,856 km",1st owner,CNG,DL6C-T2797,"₹9,478/month",₹4.85 Lakh,On Zero down payment,New Delhi
+236,2020,KIA,SELTOS,HTX 1.5 DIESEL,Manual,"40,754 km",1st owner,Diesel,UP16-CQ7730,"₹23,279/month",₹12.23 Lakh,On Zero down payment,Ghaziabad
+237,2019,Maruti,Swift Dzire,TOUR S DIESEL,Manual,"67,572 km",1st owner,Diesel,HR81-A0704,"₹10,010/month",₹5.12 Lakh,On Zero down payment,Gurgaon
+238,2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"69,197 km",1st owner,Petrol,DL7C-R1034,"₹13,556/month",₹6.93 Lakh,On Zero down payment,Noida
+239,2017,Hyundai,Grand i10,SPORTZ (O) 1.2 AT VTVT,Automatic,"89,733 km",1st owner,Petrol,HR26-DG1761,"₹9,756/month",₹4.99 Lakh,On Zero down payment,New Delhi
+240,2018,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"36,472 km",1st owner,Petrol,HR51-BV4102,"₹14,369/month",₹7.35 Lakh,On Zero down payment,Gurgaon
+241,2020,Maruti,S PRESSO,VXI+,Manual,"31,102 km",2nd owner,Petrol,HR30-W3527,"₹8,680/month",₹4.44 Lakh,On Zero down payment,Gurgaon
+242,2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,"94,089 km",1st owner,Petrol,DL4C-NC9888,"₹10,381/month",₹5.31 Lakh,On Zero down payment,Noida
+243,2018,Hyundai,Creta,1.6 CRDI SX PLUS AUTO,Automatic,"60,349 km",1st owner,Diesel,DL8C-AT7852,"₹19,301/month",₹10.14 Lakh,On Zero down payment,New Delhi
+244,2018,Honda,City,1.5L I-VTE V CVT,Automatic,"52,748 km",1st owner,Petrol,CH01-BT7962,"₹15,798/month",₹8.3 Lakh,On Zero down payment,Gurgaon
+245,2019,Maruti,Vitara Brezza,VDI,Manual,"55,523 km",1st owner,Diesel,HR30-U5992,"₹14,682/month",₹7.51 Lakh,On Zero down payment,Gurgaon
+246,2021,Tata,NEXON,XZ PLUS DIESEL SUNROOF,Manual,"46,501 km",2nd owner,Diesel,HR83-A8836,"₹17,835/month",₹9.37 Lakh,On Zero down payment,Faridabad
+247,2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,"84,749 km",2nd owner,Petrol,DL1C-S2568,"₹9,677/month",₹4.95 Lakh,On Zero down payment,Noida
+248,2018,Datsun,Redi Go,S 1.0 AMT,Automatic,"5,063 km",2nd owner,Petrol,HR51-BW2157,"₹6,256/month",₹3.2 Lakh,On Zero down payment,Gurgaon
+249,2019,Hyundai,Elite i20,MAGNA PLUS 1.4 CRDI,Manual,"65,259 km",1st owner,Diesel,HR51-BZ3058,"₹12,805/month",₹6.55 Lakh,On Zero down payment,Gurgaon
+250,2018,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,"89,202 km",2nd owner,Diesel,HR51-BT6072,"₹10,479/month",₹5.36 Lakh,On Zero down payment,New Delhi
+251,2017,Maruti,Swift,VXI,Manual,"71,763 km",1st owner,Petrol,HR51-BN9091,"₹8,211/month",₹4.2 Lakh,On Zero down payment,Gurgaon
+252,2019,Maruti,Swift,LXI,Manual,"74,150 km",1st owner,Petrol,HR36-AF0925,"₹9,580/month",₹4.9 Lakh,On Zero down payment,New Delhi
+253,2011,Maruti,Swift,LXI,Manual,"21,840 km",1st owner,Petrol,HR51-AM7755,"₹4,321/month",₹2.21 Lakh,On Zero down payment,Gurgaon
+254,2018,Maruti,Dzire,VXI AMT,Automatic,"73,705 km",1st owner,Petrol,HR26-DM2525,"₹10,577/month",₹5.41 Lakh,On Zero down payment,Gurgaon
+255,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"25,403 km",2nd owner,Petrol,HR26-DE6824,"₹9,208/month",₹4.71 Lakh,On Zero down payment,New Delhi
+256,2010,Hyundai,i20,MAGNA (O) 1.2,Manual,"45,751 km",1st owner,Petrol,HR26-BG0538,"₹3,969/month",₹2.03 Lakh,On Zero down payment,Gurgaon
+257,2016,Honda,City,1.5L I-VTEC VX,Manual,"78,853 km",1st owner,Petrol,HR51-BJ5318,"₹13,001/month",₹6.65 Lakh,On Zero down payment,New Delhi
+258,2022,Nissan,MAGNITE,XV TURBO,Manual,"12,963 km",1st owner,Petrol,DL3C-CV7558,"₹15,347/month",₹7.85 Lakh,On Zero down payment,New Delhi
+259,2019,Maruti,Vitara Brezza,VDI,Manual,"50,767 km",1st owner,Diesel,HR29-AT1261,"₹14,487/month",₹7.41 Lakh,On Zero down payment,Gurgaon
+260,2023,Maruti,New Wagon-R,LXI 1.0,Manual,"2,187 km",1st owner,Petrol,DL9C-BB7369,"₹11,347/month",₹5.8 Lakh,On Zero down payment,Noida
+261,2018,Hyundai,Tucson,2WD MT PETROL,Manual,"87,471 km",2nd owner,Petrol,UP14-DM6644,"₹20,092/month",₹10.56 Lakh,On Zero down payment,Noida
+262,2013,Maruti,Ertiga,VXI CNG,Manual,"45,947 km",1st owner,CNG,HR26-CC9767,"₹10,994/month",₹5.62 Lakh,On Zero down payment,Faridabad
+263,2016,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"85,035 km",1st owner,CNG,HR26-CZ6013,"₹13,763/month",₹7.04 Lakh,On Zero down payment,New Delhi
+264,2019,Jeep,Compass,SPORT 2.0 DIESEL,Manual,"93,467 km",1st owner,Diesel,HR50-H1900,"₹19,510/month",₹10.25 Lakh,On Zero down payment,Faridabad
+265,2020,KIA,SONET,HTK PLUS 1.5,Manual,"64,930 km",1st owner,Diesel,HR26-EM6150,"₹17,683/month",₹9.29 Lakh,On Zero down payment,Gurgaon
+266,2021,Toyota,Glanza,V,Manual,"24,378 km",1st owner,Petrol,HR82-B1166,"₹13,386/month",₹6.85 Lakh,On Zero down payment,Gurgaon
+267,2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"95,055 km",1st owner,Petrol,HR26-DE1008,"₹10,459/month",₹5.35 Lakh,On Zero down payment,Gurgaon
+268,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"12,703 km",1st owner,Petrol,HR26-ER6204,"₹13,431/month",₹6.87 Lakh,On Zero down payment,Gurgaon
+269,2020,KIA,SELTOS,HTX PLUS AT1.5 DIESEL,Automatic,"99,606 km",1st owner,Diesel,UP14-EM6195,"₹23,317/month",₹12.25 Lakh,On Zero down payment,New Delhi
+270,2017,Tata,Tiago,XZA PETROL,Automatic,"82,422 km",1st owner,Petrol,DL12-CM6068,"₹8,622/month",₹4.41 Lakh,On Zero down payment,Noida
+271,2018,Maruti,Swift,VDI,Manual,"66,434 km",1st owner,Diesel,HR36-AD9611,"₹11,026/month",₹5.64 Lakh,On Zero down payment,Faridabad
+272,2017,Ford,Ecosport,TREND+ 1.0L ECOBOOST,Manual,"76,676 km",1st owner,Petrol,DL3C-CL8011,"₹10,107/month",₹5.17 Lakh,On Zero down payment,New Delhi
+273,2017,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"36,637 km",1st owner,Petrol,UP32-JK5032,"₹9,247/month",₹4.73 Lakh,On Zero down payment,Noida
+274,2020,Maruti,S PRESSO,VXI PLUS AMT,Automatic,"47,874 km",1st owner,Petrol,DL1C-AC4284,"₹8,583/month",₹4.39 Lakh,On Zero down payment,Noida
+275,2019,Maruti,Swift,VXI,Manual,"65,492 km",2nd owner,Petrol,DL9C-AS0257,"₹9,756/month",₹4.99 Lakh,On Zero down payment,Ghaziabad
+276,2018,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"99,901 km",1st owner,Petrol,DL7C-Q2547,"₹9,873/month",₹5.05 Lakh,On Zero down payment,Faridabad
+277,2019,Maruti,Ciaz,ALPHA DIESEL 1.5,Manual,"92,089 km",3rd owner,Diesel,HR26-DX4755,"₹15,026/month",₹7.69 Lakh,On Zero down payment,Faridabad
+278,2019,Maruti,Ciaz,DELTA DIESEL 1.5,Manual,"60,619 km",1st owner,Diesel,HR05-X0025,"₹15,085/month",₹7.72 Lakh,On Zero down payment,Gurgaon
+279,2010,Honda,City,1.5L I-VTEC V EXCLUSIVE,Manual,"101,161 km",1st owner,Petrol,DL3C-BM9447,"₹4,633/month",₹2.37 Lakh,On Zero down payment,Gurgaon
+280,2021,Maruti,Alto,LXI CNG,Manual,"27,284 km",1st owner,CNG,DL6C-T0138,"₹8,055/month",₹4.12 Lakh,On Zero down payment,New Delhi
+281,2019,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"47,734 km",1st owner,Petrol,HR30-V7956,"₹17,340/month",₹9.11 Lakh,On Zero down payment,Faridabad
+282,2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"85,507 km",1st owner,Petrol,HR26-DD2823,"₹16,560/month",₹8.7 Lakh,On Zero down payment,Faridabad
+283,2021,Maruti,Dzire,VXI AMT,Automatic,"48,982 km",1st owner,Petrol,HR98-A3128,"₹13,607/month",₹6.96 Lakh,On Zero down payment,Gurgaon
+284,2021,Tata,NEXON,XZ PLUS PETROL SUNROOF,Manual,"9,875 km",1st owner,Petrol,HR34-L4209,"₹19,320/month",₹10.15 Lakh,On Zero down payment,Faridabad
+285,2017,Volkswagen,Polo,COMFORTLINE 1.2L,Manual,"94,382 km",2nd owner,Petrol,HR51-BP8955,"₹9,892/month",₹5.06 Lakh,On Zero down payment,Faridabad
+286,2015,Maruti,Swift,VDI ABS,Manual,"117,499 km",1st owner,Diesel,HR30-N4211,"₹7,148/month",₹3.66 Lakh,On Zero down payment,Gurgaon
+287,2012,Hyundai,Verna,FLUIDIC 1.6 VTVT EX,Manual,"45,507 km",1st owner,Petrol,DL10-CD2845,"₹7,077/month",₹3.62 Lakh,On Zero down payment,Noida
+288,2019,Jeep,Compass,LIMITED 1.4 PETROL AT,Automatic,"65,357 km",1st owner,Petrol,DL10-CM8496,"₹24,950/month",₹13.11 Lakh,On Zero down payment,Ghaziabad
+289,2019,MG,HECTOR,SHARP 2.0 DIESEL,Manual,"33,073 km",1st owner,Diesel,DL8C-AZ1668,"₹25,696/month",₹13.5 Lakh,On Zero down payment,Noida
+290,2022,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"1,085 km",1st owner,Petrol,UP14-FB4999,"₹22,403/month",₹11.77 Lakh,On Zero down payment,Noida
+291,2014,Toyota,Corolla Altis,VL AT PETROL,Automatic,"117,664 km",1st owner,Petrol,HR26-CK8691,"₹13,716/month",₹7.02 Lakh,On Zero down payment,Gurgaon
+292,2011,Toyota,Corolla Altis,G PETROL,Manual,"82,699 km",2nd owner,Petrol,HR26-BK9628,"₹5,689/month",₹2.91 Lakh,On Zero down payment,Gurgaon
+293,2020,Volkswagen,Polo,HIGHLINE PLUS 1.0,Manual,"96,958 km",1st owner,Petrol,UP16-CQ7562,"₹12,766/month",₹6.53 Lakh,On Zero down payment,Noida
+294,2017,Maruti,Swift,LXI (O),Manual,"94,733 km",1st owner,Petrol,DL6C-Q8260,"₹7,116/month",₹3.64 Lakh,On Zero down payment,Ghaziabad
+295,2017,Maruti,Ciaz,ZETA 1.4  AT PETROL,Automatic,"62,406 km",2nd owner,CNG,DL9C-AP0497,"₹13,235/month",₹6.77 Lakh,On Zero down payment,Noida
+296,2023,Maruti,New Wagon-R,LXI 1.0,Manual,"3,962 km",1st owner,Petrol,HR51-CL2314,"₹11,261/month",₹5.76 Lakh,On Zero down payment,Gurgaon
+297,2021,Maruti,Vitara Brezza,LXI,Manual,"46,319 km",1st owner,Petrol,HR26-EQ4303,"₹14,213/month",₹7.27 Lakh,On Zero down payment,Gurgaon
+298,2016,Hyundai,Creta,S 1.6 PETROL,Manual,"54,986 km",1st owner,Petrol,DL8C-AN1723,"₹14,506/month",₹7.42 Lakh,On Zero down payment,Gurgaon
+299,2019,Maruti,IGNIS,DELTA 1.2,Manual,"67,221 km",1st owner,Petrol,HR51-BW4082,"₹9,208/month",₹4.71 Lakh,On Zero down payment,Faridabad
+300,2020,Ford,FREESTYLE,TITANIUM PLUS 1.2 PETROL,Manual,"66,787 km",1st owner,Petrol,UP70-FN2009,"₹11,144/month",₹5.7 Lakh,On Zero down payment,Noida
+301,2018,Hyundai,Xcent,SX 1.2 (O),Manual,"12,880 km",1st owner,Petrol,DL5C-P8744,"₹12,082/month",₹6.18 Lakh,On Zero down payment,New Delhi
+302,2016,Honda,Amaze,1.2L I-VTEC VX,Manual,"50,466 km",2nd owner,Petrol,HR26-CW1126,"₹10,498/month",₹5.37 Lakh,On Zero down payment,Faridabad
+303,2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"58,989 km",1st owner,Petrol,HR26-DQ4502,"₹17,587/month",₹9.24 Lakh,On Zero down payment,Faridabad
+304,2021,Maruti,Vitara Brezza,LXI,Manual,"26,742 km",1st owner,Petrol,HR26-EP8673,"₹14,076/month",₹7.2 Lakh,On Zero down payment,Gurgaon
+305,2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,"26,565 km",1st owner,Petrol,HR10-AM9777,"₹18,120/month",₹9.52 Lakh,On Zero down payment,Gurgaon
+306,2016,Maruti,Celerio,VXI AMT,Automatic,"98,397 km",1st owner,Petrol,HR51-BL6935,"₹6,764/month",₹3.46 Lakh,On Zero down payment,Gurgaon
+307,2017,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,"71,266 km",2nd owner,Petrol,DL12-CM4976,"₹9,877/month",₹5.05 Lakh,On Zero down payment,Noida
+308,2018,Maruti,Wagon R 1.0,VXI AMT,Automatic,"55,744 km",1st owner,Petrol,UP25-CE3439,"₹8,113/month",₹4.15 Lakh,On Zero down payment,Ghaziabad
+309,2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"63,054 km",1st owner,Petrol,DL3C-CM9811,"₹16,484/month",₹8.66 Lakh,On Zero down payment,Noida
+310,2011,Hyundai,Santro Xing,GL,Manual,"40,462 km",2nd owner,Petrol,DL10-CD0443,"₹3,206/month",₹1.64 Lakh,On Zero down payment,Noida
+311,2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"20,856 km",1st owner,Petrol,HR51-CC0364,"₹12,473/month",₹6.38 Lakh,On Zero down payment,New Delhi
+312,2021,Nissan,MAGNITE,XV TURBO,Manual,"9,075 km",2nd owner,Petrol,UP14-EY4676,"₹14,174/month",₹7.25 Lakh,On Zero down payment,Noida
+313,2019,Hyundai,NEW SANTRO,SPORTZ MT,Manual,"41,017 km",2nd owner,Petrol,HR26-EA4418,"₹9,873/month",₹5.05 Lakh,On Zero down payment,Gurgaon
+314,2015,Toyota,Etios,VX,Manual,"14,512 km",2nd owner,Petrol,DL1C-T4607,"₹8,895/month",₹4.55 Lakh,On Zero down payment,Ghaziabad
+315,2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,"96,027 km",2nd owner,Diesel,HR26-DP4809,"₹13,118/month",₹6.71 Lakh,On Zero down payment,Gurgaon
+316,2017,Maruti,Ciaz,ZETA 1.4  MT PETROL,Manual,"78,523 km",1st owner,Petrol,HR26-DH8995,"₹12,395/month",₹6.34 Lakh,On Zero down payment,Faridabad
+317,2018,Hyundai,Elite i20,SPORTZ 1.2,Manual,"54,617 km",1st owner,Petrol,HR36-AD8824,"₹10,909/month",₹5.58 Lakh,On Zero down payment,New Delhi
+318,2011,Volkswagen,Vento,HIGHLINE PETROL AT,Automatic,"67,403 km",2nd owner,Petrol,DL6C-J9324,"₹7,136/month",₹3.65 Lakh,On Zero down payment,Gurgaon
+319,2020,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"57,803 km",1st owner,Petrol,DL12-CS4484,"₹15,665/month",₹8.23 Lakh,On Zero down payment,New Delhi
+320,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"49,672 km",1st owner,Petrol,UP32-KQ2332,"₹10,674/month",₹5.46 Lakh,On Zero down payment,Noida
+321,2018,Maruti,Vitara Brezza,VDI,Manual,"66,135 km",2nd owner,Diesel,DL4C-AY3329,"₹11,241/month",₹5.75 Lakh,On Zero down payment,Noida
+322,2022,Maruti,BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,"23,928 km",1st owner,Petrol,DL3C-CW7876,"₹21,299/month",₹11.19 Lakh,On Zero down payment,Noida
+323,2019,Maruti,S PRESSO,VXI AMT,Automatic,"75,346 km",1st owner,Petrol,HR26-EF7899,"₹8,113/month",₹4.15 Lakh,On Zero down payment,Gurgaon
+324,2021,Honda,Amaze,1.5L I-DTEC VX CVT,Automatic,"49,813 km",1st owner,Diesel,HR10-AL8088,"₹16,769/month",₹8.81 Lakh,On Zero down payment,New Delhi
+325,2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,"30,890 km",2nd owner,Petrol,HR30-U0406,"₹11,730/month",₹6 Lakh,On Zero down payment,New Delhi
+326,2019,Honda,Amaze,1.5L I-DTEC VX CVT,Automatic,"55,414 km",2nd owner,Diesel,HR98-G8523,"₹15,520/month",₹8.15 Lakh,On Zero down payment,Gurgaon
+327,2010,Maruti,Ritz,VXI,Manual,"82,020 km",2nd owner,Petrol,DL2C-AL3018,"₹2,796/month",₹1.43 Lakh,On Zero down payment,Gurgaon
+328,2010,Maruti,Wagon R 1.0,VXI,Manual,"59,180 km",1st owner,Petrol,HR26-BC3969,"₹3,363/month",₹1.72 Lakh,On Zero down payment,New Delhi
+329,2018,Maruti,Vitara Brezza,ZDI,Manual,"90,596 km",1st owner,Diesel,DL1C-Z0796,"₹11,945/month",₹6.11 Lakh,On Zero down payment,Noida
+330,2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,"51,832 km",2nd owner,Petrol,DL14-CE5041,"₹11,183/month",₹5.72 Lakh,On Zero down payment,Noida
+331,2012,Honda,City,1.5L I-VTEC V AT,Automatic,"67,781 km",1st owner,Petrol,DL3C-BE6636,"₹7,292/month",₹3.73 Lakh,On Zero down payment,Noida
+332,2014,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"26,341 km",1st owner,Petrol,HR51-BB8103,"₹7,937/month",₹4.06 Lakh,On Zero down payment,Faridabad
+333,2022,Tata,TIGOR,XZ PLUS CNG,Manual,"52,479 km",1st owner,CNG,UP16-DH5512,"₹14,205/month",₹7.27 Lakh,On Zero down payment,Ghaziabad
+334,2021,Honda,Amaze,1.2L I-VTEC S,Manual,"28,250 km",1st owner,Petrol,HR51-CD9259,"₹12,610/month",₹6.45 Lakh,On Zero down payment,Faridabad
+335,2019,Tata,Harrier,XZ 2.0L DARK EDITION,Manual,"60,431 km",1st owner,Diesel,HR26-EC9072,"₹23,374/month",₹12.28 Lakh,On Zero down payment,New Delhi
+336,2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"84,073 km",2nd owner,Petrol,DL3C-CM9142,"₹14,291/month",₹7.31 Lakh,On Zero down payment,Noida
+337,2015,Toyota,Etios Liva,G,Manual,"88,086 km",2nd owner,Petrol,DL8C-AK4465,"₹6,139/month",₹3.14 Lakh,On Zero down payment,New Delhi
+338,2010,Hyundai,i10,SPORTZ 1.2,Manual,"74,924 km",2nd owner,Petrol,HR51-AJ6930,"₹2,913/month",₹1.49 Lakh,On Zero down payment,New Delhi
+339,2020,Tata,Tiago,XE PETROL,Manual,"22,064 km",1st owner,Petrol,UP42-BA6091,"₹9,677/month",₹4.95 Lakh,On Zero down payment,Ghaziabad
+340,2013,Honda,Amaze,1.2L I-VTEC S,Manual,"55,508 km",1st owner,Petrol,DL4C-AW0116,"₹6,100/month",₹3.12 Lakh,On Zero down payment,Ghaziabad
+341,2019,Maruti,Dzire,ZDI PLUS AMT,Automatic,"84,007 km",2nd owner,Diesel,HR26-DZ5077,"₹13,701/month",₹7.01 Lakh,On Zero down payment,New Delhi
+342,2023,Maruti,Baleno,ZETA 1.2 AGS,Automatic,"15,495 km",1st owner,Petrol,UP14-FQ0269,"₹15,513/month",₹8.15 Lakh,On Zero down payment,Noida
+343,2019,Mahindra,XUV500,W9 AT,Automatic,"47,525 km",2nd owner,Diesel,DL8C-AY8126,"₹24,040/month",₹12.63 Lakh,On Zero down payment,New Delhi
+344,2019,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"73,097 km",1st owner,Petrol,DL12-CR3803,"₹13,372/month",₹6.84 Lakh,On Zero down payment,New Delhi
+345,2020,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"35,948 km",2nd owner,Petrol,DL8C-AZ6778,"₹13,920/month",₹7.12 Lakh,On Zero down payment,Noida
+346,2015,Hyundai,Elite i20,SPORTZ 1.2,Manual,"39,402 km",1st owner,Petrol,DL8C-AL0109,"₹9,247/month",₹4.73 Lakh,On Zero down payment,New Delhi
+347,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"45,289 km",1st owner,CNG,DL1C-AE7435,"₹12,583/month",₹6.44 Lakh,On Zero down payment,New Delhi
+348,2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"18,659 km",2nd owner,Petrol,DL12-CS4536,"₹12,004/month",₹6.14 Lakh,On Zero down payment,New Delhi
+349,2019,Mahindra,XUV500,W9,Manual,"46,118 km",1st owner,Diesel,UP14-EB5112,"₹21,299/month",₹11.19 Lakh,On Zero down payment,Noida
+350,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"55,321 km",1st owner,Diesel,HR26-DX1690,"₹14,272/month",₹7.3 Lakh,On Zero down payment,Faridabad
+351,2010,Honda,City,1.5L I-VTEC V MT,Manual,"115,507 km",1st owner,Petrol,DL9C-U1424,"₹3,343/month",₹1.71 Lakh,On Zero down payment,New Delhi
+352,2020,Tata,NEXON,XM SUNROOF DIESEL,Manual,"70,684 km",1st owner,Diesel,DL7C-R8963,"₹14,995/month",₹7.67 Lakh,On Zero down payment,Gurgaon
+353,2018,Volkswagen,Ameo,TRENDLINE 1.0L,Manual,"66,903 km",1st owner,Petrol,HR26-DT6007,"₹10,123/month",₹5.18 Lakh,On Zero down payment,Faridabad
+354,2019,Hyundai,NEW SANTRO,SPORTZ AMT,Automatic,"16,126 km",1st owner,Petrol,DL12-CR9879,"₹10,839/month",₹5.54 Lakh,On Zero down payment,Gurgaon
+355,2013,Honda,Amaze,1.2L I-VTEC VX AT,Automatic,"77,130 km",2nd owner,Petrol,DL4C-AN8821,"₹7,390/month",₹3.78 Lakh,On Zero down payment,Noida
+356,2019,Tata,TIGOR,XZ PETROL,Manual,"40,223 km",1st owner,Petrol,DL4C-AZ0716,"₹9,873/month",₹5.05 Lakh,On Zero down payment,Noida
+357,2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"17,194 km",1st owner,Petrol,DL8C-AE0748,"₹5,963/month",₹3.05 Lakh,On Zero down payment,New Delhi
+358,2019,Tata,Harrier,XZ DARK EDITION,Manual,"52,860 km",2nd owner,Diesel,HR26-ED3450,"₹23,869/month",₹12.54 Lakh,On Zero down payment,Gurgaon
+359,2018,Maruti,Dzire,VXI AMT,Automatic,"45,469 km",2nd owner,Petrol,DL9C-AP6288,"₹10,373/month",₹5.31 Lakh,On Zero down payment,New Delhi
+360,2019,Hyundai,VENUE,SX 1.0 (O) TURBO,Manual,"26,853 km",1st owner,Petrol,UP14-EB9733,"₹16,655/month",₹8.75 Lakh,On Zero down payment,Noida
+361,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"44,203 km",1st owner,Petrol,DL9C-AN4467,"₹12,669/month",₹6.48 Lakh,On Zero down payment,Ghaziabad
+362,2022,Tata,Tiago,XZ PLUS CNG,Manual,"37,466 km",1st owner,CNG,UP16-DC5788,"₹12,786/month",₹6.54 Lakh,On Zero down payment,Ghaziabad
+363,2012,Maruti,Swift,ZXI,Manual,"70,054 km",1st owner,Petrol,DL12-CC5270,"₹6,080/month",₹3.11 Lakh,On Zero down payment,Noida
+364,2011,Toyota,Etios,G,Manual,"75,766 km",1st owner,Petrol,HR26-BK6598,"₹4,438/month",₹2.27 Lakh,On Zero down payment,Gurgaon
+365,2017,Maruti,Swift,VXI O,Manual,"97,031 km",1st owner,Petrol,UP32-HV4748,"₹7,957/month",₹4.07 Lakh,On Zero down payment,Ghaziabad
+366,2010,Maruti,Wagon R 1.0,VXI,Manual,"84,429 km",1st owner,Petrol,DL1C-N1126,"₹2,913/month",₹1.49 Lakh,On Zero down payment,New Delhi
+367,2020,Honda,Amaze,1.2L I-VTEC S,Manual,"55,598 km",1st owner,Petrol,UP14-EJ6999,"₹11,828/month",₹6.05 Lakh,On Zero down payment,Noida
+368,2017,Hyundai,Xcent,SX 1.2,Manual,"69,550 km",2nd owner,CNG,DL7C-Q1457,"₹10,010/month",₹5.12 Lakh,On Zero down payment,Noida
+369,2019,Tata,Harrier,XZ 2.0L,Manual,"74,257 km",1st owner,Diesel,UP14-DZ4005,"₹21,166/month",₹11.12 Lakh,On Zero down payment,Noida
+370,2021,Tata,ALTROZ,XZ PLUS I-TURBO PETROL,Manual,"13,127 km",1st owner,Petrol,DL9C-AZ4428,"₹15,230/month",₹7.79 Lakh,On Zero down payment,Noida
+371,2019,Honda,Jazz,1.2L I-VTEC VX,Manual,"14,115 km",1st owner,Petrol,DL10-CL8534,"₹12,649/month",₹6.47 Lakh,On Zero down payment,New Delhi
+372,2016,Honda,City,1.5L I-VTEC VX,Manual,"46,324 km",1st owner,Petrol,UP14-DB3931,"₹14,076/month",₹7.2 Lakh,On Zero down payment,Ghaziabad
+373,2018,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"24,749 km",1st owner,Petrol,HR26-DL2970,"₹12,160/month",₹6.22 Lakh,On Zero down payment,Faridabad
+374,2013,Maruti,Wagon R Stingray,LXI,Manual,"82,031 km",2nd owner,Petrol,DL8C-W8925,"₹5,122/month",₹2.62 Lakh,On Zero down payment,Noida
+375,2021,Nissan,MAGNITE,XV MT,Manual,"24,643 km",1st owner,Petrol,DL3C-CV1126,"₹14,174/month",₹7.25 Lakh,On Zero down payment,Noida
+376,2022,Tata,Tiago,XZ PLUS CNG,Manual,"16,712 km",1st owner,CNG,DL8C-BD1875,"₹13,392/month",₹6.85 Lakh,On Zero down payment,Ghaziabad
+377,2019,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"4,511 km",1st owner,Petrol,DL9C-AS4566,"₹15,073/month",₹7.71 Lakh,On Zero down payment,New Delhi
+378,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"43,504 km",1st owner,CNG,HR30-U1590,"₹11,926/month",₹6.1 Lakh,On Zero down payment,Faridabad
+379,2019,Tata,Harrier,XZ 2.0L,Manual,"73,787 km",1st owner,Diesel,DL10-CL9901,"₹21,661/month",₹11.38 Lakh,On Zero down payment,Noida
+380,2016,Honda,Jazz,1.2L I-VTEC VX,Manual,"70,551 km",1st owner,Petrol,DL1C-R9891,"₹8,837/month",₹4.52 Lakh,On Zero down payment,New Delhi
+381,2012,Honda,Brio,E MT,Manual,"83,271 km",1st owner,Petrol,UP16-AJ8471,"₹4,164/month",₹2.13 Lakh,On Zero down payment,Ghaziabad
+382,2022,Tata,TIGOR,XZ PLUS PETROL,Manual,"10,841 km",1st owner,Petrol,UP16-DK3128,"₹13,255/month",₹6.78 Lakh,On Zero down payment,Noida
+383,2016,Honda,City,V MT PETROL,Manual,"87,833 km",1st owner,CNG,DL9C-AL7681,"₹11,476/month",₹5.87 Lakh,On Zero down payment,Noida
+384,2020,Ford,Ecosport,TITANIUM 1.5 SPORTS(SUNROOF) PETROL,Manual,"68,001 km",1st owner,Petrol,UP14-EJ0019,"₹19,262/month",₹10.12 Lakh,On Zero down payment,Noida
+385,2010,Hyundai,i20,SPORTZ 1.2,Manual,"46,385 km",1st owner,Petrol,DL7C-L1334,"₹3,879/month",₹1.98 Lakh,On Zero down payment,New Delhi
+386,2014,Toyota,Corolla Altis,G PETROL,Manual,"78,895 km",2nd owner,Petrol,UP78-DS0010,"₹10,733/month",₹5.49 Lakh,On Zero down payment,Noida
+387,2019,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,"55,396 km",1st owner,Diesel,DL9C-AS2421,"₹12,571/month",₹6.43 Lakh,On Zero down payment,Noida
+388,2020,Renault,Kwid,RXT 0.8,Manual,"26,154 km",1st owner,Petrol,HR98-7730,"₹8,113/month",₹4.15 Lakh,On Zero down payment,Gurgaon
+389,2021,Maruti,Swift,VXI AMT,Automatic,"35,477 km",1st owner,Petrol,HR26-EM2470,"₹14,154/month",₹7.24 Lakh,On Zero down payment,Gurgaon
+390,2022,Tata,TIGOR,XZ PLUS CNG,Manual,"31,870 km",1st owner,CNG,HR06-BB8505,"₹15,503/month",₹7.93 Lakh,On Zero down payment,Gurgaon
+391,2019,Tata,TIGOR,XZA PETROL,Automatic,"70,408 km",1st owner,Petrol,DL3C-CR1776,"₹10,768/month",₹5.51 Lakh,On Zero down payment,New Delhi
+392,2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"29,044 km",2nd owner,Petrol,UP16-CH4695,"₹18,387/month",₹9.66 Lakh,On Zero down payment,Noida
+393,2022,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"10,090 km",1st owner,Petrol,DL5C-T7058,"₹17,340/month",₹9.11 Lakh,On Zero down payment,Noida
+394,2010,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,"88,686 km",1st owner,Petrol,DL4C-NA4057,"₹3,930/month",₹2.01 Lakh,On Zero down payment,New Delhi
+395,2017,Ford,Ecosport,TITANIUM + 1.5L PETROL,Manual,"53,429 km",1st owner,Petrol,DL12-CL2385,"₹12,532/month",₹6.41 Lakh,On Zero down payment,Noida
+396,2016,Honda,Jazz,1.2L I-VTEC VX,Manual,"35,788 km",2nd owner,Petrol,HR26-CW1339,"₹9,247/month",₹4.73 Lakh,On Zero down payment,New Delhi
+397,2018,Mahindra,KUV 100 NXT,K6+ D 6 STR,Manual,"63,907 km",2nd owner,Diesel,DL10-CL6189,"₹9,521/month",₹4.87 Lakh,On Zero down payment,Ghaziabad
+398,2014,Maruti,Celerio,VXI AMT,Automatic,"53,717 km",1st owner,Petrol,UP14-CJ5044,"₹6,491/month",₹3.32 Lakh,On Zero down payment,Noida
+399,2015,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"53,772 km",1st owner,Petrol,HR26-CT3064,"₹7,468/month",₹3.82 Lakh,On Zero down payment,Faridabad
+400,2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"26,798 km",1st owner,Petrol,HR51-BR5105,"₹8,876/month",₹4.54 Lakh,On Zero down payment,Faridabad
+401,2015,Maruti,Ciaz,ZXI,Manual,"51,093 km",1st owner,Petrol,HR26-CT1429,"₹9,912/month",₹5.07 Lakh,On Zero down payment,Gurgaon
+402,2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"38,203 km",1st owner,Petrol,UP16-CE2223,"₹19,510/month",₹10.25 Lakh,On Zero down payment,Noida
+403,2018,Honda,City,1.5L I-DTEC SV,Manual,"73,514 km",1st owner,Diesel,HR51-BT6874,"₹12,102/month",₹6.19 Lakh,On Zero down payment,New Delhi
+404,2019,Maruti,S PRESSO,VXI,Manual,"54,923 km",2nd owner,Petrol,HR06-AV8685,"₹7,996/month",₹4.09 Lakh,On Zero down payment,Gurgaon
+405,2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,"49,451 km",1st owner,Petrol,DL3C-CT5638,"₹16,636/month",₹8.74 Lakh,On Zero down payment,Noida
+406,2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,"64,129 km",2nd owner,Petrol,HR10-AB3081,"₹10,147/month",₹5.19 Lakh,On Zero down payment,Faridabad
+407,2019,Tata,NEXON,XM DIESEL,Manual,"60,433 km",1st owner,Diesel,HR26-DY9656,"₹12,324/month",₹6.3 Lakh,On Zero down payment,Gurgaon
+408,2021,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,"39,356 km",1st owner,Petrol,UP14-EU8408,"₹9,169/month",₹4.69 Lakh,On Zero down payment,Noida
+409,2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,"84,904 km",1st owner,Petrol,DL4C-AX0772,"₹9,540/month",₹4.88 Lakh,On Zero down payment,New Delhi
+410,2018,Honda,WR-V,1.5L I-DTEC VX MT,Manual,"85,959 km",1st owner,Diesel,UP16-BZ8574,"₹12,193/month",₹6.24 Lakh,On Zero down payment,Noida
+411,2019,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,"24,618 km",1st owner,Petrol,UP14-EB5136,"₹10,870/month",₹5.56 Lakh,On Zero down payment,Ghaziabad
+412,2021,Tata,Tiago,XT PETROL,Manual,"7,605 km",1st owner,Petrol,DL7C-S6181,"₹11,308/month",₹5.78 Lakh,On Zero down payment,Noida
+413,2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"79,740 km",1st owner,Petrol,HR20-AC4808,"₹6,686/month",₹3.42 Lakh,On Zero down payment,Faridabad
+414,2016,Honda,Jazz,1.2L I-VTEC VX,Manual,"71,851 km",1st owner,Petrol,HR26-CW6963,"₹9,834/month",₹5.03 Lakh,On Zero down payment,Gurgaon
+415,2018,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"79,697 km",1st owner,Diesel,HR30-S9340,"₹11,799/month",₹6.04 Lakh,On Zero down payment,New Delhi
+416,2022,Tata,NEXON,XZ PLUS (HS) PETROL DARK EDITION,Manual,"7,184 km",1st owner,Petrol,DL11-CD4629,"₹20,100/month",₹10.56 Lakh,On Zero down payment,New Delhi
+417,2012,Maruti,Swift Dzire,VXI,Manual,"102,917 km",2nd owner,Petrol,DL8C-U5173,"₹4,438/month",₹2.27 Lakh,On Zero down payment,Noida
+418,2017,Maruti,Wagon R 1.0,LXI,Manual,"79,416 km",1st owner,Petrol,HR26-DJ2913,"₹6,452/month",₹3.3 Lakh,On Zero down payment,New Delhi
+419,2016,Toyota,Etios,VX,Manual,"63,228 km",1st owner,Petrol,DL8C-AL8391,"₹9,580/month",₹4.9 Lakh,On Zero down payment,Noida
+420,2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"91,980 km",1st owner,Petrol,HR26-CX6241,"₹8,641/month",₹4.42 Lakh,On Zero down payment,Noida
+421,2016,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"70,554 km",1st owner,Petrol,HR31-L6894,"₹7,331/month",₹3.75 Lakh,On Zero down payment,Gurgaon
+422,2016,Honda,BR-V,1.5L I-VTEC VX,Manual,"68,685 km",1st owner,Petrol,DL4C-AX0956,"₹12,551/month",₹6.42 Lakh,On Zero down payment,Noida
+423,2012,Maruti,Swift Dzire,VXI,Manual,"45,610 km",2nd owner,Petrol,UP16-AJ7903,"₹6,608/month",₹3.38 Lakh,On Zero down payment,Ghaziabad
+424,2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,"62,932 km",2nd owner,Petrol,HR26-EF3297,"₹10,557/month",₹5.4 Lakh,On Zero down payment,New Delhi
+425,2019,Honda,Amaze,1.5L I-DTEC S CVT,Automatic,"75,354 km",1st owner,Diesel,DL8C-AX3340,"₹11,445/month",₹5.85 Lakh,On Zero down payment,Noida
+426,2010,Maruti,Wagon R 1.0,VXI,Manual,"61,569 km",2nd owner,Petrol,HR50-B6763,"₹3,324/month",₹1.7 Lakh,On Zero down payment,New Delhi
+427,2010,Hyundai,i10,SPORTZ 1.2,Manual,"39,838 km",1st owner,Petrol,DL2C-AM1979,"₹3,312/month",₹1.69 Lakh,On Zero down payment,New Delhi
+428,2014,Maruti,Swift Dzire,ZXI,Manual,"108,939 km",2nd owner,Petrol,HR35-J7120,"₹7,234/month",₹3.7 Lakh,On Zero down payment,New Delhi
+429,2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,"66,858 km",2nd owner,Petrol,DL10-CA7364,"₹2,972/month",₹1.52 Lakh,On Zero down payment,New Delhi
+430,2010,Hyundai,i10,ERA 1.1,Manual,"67,139 km",1st owner,Petrol,DL8C-T4961,"₹2,620/month",₹1.34 Lakh,On Zero down payment,Noida
+431,2017,Maruti,Swift Dzire,VXI,Manual,"58,336 km",1st owner,Petrol,UP14-DD1833,"₹9,099/month",₹4.65 Lakh,On Zero down payment,Noida
+432,2016,Honda,Jazz,1.2L I-VTEC VX,Manual,"68,927 km",1st owner,Petrol,DL12-CJ4344,"₹8,974/month",₹4.59 Lakh,On Zero down payment,Gurgaon
+433,2016,Hyundai,Elite i20,MAGNA 1.2,Manual,"88,751 km",1st owner,Petrol,UP14-CY0105,"₹9,325/month",₹4.77 Lakh,On Zero down payment,Ghaziabad
+434,2019,Maruti,Dzire,VXI,Manual,"48,688 km",1st owner,Petrol,UP16-CC5519,"₹10,870/month",₹5.56 Lakh,On Zero down payment,Noida
+435,2017,Skoda,Rapid,MONTE CARLO 1.6 MPI AT,Automatic,"37,938 km",2nd owner,CNG,DL8C-AT2650,"₹13,705/month",₹7.01 Lakh,On Zero down payment,Noida
+436,2022,Tata,NEXON,XMA SUNROOF PETROL,Automatic,"15,050 km",1st owner,Petrol,UP16-DC3308,"₹17,530/month",₹9.21 Lakh,On Zero down payment,Ghaziabad
+437,2010,Hyundai,i10,SPORTZ 1.2,Manual,"30,182 km",1st owner,Petrol,DL3C-BQ4786,"₹2,757/month",₹1.41 Lakh,On Zero down payment,New Delhi
+438,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"32,116 km",1st owner,Petrol,DL3C-BP4095,"₹3,969/month",₹2.03 Lakh,On Zero down payment,Noida
+439,2010,Volkswagen,Vento,COMFORTLINE 1.6,Manual,"74,715 km",1st owner,Petrol,DL3C-BV0314,"₹4,184/month",₹2.14 Lakh,On Zero down payment,New Delhi
+440,2019,Tata,Harrier,XZ 2.0L,Manual,"25,979 km",1st owner,Diesel,DL10-CM4497,"₹22,237/month",₹11.68 Lakh,On Zero down payment,Noida
+441,2022,Renault,TRIBER,RXZ,Manual,"19,671 km",1st owner,Petrol,UP14-FC5342,"₹14,467/month",₹7.4 Lakh,On Zero down payment,Noida
+442,2015,Maruti,Swift,LXI,Manual,"58,607 km",1st owner,CNG,HR51-BF4448,"₹8,055/month",₹4.12 Lakh,On Zero down payment,Faridabad
+443,2019,Mahindra,XUV500,W5,Manual,"54,955 km",2nd owner,Diesel,UP14-DZ1469,"₹19,567/month",₹10.28 Lakh,On Zero down payment,Noida
+444,2022,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,"39,698 km",1st owner,Petrol,HR26-EX9786,"₹17,378/month",₹9.13 Lakh,On Zero down payment,New Delhi
+445,2018,Maruti,Vitara Brezza,ZDI PLUS,Manual,"16,023 km",1st owner,Diesel,DL6C-R3033,"₹14,663/month",₹7.5 Lakh,On Zero down payment,Noida
+446,2015,Maruti,Swift,VXI,Manual,"93,322 km",1st owner,Petrol,HR26-CM5137,"₹7,097/month",₹3.63 Lakh,On Zero down payment,Faridabad
+447,2021,Mahindra,XUV300,W8 (O) 1.5 DIESEL,Manual,"68,950 km",1st owner,Diesel,HR36-AJ5281,"₹19,407/month",₹10.2 Lakh,On Zero down payment,New Delhi
+448,2021,Tata,TIAGO NRG,XZ MT,Manual,"71,448 km",1st owner,Petrol,UP16-CY6947,"₹11,417/month",₹5.84 Lakh,On Zero down payment,Noida
+449,2011,Hyundai,i10,MAGNA 1.2,Manual,"88,882 km",1st owner,Petrol,HR12-R7008,"₹3,206/month",₹1.64 Lakh,On Zero down payment,Faridabad
+450,2019,Hyundai,GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,"26,940 km",1st owner,Petrol,UP14-EK2271,"₹12,141/month",₹6.21 Lakh,On Zero down payment,Noida
+451,2019,Hyundai,NEW SANTRO,ASTA MT,Manual,"65,039 km",1st owner,Petrol,HR26-EA3371,"₹8,328/month",₹4.26 Lakh,On Zero down payment,Faridabad
+452,2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"42,032 km",2nd owner,Petrol,DL1C-W0523,"₹7,253/month",₹3.71 Lakh,On Zero down payment,New Delhi
+453,2010,Maruti,Alto,LXI,Manual,"24,809 km",1st owner,Petrol,DL9C-X6071,"₹2,639/month",₹1.35 Lakh,On Zero down payment,Ghaziabad
+454,2022,Maruti,IGNIS,SIGMA 1.2,Manual,"22,521 km",1st owner,Petrol,DL10-CR6918,"₹10,049/month",₹5.14 Lakh,On Zero down payment,New Delhi
+455,2016,Honda,Jazz,1.2L I-VTEC V,Manual,"97,508 km",1st owner,Petrol,DL9C-AU3608,"₹7,859/month",₹4.02 Lakh,On Zero down payment,Noida
+456,2020,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"27,579 km",2nd owner,Petrol,DL9C-AT0210,"₹16,426/month",₹8.63 Lakh,On Zero down payment,Noida
+457,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"31,552 km",1st owner,CNG,DL9C-AR5032,"₹10,420/month",₹5.33 Lakh,On Zero down payment,Gurgaon
+458,2014,Maruti,Swift Dzire,VXI,Manual,"32,243 km",2nd owner,Petrol,DL1C-R1512,"₹7,664/month",₹3.92 Lakh,On Zero down payment,Ghaziabad
+459,2011,Hyundai,Santro Xing,GL PLUS,Manual,"27,892 km",1st owner,Petrol,DL3C-BR9063,"₹3,402/month",₹1.74 Lakh,On Zero down payment,New Delhi
+460,2018,Honda,Amaze,1.2L I-VTEC VX,Manual,"39,972 km",2nd owner,Petrol,HR26-DP3633,"₹11,926/month",₹6.1 Lakh,On Zero down payment,Gurgaon
+461,2018,Hyundai,Elite i20,ASTA 1.2,Manual,"81,844 km",1st owner,Petrol,DL9C-AQ0732,"₹10,733/month",₹5.49 Lakh,On Zero down payment,Noida
+462,2010,Honda,City,1.5L I-VTEC V AT,Automatic,"64,018 km",1st owner,Petrol,HR26-BE5749,"₹4,516/month",₹2.31 Lakh,On Zero down payment,Gurgaon
+463,2018,Tata,Tiago,XT PETROL,Manual,"104,077 km",1st owner,Petrol,DL12-CN0645,"₹7,625/month",₹3.9 Lakh,On Zero down payment,New Delhi
+464,2015,Honda,City,1.5L I-VTEC V MT,Manual,"29,348 km",1st owner,Petrol,DL10-CH2587,"₹11,613/month",₹5.94 Lakh,On Zero down payment,Noida
+465,2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,"91,968 km",1st owner,Petrol,HR26-BH9069,"₹3,343/month",₹1.71 Lakh,On Zero down payment,Faridabad
+466,2019,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"22,776 km",1st owner,Petrol,UP14-EC2800,"₹14,785/month",₹7.56 Lakh,On Zero down payment,Noida
+467,2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,"84,002 km",1st owner,Diesel,DL11-CB1640,"₹12,317/month",₹6.3 Lakh,On Zero down payment,Noida
+468,2018,Maruti,Vitara Brezza,VDI,Manual,"99,561 km",1st owner,Diesel,HR11-K5200,"₹12,825/month",₹6.56 Lakh,On Zero down payment,Faridabad
+469,2022,Renault,TRIBER,RXL MT,Manual,"17,791 km",1st owner,Petrol,DL10-CR6085,"₹12,551/month",₹6.42 Lakh,On Zero down payment,New Delhi
+470,2010,Hyundai,Santro Xing,GLS,Manual,"43,622 km",1st owner,Petrol,HR26-BF7984,"₹2,737/month",₹1.4 Lakh,On Zero down payment,Gurgaon
+471,2010,Maruti,Alto K10,VXI,Manual,"83,263 km",2nd owner,Petrol,DL2C-AL7871,"₹2,972/month",₹1.52 Lakh,On Zero down payment,New Delhi
+472,2018,Maruti,Vitara Brezza,ZDI PLUS AT DUAL TONE,Automatic,"67,062 km",1st owner,Diesel,DL5C-Q0572,"₹12,981/month",₹6.64 Lakh,On Zero down payment,Noida
+473,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"65,537 km",1st owner,Petrol,HR51-BQ8483,"₹9,091/month",₹4.65 Lakh,On Zero down payment,Gurgaon
+474,2017,Honda,WR-V,1.2L I-VTEC S MT,Manual,"28,595 km",1st owner,Petrol,DL10-CJ9284,"₹11,789/month",₹6.03 Lakh,On Zero down payment,Noida
+475,2022,Tata,NEXON,XZA PLUS (O) PETROL,Automatic,"30,129 km",1st owner,Petrol,HR72-G8274,"₹20,252/month",₹10.64 Lakh,On Zero down payment,New Delhi
+476,2017,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"54,494 km",1st owner,Petrol,DL4C-AX7331,"₹8,152/month",₹4.17 Lakh,On Zero down payment,Ghaziabad
+477,2016,Honda,Brio,E MT,Manual,"58,085 km",2nd owner,Petrol,CH01-BG1325,"₹6,960/month",₹3.56 Lakh,On Zero down payment,Gurgaon
+478,2017,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,"70,859 km",1st owner,Petrol,DL5C-N6767,"₹9,110/month",₹4.66 Lakh,On Zero down payment,Noida
+479,2010,Maruti,Alto K10,VXI,Manual,"97,701 km",1st owner,Petrol,DL3C-BV1339,"₹2,620/month",₹1.34 Lakh,On Zero down payment,New Delhi
+480,2017,Maruti,Swift,VXI,Manual,"67,043 km",1st owner,Petrol,HR26-DE5879,"₹8,817/month",₹4.51 Lakh,On Zero down payment,New Delhi
+481,2019,Hyundai,Verna,1.6 CRDI SX + AT,Automatic,"46,983 km",1st owner,Diesel,DL12-CR4060,"₹20,728/month",₹10.89 Lakh,On Zero down payment,Noida
+482,2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"93,616 km",1st owner,Petrol,UP16-BM3200,"₹10,479/month",₹5.36 Lakh,On Zero down payment,Ghaziabad
+483,2017,Honda,City,1.5L I-VTEC SV,Manual,"65,468 km",1st owner,Petrol,HR26-DB2126,"₹13,294/month",₹6.8 Lakh,On Zero down payment,New Delhi
+484,2021,Mahindra,XUV300,W8 (O) 1.5 DIESEL,Manual,"18,136 km",2nd owner,Diesel,UP14-EU6693,"₹19,548/month",₹10.27 Lakh,On Zero down payment,Ghaziabad
+485,2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,"87,530 km",1st owner,Petrol,UP16-BE8296,"₹13,353/month",₹6.83 Lakh,On Zero down payment,Ghaziabad
+486,2018,Mahindra,XUV500,W5 FWD,Manual,"76,497 km",1st owner,Diesel,UP14-DQ3267,"₹16,388/month",₹8.61 Lakh,On Zero down payment,Noida
+487,2018,Honda,Amaze,1.5L I-DTEC VX,Manual,"89,580 km",2nd owner,Diesel,DL4C-AY5776,"₹10,831/month",₹5.54 Lakh,On Zero down payment,New Delhi
+488,2018,Maruti,Alto 800,LXI,Manual,"89,267 km",1st owner,Petrol,HR36-AD1840,"₹5,806/month",₹2.97 Lakh,On Zero down payment,New Delhi
+489,2019,Hyundai,Verna,1.6 VTVT SX,Manual,"84,507 km",1st owner,Petrol,UP51-AR6464,"₹15,445/month",₹7.9 Lakh,On Zero down payment,Noida
+490,2018,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"61,157 km",1st owner,Petrol,DL1C-X9536,"₹12,102/month",₹6.19 Lakh,On Zero down payment,Noida
+491,2017,Maruti,IGNIS,DELTA 1.2,Manual,"57,093 km",1st owner,Petrol,DL9C-AN1748,"₹8,602/month",₹4.4 Lakh,On Zero down payment,Noida
+492,2018,Honda,Amaze,1.2L I-VTEC S,Manual,"98,133 km",2nd owner,CNG,DL10-CL3906,"₹10,080/month",₹5.16 Lakh,On Zero down payment,Noida
+493,2012,Maruti,Wagon R 1.0,LXI,Manual,"45,128 km",1st owner,Petrol,DL2C-AN9406,"₹4,262/month",₹2.18 Lakh,On Zero down payment,Noida
+494,2019,Hyundai,NEW SANTRO,SPORTZ MT,Manual,"27,991 km",1st owner,Petrol,HR26-ED6711,"₹8,817/month",₹4.51 Lakh,On Zero down payment,New Delhi
+495,2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,"52,873 km",1st owner,Petrol,DL8C-T6534,"₹3,421/month",₹1.75 Lakh,On Zero down payment,Noida
+496,2011,Maruti,Wagon R 1.0,LXI,Manual,"60,784 km",1st owner,Petrol,HR26-BL6722,"₹3,183/month",₹1.63 Lakh,On Zero down payment,New Delhi
+497,2020,Hyundai,VENUE,SX 1.0 TURBO,Manual,"24,972 km",1st owner,Petrol,DL5C-R4976,"₹18,463/month",₹9.7 Lakh,On Zero down payment,Noida
+498,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"85,482 km",1st owner,Petrol,HR51-BP9026,"₹12,121/month",₹6.2 Lakh,On Zero down payment,New Delhi
+499,2018,Maruti,Alto K10,VXI,Manual,"60,716 km",1st owner,Petrol,HR26-DP8743,"₹6,412/month",₹3.28 Lakh,On Zero down payment,New Delhi
+500,2019,Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,Manual,"33,746 km",1st owner,Petrol,DL10-CN1846,"₹14,233/month",₹7.28 Lakh,On Zero down payment,Ghaziabad
+501,2011,Toyota,Etios,V,Manual,"71,830 km",1st owner,Petrol,DL8C-X0969,"₹4,145/month",₹2.12 Lakh,On Zero down payment,Noida
+502,2017,Maruti,Ciaz,ALPHA 1.4 PETROL,Manual,"65,083 km",1st owner,Petrol,UP16-BQ2817,"₹11,965/month",₹6.12 Lakh,On Zero down payment,Noida
+503,2018,Honda,Amaze,1.5L I-DTEC S,Manual,"116,404 km",2nd owner,Diesel,DL10-CL2058,"₹8,504/month",₹4.35 Lakh,On Zero down payment,Noida
+504,2021,Maruti,IGNIS,SIGMA 1.2,Manual,"44,980 km",1st owner,Petrol,UP16-CX8964,"₹10,557/month",₹5.4 Lakh,On Zero down payment,Noida
+505,2014,Toyota,Etios,G,Manual,"89,602 km",2nd owner,Petrol,DL10-CE6533,"₹6,784/month",₹3.47 Lakh,On Zero down payment,New Delhi
+506,2016,Hyundai,Verna,1.6 CRDI SX,Manual,"67,567 km",1st owner,Diesel,UP16-BS8611,"₹11,808/month",₹6.04 Lakh,On Zero down payment,Noida
+507,2020,Maruti,Vitara Brezza,ZXI PLUS AT SHVS,Automatic,"23,710 km",1st owner,Petrol,DL12-CS7474,"₹19,415/month",₹10.2 Lakh,On Zero down payment,Noida
+508,2019,Tata,NEXON,XM PETROL,Manual,"39,060 km",1st owner,Petrol,DL12-CR3959,"₹12,297/month",₹6.29 Lakh,On Zero down payment,Ghaziabad
+509,2021,Toyota,URBAN CRUISER,MID MT,Manual,"10,138 km",2nd owner,Petrol,UP14-EY7871,"₹16,407/month",₹8.62 Lakh,On Zero down payment,Noida
+510,2020,Hyundai,NEW SANTRO,ERA EXECUTIVE,Manual,"19,806 km",1st owner,Petrol,DL3C-CT4862,"₹8,856/month",₹4.53 Lakh,On Zero down payment,Ghaziabad
+511,2011,Hyundai,i20,MAGNA 1.2,Manual,"53,907 km",2nd owner,Petrol,DL3C-BR4269,"₹3,695/month",₹1.89 Lakh,On Zero down payment,Noida
+512,2021,Hyundai,Creta,SX (O) 1.4 TURBO DCT DUAL TONE,Automatic,"32,162 km",2nd owner,Petrol,DL5C-T4440,"₹32,034/month",₹16.83 Lakh,On Zero down payment,Noida
+513,2011,Maruti,Wagon R 1.0,VXI,Manual,"43,437 km",1st owner,Petrol,DL2C-AN2437,"₹3,779/month",₹1.93 Lakh,On Zero down payment,New Delhi
+514,2020,Volkswagen,Vento,HIGHLINE PLUS 1.0L TSI,Manual,"43,444 km",1st owner,Petrol,HR26-EN5595,"₹22,327/month",₹11.73 Lakh,On Zero down payment,Faridabad
+515,2021,Tata,NEXON,XZA PLUS SUNROOF DIESEL,Automatic,"52,794 km",1st owner,Diesel,HR13-S1031,"₹17,911/month",₹9.41 Lakh,On Zero down payment,Noida
+516,2015,Maruti,Ciaz,VXI+,Manual,"44,237 km",1st owner,Petrol,DL12-CG9567,"₹10,714/month",₹5.48 Lakh,On Zero down payment,New Delhi
+517,2020,Mahindra,XUV300,W8 1.5 DIESEL AMT,Automatic,"54,571 km",1st owner,Diesel,UP16-CP6088,"₹18,101/month",₹9.51 Lakh,On Zero down payment,Noida
+518,2021,Maruti,Alto,VXI,Manual,"13,594 km",2nd owner,Petrol,HR87-G4913,"₹7,918/month",₹4.05 Lakh,On Zero down payment,Faridabad
+519,2010,Maruti,Alto K10,LXI P,Manual,"29,299 km",1st owner,Petrol,DL5C-H5468,"₹2,729/month",₹1.4 Lakh,On Zero down payment,Noida
+520,2015,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT S,Manual,"41,660 km",2nd owner,Petrol,DL8C-AM8150,"₹10,889/month",₹5.57 Lakh,On Zero down payment,Noida
+521,2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,"124,245 km",1st owner,Petrol,DL6C-P9518,"₹8,524/month",₹4.36 Lakh,On Zero down payment,New Delhi
+522,2016,Maruti,Wagon R 1.0,VXI AMT,Automatic,"91,825 km",2nd owner,Petrol,UP14-DB7894,"₹6,393/month",₹3.27 Lakh,On Zero down payment,Noida
+523,2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,"50,555 km",1st owner,Petrol,HR51-BX4823,"₹11,144/month",₹5.7 Lakh,On Zero down payment,New Delhi
+524,2022,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,"42,458 km",1st owner,Petrol,UP16-DE8478,"₹17,683/month",₹9.29 Lakh,On Zero down payment,Ghaziabad
+525,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"21,839 km",1st owner,Petrol,DL4C-AY7193,"₹12,942/month",₹6.62 Lakh,On Zero down payment,Noida
+526,2018,Hyundai,Elite i20,ASTA 1.2 DUAL TONE,Manual,"68,499 km",1st owner,CNG,DL11-CB4204,"₹13,607/month",₹6.96 Lakh,On Zero down payment,Noida
+527,2012,Honda,Brio,S MT,Manual,"85,932 km",1st owner,Petrol,DL7C-N3363,"₹4,262/month",₹2.18 Lakh,On Zero down payment,Noida
+528,2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"49,001 km",2nd owner,Petrol,DL9C-AM7014,"₹10,459/month",₹5.35 Lakh,On Zero down payment,New Delhi
+529,2014,Honda,City,VX CVT PETROL,Automatic,"62,242 km",2nd owner,Petrol,DL12-CG2466,"₹10,772/month",₹5.51 Lakh,On Zero down payment,New Delhi
+530,2019,Volkswagen,Vento,HIGHLINE DIESEL,Manual,"42,213 km",1st owner,Diesel,UP16-CJ9076,"₹15,570/month",₹8.18 Lakh,On Zero down payment,Noida
+531,2016,Maruti,Ciaz,ZXI+,Manual,"75,603 km",1st owner,Petrol,DL6C-P9056,"₹10,362/month",₹5.3 Lakh,On Zero down payment,New Delhi
+532,2017,Honda,City,1.5L I-VTEC VX,Manual,"88,039 km",1st owner,Petrol,UP15-CF0151,"₹14,584/month",₹7.46 Lakh,On Zero down payment,Noida
+533,2021,Hyundai,NEW I20,SPORTZ 1.2 MT,Manual,"16,814 km",1st owner,Petrol,DL1C-AE2884,"₹15,093/month",₹7.72 Lakh,On Zero down payment,Noida
+534,2020,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,"32,626 km",1st owner,Petrol,DL9C-AT1399,"₹9,892/month",₹5.06 Lakh,On Zero down payment,New Delhi
+535,2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"25,805 km",1st owner,Petrol,DL7C-Q1519,"₹10,929/month",₹5.59 Lakh,On Zero down payment,Noida
+536,2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"73,585 km",2nd owner,Petrol,DL1C-AF3508,"₹10,323/month",₹5.28 Lakh,On Zero down payment,Noida
+537,2019,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,"34,824 km",1st owner,Petrol,DL2C-BA3874,"₹10,811/month",₹5.53 Lakh,On Zero down payment,Noida
+538,2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,"96,012 km",1st owner,Petrol,DL3C-CR1711,"₹11,398/month",₹5.83 Lakh,On Zero down payment,Noida
+539,2015,Honda,City,1.5L I-VTEC V MT,Manual,"21,760 km",1st owner,Petrol,UP16-DW8369,"₹12,199/month",₹6.24 Lakh,On Zero down payment,Noida
+540,2022,Tata,PUNCH,CREATIVE  1.2 RTN DUAL TONE,Manual,"1,099 km",1st owner,Petrol,DL3C-CX2836,"₹16,598/month",₹8.72 Lakh,On Zero down payment,Noida
+541,2022,Tata,Tiago,XT PETROL,Manual,"13,733 km",1st owner,Petrol,DL9C-AZ1488,"₹11,111/month",₹5.68 Lakh,On Zero down payment,Ghaziabad
+542,2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"45,892 km",1st owner,Petrol,DL8C-AL7582,"₹10,901/month",₹5.58 Lakh,On Zero down payment,Noida
+543,2016,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT SX,Manual,"56,604 km",1st owner,Petrol,DL8C-AC8125,"₹11,926/month",₹6.1 Lakh,On Zero down payment,Noida
+544,2022,Toyota,Innova Crysta,2.4 ZX AT 7 STR,Automatic,"25,803 km",1st owner,Diesel,DL10-CR4650,"₹49,489/month",₹26 Lakh,On Zero down payment,Faridabad
+545,2019,Maruti,IGNIS,ZETA 1.2,Manual,"26,790 km",1st owner,Petrol,DL3C-CR5811,"₹11,026/month",₹5.64 Lakh,On Zero down payment,Noida
+546,2012,Hyundai,i20,SPORTZ 1.2,Manual,"67,345 km",1st owner,Petrol,DL3C-CA8989,"₹5,415/month",₹2.77 Lakh,On Zero down payment,Ghaziabad
+547,2018,Toyota,Innova Crysta,2.4 VX 7 STR,Manual,"72,099 km",1st owner,Diesel,DL14-CE0527,"₹29,274/month",₹15.38 Lakh,On Zero down payment,Noida
+548,2017,Honda,BR-V,1.5L I-VTEC S,Manual,"21,895 km",1st owner,Petrol,DL14-CD6617,"₹16,750/month",₹8.8 Lakh,On Zero down payment,Noida
+549,2010,Maruti,Alto K10,VXI,Manual,"68,660 km",1st owner,Petrol,DL4C-AM5676,"₹2,639/month",₹1.35 Lakh,On Zero down payment,Noida
+550,2010,Hyundai,i10,ERA 1.1,Manual,"60,730 km",1st owner,Petrol,DL10-CA5258,"₹2,678/month",₹1.37 Lakh,On Zero down payment,New Delhi
+551,2022,Maruti,Celerio,VXI,Manual,"33,515 km",1st owner,Petrol,HR51-CG2944,"₹9,912/month",₹5.07 Lakh,On Zero down payment,Faridabad
+552,2011,Hyundai,i10,MAGNA 1.2,Manual,"25,268 km",1st owner,Petrol,DL12-CE0313,"₹3,656/month",₹1.87 Lakh,On Zero down payment,Noida
+553,2016,Hyundai,Xcent,SX 1.2,Manual,"48,199 km",2nd owner,Petrol,DL4C-AX3396,"₹8,856/month",₹4.53 Lakh,On Zero down payment,Noida
+554,2019,Maruti,Vitara Brezza,ZDI,Manual,"102,511 km",1st owner,Diesel,HR52-C6415,"₹14,076/month",₹7.2 Lakh,On Zero down payment,Faridabad
+555,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"61,971 km",1st owner,Petrol,UP16-CC1859,"₹12,297/month",₹6.29 Lakh,On Zero down payment,Ghaziabad
+556,2015,Hyundai,Elite i20,SPORTZ 1.2 (O),Manual,"72,123 km",1st owner,Petrol,DL8C-AE7877,"₹9,756/month",₹4.99 Lakh,On Zero down payment,New Delhi
+557,2016,Honda,City,1.5L I-VTEC VX,Manual,"48,681 km",1st owner,Petrol,DL1C-R8402,"₹13,099/month",₹6.7 Lakh,On Zero down payment,Noida
+558,2013,Hyundai,Verna,FLUIDIC 1.6 VTVT SX OPT,Manual,"35,474 km",1st owner,Petrol,DL4C-AQ7473,"₹8,974/month",₹4.59 Lakh,On Zero down payment,Noida
+559,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"58,135 km",1st owner,CNG,HR10-AH6229,"₹9,619/month",₹4.92 Lakh,On Zero down payment,New Delhi
+560,2014,Maruti,Ertiga,VXI ABS,Manual,"41,431 km",1st owner,Petrol,DL14-CB0477,"₹10,787/month",₹5.52 Lakh,On Zero down payment,Noida
+561,2015,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"47,122 km",1st owner,Petrol,DL8C-AE8939,"₹8,602/month",₹4.4 Lakh,On Zero down payment,New Delhi
+562,2011,Toyota,Etios,G SP,Manual,"85,946 km",2nd owner,Petrol,DL3C-BD4735,"₹3,460/month",₹1.77 Lakh,On Zero down payment,Noida
+563,2023,Hyundai,NEW I20,SPORTZ 1.2 AT,Automatic,"5,283 km",1st owner,Petrol,DL12-CW1467,"₹16,712/month",₹8.78 Lakh,On Zero down payment,Noida
+564,2021,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"40,380 km",1st owner,CNG,HR26-EM5158,"₹14,213/month",₹7.27 Lakh,On Zero down payment,Noida
+565,2020,Maruti,Alto,VXI,Manual,"24,006 km",1st owner,Petrol,DL2C-BB8573,"₹7,664/month",₹3.92 Lakh,On Zero down payment,Noida
+566,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"36,701 km",1st owner,Petrol,DL6C-Q8123,"₹9,306/month",₹4.76 Lakh,On Zero down payment,Ghaziabad
+567,2019,Maruti,Vitara Brezza,ZDI AMT,Automatic,"80,977 km",1st owner,Diesel,UP16-CE1085,"₹14,174/month",₹7.25 Lakh,On Zero down payment,Noida
+568,2010,Maruti,Swift Dzire,VXI,Manual,"65,268 km",2nd owner,Petrol,HR26-BE0655,"₹3,402/month",₹1.74 Lakh,On Zero down payment,New Delhi
+569,2018,Hyundai,Xcent,S 1.2,Manual,"94,803 km",2nd owner,CNG,DL3C-CQ5896,"₹10,127/month",₹5.18 Lakh,On Zero down payment,New Delhi
+570,2015,Honda,City,1.5L I-VTEC V MT,Manual,"57,463 km",1st owner,Petrol,DL9C-AE2607,"₹10,440/month",₹5.34 Lakh,On Zero down payment,Noida
+571,2023,Renault,Kwid,CLIMBER 1.0 (O) DUAL TONE,Manual,"2,759 km",1st owner,Petrol,UP14-FL5118,"₹9,971/month",₹5.1 Lakh,On Zero down payment,Noida
+572,2018,Hyundai,Tucson,2WD MT PETROL,Manual,"43,368 km",1st owner,Petrol,HR26-DN3720,"₹25,449/month",₹13.37 Lakh,On Zero down payment,Noida
+573,2020,KIA,CARNIVAL,PREMIUM 2.2 7 STR,Automatic,"66,619 km",1st owner,Diesel,UP80-FU9596,"₹39,648/month",₹20.83 Lakh,On Zero down payment,Noida
+574,2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,"99,699 km",1st owner,Petrol,DL5C-N2160,"₹10,049/month",₹5.14 Lakh,On Zero down payment,Noida
+575,2011,Hyundai,i10,MAGNA 1.1,Manual,"55,296 km",1st owner,Petrol,DL4C-AP8007,"₹3,451/month",₹1.76 Lakh,On Zero down payment,Noida
+576,2011,Hyundai,i10,ERA 1.1,Manual,"85,469 km",1st owner,Petrol,DL2C-AM5010,"₹3,128/month",₹1.6 Lakh,On Zero down payment,Noida
+577,2021,Hyundai,Tucson,GLS 2WD AT PETROL,Automatic,"76,916 km",1st owner,Petrol,UP14-EQ6878,"₹33,824/month",₹17.77 Lakh,On Zero down payment,Noida
+578,2019,Mahindra,XUV500,W11 (O) AT,Automatic,"79,978 km",1st owner,Diesel,DL8C-AY9653,"₹20,928/month",₹10.99 Lakh,On Zero down payment,New Delhi
+579,2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"25,686 km",1st owner,Petrol,DL8C-AN8782,"₹9,697/month",₹4.96 Lakh,On Zero down payment,Noida
+580,2020,Maruti,Alto,LXI OPT CNG,Manual,"47,518 km",1st owner,CNG,DL8C-BB2143,"₹7,965/month",₹4.07 Lakh,On Zero down payment,New Delhi
+581,2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"22,886 km",1st owner,Petrol,DL2C-AY3609,"₹19,453/month",₹10.22 Lakh,On Zero down payment,Noida
+582,2019,Tata,Harrier,XZ 2.0L,Manual,"72,077 km",1st owner,Diesel,UP14-DZ0078,"₹21,109/month",₹11.09 Lakh,On Zero down payment,Noida
+583,2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"23,485 km",1st owner,Petrol,UP16-BS4811,"₹11,398/month",₹5.83 Lakh,On Zero down payment,Noida
+584,2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"36,371 km",1st owner,Petrol,DL1C-AC3751,"₹13,626/month",₹6.97 Lakh,On Zero down payment,Noida
+585,2021,Renault,Kwid,RXL 1.0,Manual,"16,901 km",1st owner,Petrol,HR26-EU0145,"₹7,996/month",₹4.09 Lakh,On Zero down payment,Faridabad
+586,2010,Maruti,Ritz,LXI,Manual,"73,654 km",1st owner,Petrol,DL9C-Y6418,"₹2,757/month",₹1.41 Lakh,On Zero down payment,Noida
+587,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"56,139 km",1st owner,Petrol,DL1C-X3797,"₹12,199/month",₹6.24 Lakh,On Zero down payment,Noida
+588,2020,Tata,Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"9,745 km",1st owner,Petrol,UP16-CR6708,"₹13,529/month",₹6.92 Lakh,On Zero down payment,Noida
+589,2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,"81,296 km",2nd owner,Petrol,DL9C-AL5939,"₹12,375/month",₹6.33 Lakh,On Zero down payment,New Delhi
+590,2020,Maruti,S PRESSO,VXI (O) CNG,Manual,"73,970 km",1st owner,CNG,UP16-CQ8796,"₹8,348/month",₹4.27 Lakh,On Zero down payment,Noida
+591,2010,Maruti,Swift,LXI,Manual,"40,949 km",1st owner,Petrol,DL8C-P6885,"₹3,284/month",₹1.68 Lakh,On Zero down payment,Noida
+592,2018,Maruti,Ciaz,ZETA 1.4  AT PETROL,Automatic,"22,234 km",2nd owner,Petrol,DL12-CN5590,"₹15,621/month",₹7.99 Lakh,On Zero down payment,Noida
+593,2015,Honda,Jazz,1.2L I-VTEC V,Manual,"90,505 km",1st owner,Petrol,HR26-CQ9007,"₹7,933/month",₹4.06 Lakh,On Zero down payment,Faridabad
+594,2013,Honda,Brio,VX MT,Manual,"72,852 km",2nd owner,Petrol,HR51-BA8207,"₹6,139/month",₹3.14 Lakh,On Zero down payment,Faridabad
+595,2020,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"40,226 km",1st owner,Petrol,HR26-EL4586,"₹16,669/month",₹8.76 Lakh,On Zero down payment,Faridabad
+596,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"45,996 km",1st owner,Petrol,DL12-CL7284,"₹9,756/month",₹4.99 Lakh,On Zero down payment,Ghaziabad
+597,2022,Renault,Kwid,RXT 1.0 AMT,Automatic,"8,055 km",1st owner,Petrol,UP16-DE1241,"₹10,147/month",₹5.19 Lakh,On Zero down payment,Noida
+598,2015,Toyota,Etios,G,Manual,"94,688 km",1st owner,Petrol,DL12-CG7763,"₹7,722/month",₹3.95 Lakh,On Zero down payment,Ghaziabad
+599,2011,Hyundai,i20,MAGNA 1.2,Manual,"77,007 km",2nd owner,Petrol,DL1C-N6000,"₹3,969/month",₹2.03 Lakh,On Zero down payment,Noida
+600,2019,Maruti,IGNIS,ZETA 1.2,Manual,"51,219 km",1st owner,Petrol,DL9C-AR5448,"₹10,889/month",₹5.57 Lakh,On Zero down payment,Noida
+601,2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"62,238 km",1st owner,Diesel,DL8C-AZ1641,"₹15,798/month",₹8.3 Lakh,On Zero down payment,Noida
+602,2018,Honda,BR-V,1.5L I-VTEC VX,Manual,"76,268 km",1st owner,Petrol,UP14-DQ5877,"₹15,494/month",₹8.14 Lakh,On Zero down payment,Noida
+603,2020,Maruti,Alto,VXI,Manual,"13,150 km",1st owner,Petrol,DL2C-BB5383,"₹7,370/month",₹3.77 Lakh,On Zero down payment,New Delhi
+604,2017,Tata,Zest,XT PETROL,Manual,"66,460 km",2nd owner,CNG,DL10-CH8585,"₹9,697/month",₹4.96 Lakh,On Zero down payment,Noida
+605,2016,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,"49,376 km",1st owner,Petrol,HR26-CY4320,"₹8,876/month",₹4.54 Lakh,On Zero down payment,Faridabad
+606,2018,Volkswagen,Vento,HIGHLINE DIESEL 1.5,Manual,"105,792 km",1st owner,Diesel,UP14-DU2223,"₹13,509/month",₹6.91 Lakh,On Zero down payment,Noida
+607,2019,Mahindra,TUV300,T8,Manual,"84,003 km",1st owner,Diesel,DL12-CQ8563,"₹13,939/month",₹7.13 Lakh,On Zero down payment,Noida
+608,2018,Toyota,Corolla Altis,G DIESEL,Manual,"102,279 km",1st owner,Diesel,HR26-DN4783,"₹18,368/month",₹9.65 Lakh,On Zero down payment,Noida
+609,2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"62,579 km",1st owner,Petrol,DL6C-P8052,"₹14,233/month",₹7.28 Lakh,On Zero down payment,Noida
+610,2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"50,125 km",1st owner,Petrol,DL1C-P7277,"₹5,885/month",₹3.01 Lakh,On Zero down payment,Noida
+611,2019,Maruti,Celerio,VXI (O) CNG,Manual,"112,479 km",1st owner,CNG,HR36-AG5412,"₹8,524/month",₹4.36 Lakh,On Zero down payment,Noida
+612,2015,Honda,City,1.5L I-VTEC VX CVT,Automatic,"97,182 km",1st owner,Petrol,HR26-CN9218,"₹11,716/month",₹5.99 Lakh,On Zero down payment,New Delhi
+613,2022,Toyota,Glanza,V,Manual,"41,129 km",1st owner,Petrol,UP16-DE1270,"₹15,684/month",₹8.24 Lakh,On Zero down payment,Ghaziabad
+614,2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"86,446 km",1st owner,Petrol,DL1C-W1955,"₹7,801/month",₹3.99 Lakh,On Zero down payment,Noida
+615,2015,Honda,City,1.5L I-VTEC VX CVT,Automatic,"64,803 km",2nd owner,Petrol,UP32-GP5600,"₹10,850/month",₹5.55 Lakh,On Zero down payment,Noida
+616,2012,Maruti,Swift Dzire,VXI,Manual,"21,338 km",1st owner,Petrol,DL6C-L6869,"₹6,862/month",₹3.51 Lakh,On Zero down payment,New Delhi
+617,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"81,084 km",1st owner,CNG,DL10-CM6910,"₹9,423/month",₹4.82 Lakh,On Zero down payment,Noida
+618,2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"24,062 km",1st owner,Petrol,DL8C-Y5168,"₹15,608/month",₹8.2 Lakh,On Zero down payment,Noida
+619,2016,Hyundai,Verna,1.6 VTVT S,Manual,"47,793 km",1st owner,Petrol,UP32-HF3176,"₹9,951/month",₹5.09 Lakh,On Zero down payment,Noida
+620,2011,Hyundai,i10,MAGNA 1.2,Manual,"80,322 km",1st owner,Petrol,DL10-CA7904,"₹3,304/month",₹1.69 Lakh,On Zero down payment,New Delhi
+621,2022,Renault,Kwid,RXT 1.0 AMT,Automatic,"12,028 km",1st owner,Petrol,UP16-DK3212,"₹10,714/month",₹5.48 Lakh,On Zero down payment,Noida
+622,2011,Hyundai,i10,SPORTZ 1.2,Manual,"15,024 km",1st owner,Petrol,DL2C-AM4607,"₹3,793/month",₹1.94 Lakh,On Zero down payment,New Delhi
+623,2022,Renault,Kwid,RXT 1.0,Manual,"15,260 km",1st owner,Petrol,DL7C-U2746,"₹10,240/month",₹5.24 Lakh,On Zero down payment,Noida
+624,2020,Maruti,Dzire,ZXI,Manual,"32,057 km",1st owner,Petrol,DL9C-AT7863,"₹14,311/month",₹7.32 Lakh,On Zero down payment,Noida
+625,2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,"8,960 km",1st owner,Petrol,DL9C-AQ4478,"₹14,330/month",₹7.33 Lakh,On Zero down payment,New Delhi
+626,2011,Maruti,Swift,LXI,Manual,"31,841 km",1st owner,Petrol,DL8C-W1143,"₹4,848/month",₹2.48 Lakh,On Zero down payment,Ghaziabad
+627,2011,Hyundai,i10,SPORTZ 1.2,Manual,"82,214 km",1st owner,Petrol,HR26-BH5884,"₹3,754/month",₹1.92 Lakh,On Zero down payment,Faridabad
+628,2021,Maruti,Alto,VXI,Manual,"17,389 km",1st owner,Petrol,HR98-B2257,"₹7,996/month",₹4.09 Lakh,On Zero down payment,Faridabad
+629,2012,Maruti,Swift Dzire,LXI,Manual,"94,288 km",1st owner,Petrol,DL2C-AP1240,"₹5,024/month",₹2.57 Lakh,On Zero down payment,Noida
+630,2010,Maruti,Wagon R 1.0,VXI,Manual,"76,605 km",1st owner,Petrol,HR01-AB7169,"₹3,339/month",₹1.71 Lakh,On Zero down payment,Noida
+631,2019,Maruti,New Wagon-R,LXI CNG 1.0,Manual,"86,189 km",1st owner,CNG,DL9C-AS3728,"₹9,052/month",₹4.63 Lakh,On Zero down payment,Noida
+632,2019,Datsun,Go Plus,A(O),Manual,"27,561 km",1st owner,Petrol,UP14-EE2944,"₹8,250/month",₹4.22 Lakh,On Zero down payment,Noida
+633,2011,Toyota,Etios,G,Manual,"88,478 km",2nd owner,Petrol,DL8C-X1246,"₹4,066/month",₹2.08 Lakh,On Zero down payment,New Delhi
+634,2018,Toyota,Innova Crysta,2.8 GX AT 7 STR,Automatic,"86,545 km",2nd owner,Diesel,DL1C-Z3842,"₹33,500/month",₹17.6 Lakh,On Zero down payment,Noida
+635,2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"48,960 km",2nd owner,Petrol,HR26-DC0130,"₹7,781/month",₹3.98 Lakh,On Zero down payment,New Delhi
+636,2018,Maruti,Vitara Brezza,ZDI PLUS,Manual,"40,190 km",2nd owner,Diesel,DL9C-AQ8152,"₹13,118/month",₹6.71 Lakh,On Zero down payment,Noida
+637,2020,Toyota,YARIS,G MT,Manual,"37,283 km",1st owner,Petrol,UP32-LR3708,"₹17,378/month",₹9.13 Lakh,On Zero down payment,Noida
+638,2020,Hyundai,Creta,1.6 SX AT CRDI,Automatic,"45,387 km",1st owner,Diesel,UP16-CN7228,"₹25,410/month",₹13.35 Lakh,On Zero down payment,Noida
+639,2022,Renault,Kiger,RXZ TURBO CVT,Automatic,"13,785 km",1st owner,Petrol,UP14-FA9261,"₹16,598/month",₹8.72 Lakh,On Zero down payment,Noida
+640,2022,Renault,Kwid,RXT 1.0 AMT,Automatic,"16,209 km",1st owner,Petrol,HR51-CH5307,"₹9,990/month",₹5.11 Lakh,On Zero down payment,New Delhi
+641,2020,Renault,Kwid,CLIMBER 1.0 (O),Manual,"50,464 km",1st owner,Petrol,HR36-AH4895,"₹8,387/month",₹4.29 Lakh,On Zero down payment,Faridabad
+642,2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"50,882 km",2nd owner,CNG,DL10-CH8054,"₹11,613/month",₹5.94 Lakh,On Zero down payment,New Delhi
+643,2011,Maruti,Swift,VXI D,Manual,"77,021 km",2nd owner,Petrol,DL3C-BJ7891,"₹3,879/month",₹1.98 Lakh,On Zero down payment,Noida
+644,2010,Hyundai,i10,SPORTZ 1.2,Manual,"88,623 km",1st owner,Petrol,HR26-BG8744,"₹3,370/month",₹1.72 Lakh,On Zero down payment,Faridabad
+645,2017,Honda,Jazz,1.2L I-VTEC V,Manual,"32,828 km",1st owner,Petrol,DL14-CD2712,"₹11,144/month",₹5.7 Lakh,On Zero down payment,Noida
+646,2020,Hyundai,GRAND I10 NIOS,ASTA AMT 1.2 KAPPA VTVT,Automatic,"5,192 km",1st owner,Petrol,DL12-CS7230,"₹15,361/month",₹8.07 Lakh,On Zero down payment,Noida
+647,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"36,179 km",1st owner,Petrol,HR26-DB4497,"₹10,342/month",₹5.29 Lakh,On Zero down payment,Noida
+648,2010,Maruti,Alto K10,VXI,Manual,"37,141 km",1st owner,Petrol,DL4C-AM5937,"₹2,776/month",₹1.42 Lakh,On Zero down payment,New Delhi
+649,2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"37,242 km",1st owner,Petrol,DL9C-AP3054,"₹8,700/month",₹4.45 Lakh,On Zero down payment,New Delhi
+650,2022,Renault,Kwid,RXL 1.0,Manual,"2,795 km",1st owner,Petrol,UP13-CA5795,"₹9,110/month",₹4.66 Lakh,On Zero down payment,Noida
+651,2018,Honda,Amaze,1.2L I-VTEC S,Manual,"49,061 km",1st owner,Petrol,DL1C-AH1041,"₹10,772/month",₹5.51 Lakh,On Zero down payment,Noida
+652,2012,Maruti,Swift Dzire,VXI,Manual,"48,736 km",1st owner,Petrol,UP16-AJ1795,"₹6,354/month",₹3.25 Lakh,On Zero down payment,Ghaziabad
+653,2010,Honda,City,1.5L I-VTEC V MT,Manual,"72,888 km",1st owner,Petrol,HR26-BD8415,"₹4,321/month",₹2.21 Lakh,On Zero down payment,Faridabad
+654,2012,Maruti,Swift Dzire,VXI,Manual,"70,739 km",1st owner,Petrol,DL3C-BJ9422,"₹6,041/month",₹3.09 Lakh,On Zero down payment,Noida
+655,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"71,016 km",1st owner,CNG,HR29-AT3386,"₹9,658/month",₹4.94 Lakh,On Zero down payment,New Delhi
+656,2011,Toyota,Etios,VX,Manual,"88,332 km",2nd owner,Petrol,DL3C-BD4932,"₹4,145/month",₹2.12 Lakh,On Zero down payment,New Delhi
+657,2020,Hyundai,NEW SANTRO,MAGNA,Manual,"20,719 km",1st owner,Petrol,DL5C-R9459,"₹8,211/month",₹4.2 Lakh,On Zero down payment,Ghaziabad
+658,2020,Maruti,S PRESSO,VXI+,Manual,"20,146 km",2nd owner,Petrol,DL2C-BC0717,"₹8,622/month",₹4.41 Lakh,On Zero down payment,Noida
+659,2011,Hyundai,i10,MAGNA 1.2,Manual,"62,316 km",2nd owner,Petrol,UP14-BH9511,"₹3,480/month",₹1.78 Lakh,On Zero down payment,Ghaziabad
+660,2011,Maruti,Ritz,VXI,Manual,"53,701 km",2nd owner,Petrol,DL8C-U3481,"₹3,167/month",₹1.62 Lakh,On Zero down payment,Noida
+661,2021,Renault,TRIBER,RXZ AMT,Automatic,"13,199 km",1st owner,Petrol,DL10-CQ3712,"₹15,703/month",₹8.25 Lakh,On Zero down payment,Noida
+662,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"89,429 km",1st owner,CNG,UP14-EB0910,"₹10,264/month",₹5.25 Lakh,On Zero down payment,Ghaziabad
+663,2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"83,136 km",1st owner,Petrol,DL6C-Q6419,"₹9,971/month",₹5.1 Lakh,On Zero down payment,Noida
+664,2021,Renault,Kiger,RXZ CVT 1.0 TURBO,Automatic,"12,944 km",1st owner,Petrol,DL3C-CU9709,"₹16,503/month",₹8.67 Lakh,On Zero down payment,New Delhi
+665,2017,Maruti,Celerio,ZXI AMT,Automatic,"74,134 km",1st owner,Petrol,HR26-DC8067,"₹8,211/month",₹4.2 Lakh,On Zero down payment,Faridabad
+666,2011,Maruti,Swift,VXI,Manual,"75,485 km",1st owner,Petrol,HR26-BJ5994,"₹4,066/month",₹2.08 Lakh,On Zero down payment,Gurgaon
+667,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"67,075 km",1st owner,CNG,DL8C-BC3585,"₹13,216/month",₹6.76 Lakh,On Zero down payment,New Delhi
+668,2011,Honda,Brio,S MT,Manual,"68,158 km",1st owner,Petrol,DL8C-X3081,"₹4,027/month",₹2.06 Lakh,On Zero down payment,Noida
+669,2011,Maruti,Ritz,ZXI,Manual,"81,983 km",1st owner,Petrol,DL3C-BL7052,"₹3,695/month",₹1.89 Lakh,On Zero down payment,New Delhi
+670,2020,Hyundai,AURA,SX 1.2 (O),Manual,"4,881 km",1st owner,Petrol,DL5C-V9889,"₹13,978/month",₹7.15 Lakh,On Zero down payment,Noida
+671,2020,Maruti,IGNIS,ZETA 1.2,Manual,"15,392 km",1st owner,Petrol,DL9C-AV2371,"₹11,183/month",₹5.72 Lakh,On Zero down payment,Noida
+672,2011,Toyota,Etios,V,Manual,"47,131 km",1st owner,Petrol,DL8C-NA5312,"₹5,142/month",₹2.63 Lakh,On Zero down payment,Noida
+673,2010,Toyota,Corolla Altis,1.8 J,Manual,"46,064 km",1st owner,Petrol,DL4C-NE4556,"₹4,526/month",₹2.31 Lakh,On Zero down payment,Noida
+674,2018,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"63,838 km",1st owner,Petrol,DL6C-R7970,"₹9,482/month",₹4.85 Lakh,On Zero down payment,New Delhi
+675,2019,Maruti,Vitara Brezza,VDI AMT,Automatic,"21,078 km",1st owner,Diesel,HR26-EC9380,"₹14,330/month",₹7.33 Lakh,On Zero down payment,Noida
+676,2020,Toyota,Glanza,G,Manual,"69,692 km",1st owner,Petrol,UP14-EM8029,"₹12,238/month",₹6.26 Lakh,On Zero down payment,Noida
+677,2010,Maruti,Swift Dzire,VXI,Manual,"84,019 km",1st owner,Petrol,DL9C-L6432,"₹3,480/month",₹1.78 Lakh,On Zero down payment,Noida
+678,2015,Honda,City,1.5L I-VTEC V MT,Manual,"41,122 km",1st owner,Petrol,DL4C-AW5486,"₹11,593/month",₹5.93 Lakh,On Zero down payment,Noida
+679,2011,Maruti,A Star,VXI,Manual,"55,566 km",1st owner,Petrol,UP16-BF9570,"₹3,421/month",₹1.75 Lakh,On Zero down payment,New Delhi
+680,2018,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"85,285 km",1st owner,Petrol,HR26-DU5978,"₹13,631/month",₹6.97 Lakh,On Zero down payment,Faridabad
+681,2018,Tata,NEXON,XZ PLUS DIESEL DUAL TONE,Manual,"86,829 km",1st owner,Diesel,DL3C-CP6905,"₹11,789/month",₹6.03 Lakh,On Zero down payment,New Delhi
+682,2020,Hyundai,NEW SANTRO,MAGNA,Manual,"20,049 km",1st owner,Petrol,DL4C-AZ6825,"₹8,485/month",₹4.34 Lakh,On Zero down payment,New Delhi
+683,2015,Hyundai,Xcent,SX 1.2 (O),Manual,"92,511 km",1st owner,Petrol,DL7C-P9637,"₹8,387/month",₹4.29 Lakh,On Zero down payment,Ghaziabad
+684,2011,Toyota,Etios,G,Manual,"72,036 km",1st owner,Petrol,DL3C-BD4211,"₹4,014/month",₹2.05 Lakh,On Zero down payment,Noida
+685,2018,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"93,646 km",1st owner,Petrol,HR26-DP7069,"₹14,526/month",₹7.43 Lakh,On Zero down payment,New Delhi
+686,2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"48,652 km",1st owner,Petrol,HR26-BY3492,"₹6,139/month",₹3.14 Lakh,On Zero down payment,Faridabad
+687,2017,Maruti,IGNIS,SIGMA 1.2,Manual,"17,500 km",1st owner,Petrol,DL1C-Z1340,"₹8,758/month",₹4.48 Lakh,On Zero down payment,Noida
+688,2011,Maruti,Swift,LXI,Manual,"28,694 km",1st owner,Petrol,DL13-CA1451,"₹4,184/month",₹2.14 Lakh,On Zero down payment,Noida
+689,2010,Maruti,Alto,LXI,Manual,"29,331 km",1st owner,Petrol,DL4C-AV4908,"₹2,698/month",₹1.38 Lakh,On Zero down payment,New Delhi
+690,2021,Maruti,S PRESSO,VXI+,Manual,"12,450 km",1st owner,Petrol,DL1C-AF2719,"₹8,328/month",₹4.26 Lakh,On Zero down payment,Ghaziabad
+691,2012,Maruti,Wagon R 1.0,LXI,Manual,"69,897 km",1st owner,Petrol,DL1C-N4947,"₹4,047/month",₹2.07 Lakh,On Zero down payment,Noida
+692,2011,Hyundai,i10,MAGNA 1.2,Manual,"83,451 km",1st owner,CNG,DL8C-AA1847,"₹3,793/month",₹1.94 Lakh,On Zero down payment,New Delhi
+693,2020,Toyota,Glanza,G,Manual,"49,105 km",1st owner,Petrol,DL10-CP1412,"₹13,177/month",₹6.74 Lakh,On Zero down payment,New Delhi
+694,2018,Honda,Jazz,1.2L I-VTEC V CVT,Automatic,"30,738 km",1st owner,Petrol,HR26-DN3429,"₹12,962/month",₹6.63 Lakh,On Zero down payment,New Delhi
+695,2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"27,458 km",1st owner,CNG,DL9C-AT2470,"₹13,216/month",₹6.76 Lakh,On Zero down payment,New Delhi
+696,2011,Toyota,Etios,V,Manual,"50,339 km",2nd owner,Petrol,DL3C-BD4539,"₹4,262/month",₹2.18 Lakh,On Zero down payment,Ghaziabad
+697,2010,Hyundai,i10,SPORTZ 1.2,Manual,"104,176 km",1st owner,Petrol,DL8C-T4138,"₹2,854/month",₹1.46 Lakh,On Zero down payment,New Delhi
+698,2012,Maruti,Swift Dzire,VXI,Manual,"58,586 km",1st owner,Petrol,DL9C-AC3331,"₹6,491/month",₹3.32 Lakh,On Zero down payment,Noida
+699,2010,Hyundai,i20,ERA 1.2,Manual,"80,393 km",2nd owner,Petrol,DL3C-BR1852,"₹3,519/month",₹1.8 Lakh,On Zero down payment,Noida
+700,2015,Maruti,Baleno,DELTA PETROL 1.2,Manual,"68,675 km",1st owner,Petrol,DL1C-U4578,"₹9,071/month",₹4.64 Lakh,On Zero down payment,Noida
+701,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"30,862 km",1st owner,Petrol,DL8C-T8242,"₹4,497/month",₹2.3 Lakh,On Zero down payment,New Delhi
+702,2022,Tata,Safari,XT PLUS,Manual,"17,708 km",1st owner,Diesel,DL9C-AY4337,"₹36,736/month",₹19.3 Lakh,On Zero down payment,Noida
+703,2013,Maruti,Swift Dzire,VXI,Manual,"70,817 km",1st owner,Petrol,DL9C-AG4195,"₹6,002/month",₹3.07 Lakh,On Zero down payment,Ghaziabad
+704,2011,Toyota,Etios,V,Manual,"69,350 km",2nd owner,Petrol,DL4C-NA5421,"₹4,008/month",₹2.05 Lakh,On Zero down payment,Ghaziabad
+705,2014,Honda,Brio,VX MT,Manual,"83,184 km",2nd owner,Petrol,DL13-CC4610,"₹6,217/month",₹3.18 Lakh,On Zero down payment,Noida
+706,2010,Maruti,A Star,ZXI,Manual,"89,623 km",1st owner,Petrol,DL2C-AL7458,"₹3,148/month",₹1.61 Lakh,On Zero down payment,Noida
+707,2011,Toyota,Etios Liva,G,Manual,"51,437 km",1st owner,Petrol,DL3C-BV6201,"₹3,832/month",₹1.96 Lakh,On Zero down payment,Noida
+708,2011,Toyota,Corolla Altis,1.8 G,Manual,"100,075 km",2nd owner,Petrol,DL8C-NA5227,"₹5,986/month",₹3.06 Lakh,On Zero down payment,New Delhi
+709,2012,Toyota,Etios,G,Manual,"59,289 km",1st owner,Petrol,DL10-CE3178,"₹4,766/month",₹2.44 Lakh,On Zero down payment,Noida
+710,2020,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"12,183 km",1st owner,Petrol,DL9C-AT9290,"₹9,345/month",₹4.78 Lakh,On Zero down payment,Noida
+711,2019,Honda,Jazz,1.2L I-VTEC V,Manual,"67,198 km",1st owner,CNG,UP16-CL5502,"₹12,864/month",₹6.58 Lakh,On Zero down payment,Ghaziabad
+712,2022,Maruti,Alto,VXI,Manual,"5,859 km",1st owner,Petrol,UP16-DE2847,"₹8,231/month",₹4.21 Lakh,On Zero down payment,Noida
+713,2018,Renault,Kwid,RXT 1.0,Manual,"20,930 km",1st owner,Petrol,DL8C-AU7900,"₹6,706/month",₹3.43 Lakh,On Zero down payment,Noida
+714,2022,Maruti,Alto,VXI,Manual,"5,481 km",1st owner,Petrol,DL12-CV1604,"₹8,055/month",₹4.12 Lakh,On Zero down payment,Noida
+715,2019,Maruti,Vitara Brezza,VDI,Manual,"82,773 km",1st owner,Diesel,UP16-CL2632,"₹12,317/month",₹6.3 Lakh,On Zero down payment,Noida
+716,2018,Maruti,Alto 800,LXI,Manual,"19,021 km",1st owner,Petrol,DL1C-AA7003,"₹6,452/month",₹3.3 Lakh,On Zero down payment,Noida
+717,2018,Maruti,Vitara Brezza,ZDI AMT,Automatic,"70,062 km",1st owner,Diesel,HR51-BV0125,"₹13,666/month",₹6.99 Lakh,On Zero down payment,New Delhi
+718,2014,Maruti,Ertiga,VXI,Manual,"87,258 km",1st owner,Petrol,DL1C-S2529,"₹11,065/month",₹5.66 Lakh,On Zero down payment,Faridabad
+719,2012,Maruti,Swift Dzire,VXI,Manual,"22,466 km",2nd owner,Petrol,DL6C-L5650,"₹6,002/month",₹3.07 Lakh,On Zero down payment,New Delhi
+720,2015,Hyundai,Elite i20,ASTA 1.2,Manual,"71,456 km",1st owner,Petrol,HR26-CR9693,"₹10,283/month",₹5.26 Lakh,On Zero down payment,New Delhi
+721,2020,Renault,Kwid,RXL 1.0 AMT,Automatic,"17,843 km",1st owner,Petrol,DL3C-CT3924,"₹8,881/month",₹4.54 Lakh,On Zero down payment,Noida
+722,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"73,221 km",1st owner,Petrol,DL7C-N0119,"₹3,988/month",₹2.04 Lakh,On Zero down payment,Noida
+723,2011,Toyota,Etios,G,Manual,"76,474 km",1st owner,Petrol,DL10-CE0790,"₹4,164/month",₹2.13 Lakh,On Zero down payment,New Delhi
+724,2013,Maruti,Swift,VXI,Manual,"77,946 km",1st owner,Petrol,HR36-U8815,"₹6,778/month",₹3.47 Lakh,On Zero down payment,New Delhi
+725,2012,Maruti,Ritz,VXI,Manual,"91,383 km",1st owner,Petrol,DL12-CC5688,"₹4,203/month",₹2.15 Lakh,On Zero down payment,Noida
+726,2011,Hyundai,i20,MAGNA 1.2,Manual,"58,090 km",2nd owner,Petrol,DL8C-T8138,"₹3,949/month",₹2.02 Lakh,On Zero down payment,New Delhi
+727,2014,Maruti,Ertiga,VXI,Manual,"61,950 km",1st owner,Petrol,HR26-CH7911,"₹10,714/month",₹5.48 Lakh,On Zero down payment,New Delhi
+728,2016,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"50,477 km",1st owner,Petrol,DL3C-CE1441,"₹10,029/month",₹5.13 Lakh,On Zero down payment,New Delhi
+729,2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,"81,800 km",1st owner,Petrol,HR36-AB4731,"₹10,518/month",₹5.38 Lakh,On Zero down payment,Faridabad
+730,2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"44,701 km",1st owner,CNG,DL9C-AT7592,"₹13,275/month",₹6.79 Lakh,On Zero down payment,Noida
+731,2010,Hyundai,i10,SPORTZ 1.2,Manual,"83,270 km",1st owner,Petrol,DL10-CA6934,"₹3,148/month",₹1.61 Lakh,On Zero down payment,Noida
+732,2011,Hyundai,i10,MAGNA 1.2,Manual,"47,013 km",1st owner,Petrol,HR29-Z7318,"₹3,480/month",₹1.78 Lakh,On Zero down payment,New Delhi
+733,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"89,507 km",2nd owner,Petrol,HR26-BS2226,"₹4,106/month",₹2.1 Lakh,On Zero down payment,Faridabad
+734,2011,Toyota,Etios,G,Manual,"55,556 km",1st owner,Petrol,DL4C-NE7363,"₹3,847/month",₹1.97 Lakh,On Zero down payment,Noida
+735,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"22,733 km",1st owner,Petrol,UP16-CV4689,"₹12,794/month",₹6.54 Lakh,On Zero down payment,Noida
+736,2020,Maruti,IGNIS,DELTA 1.2,Manual,"30,917 km",1st owner,Petrol,DL8C-AZ7445,"₹11,339/month",₹5.8 Lakh,On Zero down payment,Noida
+737,2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"54,959 km",1st owner,Petrol,DL9C-AL9167,"₹9,619/month",₹4.92 Lakh,On Zero down payment,Noida
+738,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"82,049 km",1st owner,CNG,HR29-AP3204,"₹9,865/month",₹5.05 Lakh,On Zero down payment,New Delhi
+739,2010,Hyundai,i10,SPORTZ 1.2,Manual,"74,002 km",2nd owner,Petrol,DL10-CA6040,"₹3,265/month",₹1.67 Lakh,On Zero down payment,New Delhi
+740,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"65,413 km",1st owner,Petrol,UP16-CV2157,"₹4,501/month",₹2.3 Lakh,On Zero down payment,Ghaziabad
+741,2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,"89,405 km",1st owner,CNG,HR10-AG3184,"₹10,459/month",₹5.35 Lakh,On Zero down payment,New Delhi
+742,2018,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"75,831 km",2nd owner,Petrol,UP14-DX5618,"₹14,819/month",₹7.58 Lakh,On Zero down payment,Noida
+743,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"71,475 km",1st owner,Petrol,DL12-CL7189,"₹9,951/month",₹5.09 Lakh,On Zero down payment,Ghaziabad
+744,2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"15,573 km",1st owner,Petrol,DL8C-BA2944,"₹13,763/month",₹7.04 Lakh,On Zero down payment,Noida
+745,2013,Honda,Brio,S MT,Manual,"68,998 km",1st owner,Petrol,UP80-CK8439,"₹5,435/month",₹2.78 Lakh,On Zero down payment,Noida
+746,2011,Toyota,Etios,G,Manual,"69,278 km",2nd owner,Petrol,DL8C-X1612,"₹3,773/month",₹1.93 Lakh,On Zero down payment,Noida
+747,2011,Toyota,Etios,V,Manual,"93,940 km",1st owner,Petrol,DL3C-BX0461,"₹4,047/month",₹2.07 Lakh,On Zero down payment,New Delhi
+748,2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"64,637 km",1st owner,Petrol,DL2C-AX0733,"₹10,929/month",₹5.59 Lakh,On Zero down payment,Noida
+749,2011,Toyota,Etios,G SP,Manual,"96,267 km",1st owner,Petrol,UP16-AD8848,"₹4,047/month",₹2.07 Lakh,On Zero down payment,Ghaziabad
+750,2011,Toyota,Etios,G,Manual,"92,360 km",1st owner,Petrol,DL4C-NA5502,"₹4,027/month",₹2.06 Lakh,On Zero down payment,Noida
+751,2015,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"68,926 km",1st owner,Petrol,UP16-BA9143,"₹9,912/month",₹5.07 Lakh,On Zero down payment,Noida
+752,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"55,600 km",1st owner,Petrol,DL9C-AN2104,"₹10,229/month",₹5.23 Lakh,On Zero down payment,New Delhi
+753,2012,Honda,Brio,S MT,Manual,"24,026 km",1st owner,Petrol,DL7C-N5179,"₹6,100/month",₹3.12 Lakh,On Zero down payment,New Delhi
+754,2011,Toyota,Etios,G,Manual,"51,710 km",1st owner,Petrol,DL8C-AB0546,"₹4,536/month",₹2.32 Lakh,On Zero down payment,Noida
+755,2011,Toyota,Etios,G,Manual,"73,320 km",1st owner,Petrol,HR51-AM8835,"₹5,337/month",₹2.73 Lakh,On Zero down payment,Faridabad
+756,2021,Hyundai,Verna,SX 1.5 VTVT IVT,Automatic,"16,426 km",2nd owner,Petrol,DL3C-CU6905,"₹20,418/month",₹10.73 Lakh,On Zero down payment,Noida
+757,2022,Volkswagen,VIRTUS,COMFORTLINE TSI 1.0 MT,Manual,"26,431 km",1st owner,Petrol,HR26-EW8316,"₹18,653/month",₹9.8 Lakh,On Zero down payment,Gurgaon
+758,2020,Hyundai,VENUE,S 1.2,Manual,"15,694 km",1st owner,Petrol,DL1C-AC8231,"₹13,392/month",₹6.85 Lakh,On Zero down payment,New Delhi
+759,2018,Mahindra,KUV 100 NXT,K4+ P 6 STR,Manual,"25,655 km",1st owner,Petrol,DL8C-AU1137,"₹7,051/month",₹3.61 Lakh,On Zero down payment,Gurgaon
+760,2016,Maruti,Alto K10,LXI,Manual,"44,719 km",2nd owner,Petrol,HR13-L3011,"₹4,575/month",₹2.34 Lakh,On Zero down payment,New Delhi
+761,2022,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"32,780 km",1st owner,Petrol,HR13-Q0336,"₹20,043/month",₹10.53 Lakh,On Zero down payment,Gurgaon
+762,2018,Maruti,Swift,LXI,Manual,"85,999 km",1st owner,CNG,HR29-AS1110,"₹8,622/month",₹4.41 Lakh,On Zero down payment,Faridabad
+763,2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,"47,241 km",1st owner,Petrol,HR98-A0564,"₹26,080/month",₹13.7 Lakh,On Zero down payment,Gurgaon
+764,2021,Maruti,New Wagon-R,LXI 1.0,Manual,"36,033 km",1st owner,Petrol,HR98-C5402,"₹8,641/month",₹4.42 Lakh,On Zero down payment,Gurgaon
+765,2019,Toyota,Glanza,V CVT,Automatic,"38,278 km",1st owner,Petrol,HR87-B0070,"₹13,490/month",₹6.9 Lakh,On Zero down payment,Faridabad
+766,2012,Hyundai,Eon,MAGNA +,Manual,"33,784 km",2nd owner,Petrol,DL3C-BQ4075,"₹2,985/month",₹1.53 Lakh,On Zero down payment,New Delhi
+767,2015,Maruti,Wagon R 1.0,VXI,Manual,"84,642 km",1st owner,Petrol,DL3C-BU9943,"₹5,063/month",₹2.59 Lakh,On Zero down payment,Noida
+768,2015,Hyundai,Creta,S 1.6 PETROL,Manual,"51,205 km",2nd owner,Petrol,DL10-CG3442,"₹12,974/month",₹6.64 Lakh,On Zero down payment,New Delhi
+769,2012,Hyundai,Eon,ERA + SE,Manual,"40,103 km",2nd owner,Petrol,DL12-CE2232,"₹3,382/month",₹1.73 Lakh,On Zero down payment,New Delhi
+770,2017,Tata,TIGOR,XZA PETROL,Automatic,"34,540 km",1st owner,Petrol,DL12-CM5112,"₹9,619/month",₹4.92 Lakh,On Zero down payment,New Delhi
+771,2017,Honda,Amaze,1.2L I-VTEC S OPT,Manual,"49,021 km",1st owner,Petrol,HR51-BR4617,"₹8,309/month",₹4.25 Lakh,On Zero down payment,Gurgaon
+772,2021,Nissan,MAGNITE,XV MT,Manual,"30,498 km",1st owner,Petrol,HR72-F2707,"₹12,219/month",₹6.25 Lakh,On Zero down payment,Gurgaon
+773,2018,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"14,362 km",1st owner,Petrol,HR76-E6927,"₹10,948/month",₹5.6 Lakh,On Zero down payment,Gurgaon
+774,2017,Maruti,Alto K10,VXI (O) AMT,Automatic,"50,918 km",1st owner,Petrol,UP14-DH3217,"₹6,080/month",₹3.11 Lakh,On Zero down payment,Noida
+775,2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"37,941 km",2nd owner,Petrol,DL4C-AX5201,"₹7,312/month",₹3.74 Lakh,On Zero down payment,Noida
+776,2014,Hyundai,Santro Xing,GL PLUS,Manual,"95,079 km",2nd owner,CNG,HR72-B4465,"₹4,164/month",₹2.13 Lakh,On Zero down payment,New Delhi
+777,2017,Honda,WR-V,1.2L I-VTEC S MT,Manual,"24,349 km",2nd owner,Petrol,DL8C-AS4887,"₹10,714/month",₹5.48 Lakh,On Zero down payment,Noida
+778,2021,KIA,SONET,HTX PLUS 1.5,Manual,"33,161 km",1st owner,Diesel,HR26-EN2264,"₹19,795/month",₹10.4 Lakh,On Zero down payment,Gurgaon
+779,2015,Maruti,Ciaz,ZXI,Manual,"75,992 km",1st owner,Petrol,HR26-CM8135,"₹9,404/month",₹4.81 Lakh,On Zero down payment,Gurgaon
+780,2022,Nissan,MAGNITE,XV TURBO CVT,Automatic,"20,138 km",1st owner,Petrol,HR98-D2921,"₹16,712/month",₹8.78 Lakh,On Zero down payment,Gurgaon
+781,2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"79,667 km",1st owner,Petrol,HR51-BX1414,"₹16,198/month",₹8.51 Lakh,On Zero down payment,Gurgaon
+782,2022,Tata,Harrier,XZA PLUS JET 2.0L,Automatic,"40,293 km",1st owner,Diesel,HR26-FA0839,"₹35,556/month",₹18.68 Lakh,On Zero down payment,Gurgaon
+783,2017,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,"44,261 km",2nd owner,Petrol,DL3C-CM4872,"₹11,300/month",₹5.78 Lakh,On Zero down payment,Noida
+784,2015,Maruti,Wagon R 1.0,LXI,Manual,"28,644 km",1st owner,Petrol,DL5C-E8114,"₹5,292/month",₹2.71 Lakh,On Zero down payment,Noida
+785,2020,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"26,669 km",2nd owner,Petrol,HR26-EJ1169,"₹7,722/month",₹3.95 Lakh,On Zero down payment,New Delhi
+786,2021,Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"11,169 km",1st owner,Petrol,HR26-ER0566,"₹16,293/month",₹8.56 Lakh,On Zero down payment,Gurgaon
+787,2014,Maruti,Swift,VDI,Manual,"68,744 km",3rd owner,Diesel,UP80-CU8823,"₹5,857/month",₹3 Lakh,On Zero down payment,Gurgaon
+788,2013,Maruti,Wagon R 1.0,VXI,Manual,"33,910 km",1st owner,Petrol,DL13-CA6240,"₹4,665/month",₹2.39 Lakh,On Zero down payment,Ghaziabad
+789,2016,Honda,City,1.5L I-VTEC V MT,Manual,"79,622 km",2nd owner,Petrol,HR72-C2609,"₹10,362/month",₹5.3 Lakh,On Zero down payment,New Delhi
+790,2021,Jeep,Compass,SPORT 1.4 PETROL DCT,Automatic,"37,129 km",2nd owner,Petrol,DL1C-AE0280,"₹31,825/month",₹16.72 Lakh,On Zero down payment,Gurgaon
+791,2018,Hyundai,Verna,1.6 VTVT SX,Manual,"56,462 km",2nd owner,Petrol,DL9C-AQ1572,"₹14,252/month",₹7.29 Lakh,On Zero down payment,Noida
+792,2019,Maruti,Alto K10,VXI,Manual,"58,036 km",1st owner,Petrol,HR26-DX3998,"₹5,904/month",₹3.02 Lakh,On Zero down payment,New Delhi
+793,2019,Honda,Amaze,1.2L I-VTEC E,Manual,"46,995 km",1st owner,Petrol,DL4C-AZ0219,"₹10,127/month",₹5.18 Lakh,On Zero down payment,New Delhi
+794,2017,Maruti,Swift,LXI (O),Manual,"80,205 km",1st owner,Petrol,DL6C-Q4987,"₹6,745/month",₹3.45 Lakh,On Zero down payment,Noida
+795,2020,Tata,NEXON,XM SUNROOF DIESEL,Manual,"36,490 km",1st owner,Diesel,HR13-R8533,"₹15,366/month",₹7.86 Lakh,On Zero down payment,New Delhi
+796,2021,Renault,TRIBER,RXE MT,Manual,"32,062 km",1st owner,Petrol,UP14-EV5850,"₹10,538/month",₹5.39 Lakh,On Zero down payment,Noida
+797,2021,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"31,377 km",1st owner,Petrol,HR04-K0713,"₹8,553/month",₹4.38 Lakh,On Zero down payment,Gurgaon
+798,2017,Hyundai,New Elantra,2.0 SX(O) AT PETROL,Automatic,"113,960 km",1st owner,Petrol,DL12-CL9996,"₹17,435/month",₹9.16 Lakh,On Zero down payment,Gurgaon
+799,2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"48,909 km",2nd owner,Petrol,DL7C-M9059,"₹7,625/month",₹3.9 Lakh,On Zero down payment,Noida
+800,2018,Maruti,Wagon R 1.0,LXI,Manual,"30,644 km",1st owner,Petrol,UP14-DV3685,"₹7,273/month",₹3.72 Lakh,On Zero down payment,Noida
+801,2019,Tata,Harrier,XZ 2.0L,Manual,"72,524 km",1st owner,Diesel,HR26-DX3259,"₹19,763/month",₹10.38 Lakh,On Zero down payment,Gurgaon
+802,2017,Hyundai,Grand i10,ERA 1.2 KAPPA VTVT,Manual,"31,437 km",1st owner,Petrol,DL7C-Q2067,"₹7,664/month",₹3.92 Lakh,On Zero down payment,Noida
+803,2023,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,"12,237 km",1st owner,Petrol,HR31-T2527,"₹22,365/month",₹11.75 Lakh,On Zero down payment,Faridabad
+804,2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,"13,401 km",1st owner,Petrol,DL14-CC6628,"₹9,873/month",₹5.05 Lakh,On Zero down payment,Noida
+805,2022,Tata,NEXON,XZA PLUS (PREMIUM) KAZIRANGA PETROL,Automatic,"17,436 km",1st owner,Petrol,HR26-EW9210,"₹22,860/month",₹12.01 Lakh,On Zero down payment,Gurgaon
+806,2021,Nissan,MAGNITE,XE,Manual,"26,162 km",1st owner,Petrol,DL8C-BC2881,"₹11,183/month",₹5.72 Lakh,On Zero down payment,Noida
+807,2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,"13,737 km",1st owner,Petrol,HR87-E3229,"₹11,808/month",₹6.04 Lakh,On Zero down payment,Gurgaon
+808,2015,Maruti,Swift Dzire,LXI (O),Manual,"27,847 km",1st owner,Petrol,DL6C-P4837,"₹7,898/month",₹4.04 Lakh,On Zero down payment,New Delhi
+809,2013,Honda,CRV,2.4 AWD AT,Automatic,"92,293 km",1st owner,Petrol,DL3C-BE8600,"₹13,451/month",₹6.88 Lakh,On Zero down payment,Noida
+810,2018,Renault,Captur,RXT PETROL,Manual,"35,829 km",1st owner,Petrol,HR26-DM4424,"₹15,327/month",₹7.84 Lakh,On Zero down payment,Gurgaon
+811,2020,Honda,City,1.5L I-VTEC VX,Manual,"10,579 km",1st owner,Petrol,DL10-CN7975,"₹20,005/month",₹10.51 Lakh,On Zero down payment,New Delhi
+812,2012,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,"89,814 km",1st owner,Petrol,UP80-CD2319,"₹4,848/month",₹2.48 Lakh,On Zero down payment,Ghaziabad
+813,2019,Maruti,Dzire,ZDI PLUS AMT,Automatic,"44,933 km",3rd owner,Diesel,HR26-EA1397,"₹13,196/month",₹6.75 Lakh,On Zero down payment,New Delhi
+814,2020,Mahindra,XUV300,W6 1.5 DIESEL AMT,Automatic,"14,394 km",1st owner,Diesel,DL12-CS9229,"₹18,368/month",₹9.65 Lakh,On Zero down payment,Gurgaon
+815,2019,Maruti,Baleno,ALPHA PETROL 1.2,Manual,"25,418 km",2nd owner,Petrol,HR26-EF3128,"₹13,060/month",₹6.68 Lakh,On Zero down payment,Gurgaon
+816,2021,Renault,TRIBER,1.0 RXE Petrol,Manual,"19,652 km",1st owner,Petrol,DL8C-BC6854,"₹10,733/month",₹5.49 Lakh,On Zero down payment,Ghaziabad
+817,2022,Tata,Safari,XMA,Automatic,"20,858 km",1st owner,Diesel,HR98-E7772,"₹35,879/month",₹18.85 Lakh,On Zero down payment,Gurgaon
+818,2022,Hyundai,VENUE,S 1.2,Manual,"94,282 km",1st owner,Petrol,UP15-DS7265,"₹14,721/month",₹7.53 Lakh,On Zero down payment,Ghaziabad
+819,2021,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"20,911 km",1st owner,Petrol,DL2C-BC5706,"₹17,302/month",₹9.09 Lakh,On Zero down payment,Noida
+820,2017,Maruti,Baleno,SIGMA PETROL 1.2,Manual,"22,956 km",1st owner,Petrol,HR51-BQ9472,"₹9,169/month",₹4.69 Lakh,On Zero down payment,Gurgaon
+821,2011,Hyundai,Eon,MAGNA +,Manual,"64,150 km",1st owner,Petrol,HR26-BN4332,"₹3,558/month",₹1.82 Lakh,On Zero down payment,Gurgaon
+822,2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,"38,606 km",1st owner,Petrol,UP16-BK7853,"₹10,186/month",₹5.21 Lakh,On Zero down payment,Noida
+823,2019,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,"64,013 km",1st owner,Petrol,DL5C-Q6799,"₹12,102/month",₹6.19 Lakh,On Zero down payment,Noida
+824,2018,Mahindra,KUV 100 NXT,K2+ P 6 STR,Manual,"28,356 km",1st owner,Petrol,DL12-CR0653,"₹8,884/month",₹4.54 Lakh,On Zero down payment,Noida
+825,2018,Renault,Kwid,RXT 1.0 AMT (O),Automatic,"100,669 km",1st owner,Petrol,DL3C-CN9581,"₹5,943/month",₹3.04 Lakh,On Zero down payment,Gurgaon
+826,2017,Toyota,Corolla Altis,G AT,Automatic,"75,836 km",1st owner,Petrol,DL10-CJ6664,"₹18,406/month",₹9.67 Lakh,On Zero down payment,New Delhi
+827,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"27,661 km",1st owner,Petrol,DL12-CU1344,"₹11,750/month",₹6.01 Lakh,On Zero down payment,Noida
+828,2019,Maruti,Vitara Brezza,VDI,Manual,"61,307 km",1st owner,Diesel,HR30-U9902,"₹13,451/month",₹6.88 Lakh,On Zero down payment,Gurgaon
+829,2016,Honda,Amaze,1.2L I-VTEC SX,Manual,"43,841 km",1st owner,Petrol,DL4C-AU7485,"₹8,446/month",₹4.32 Lakh,On Zero down payment,New Delhi
+830,2017,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"46,749 km",1st owner,Petrol,DL10-CJ9529,"₹8,739/month",₹4.47 Lakh,On Zero down payment,New Delhi
+831,2011,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,"74,103 km",1st owner,Petrol,DL3C-BV2708,"₹4,281/month",₹2.19 Lakh,On Zero down payment,New Delhi
+832,2021,Honda,Amaze,1.2L I-VTEC VX,Manual,"32,496 km",1st owner,Petrol,DL10-CP8046,"₹13,939/month",₹7.13 Lakh,On Zero down payment,New Delhi
+833,2017,Maruti,Swift Dzire,VXI,Manual,"60,749 km",1st owner,Petrol,DL2C-AW6536,"₹9,286/month",₹4.75 Lakh,On Zero down payment,Ghaziabad
+834,2013,Maruti,Wagon R Stingray,VXI,Manual,"49,149 km",1st owner,Petrol,DL5C-K5126,"₹5,630/month",₹2.88 Lakh,On Zero down payment,Noida
+835,2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"125,070 km",2nd owner,Petrol,DL2C-AT1218,"₹5,826/month",₹2.98 Lakh,On Zero down payment,New Delhi
+836,2011,Maruti,Wagon R 1.0,VXI,Manual,"24,576 km",1st owner,Petrol,HR26-BJ3203,"₹3,683/month",₹1.88 Lakh,On Zero down payment,Faridabad
+837,2019,Honda,Jazz,1.5L I-DTEC VX,Manual,"27,238 km",1st owner,Diesel,UP14-EA3668,"₹13,333/month",₹6.82 Lakh,On Zero down payment,Noida
+838,2018,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,"48,565 km",1st owner,Petrol,HR30-S2699,"₹10,166/month",₹5.2 Lakh,On Zero down payment,New Delhi
+839,2019,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,"28,461 km",1st owner,Petrol,HR26-EC9810,"₹10,889/month",₹5.57 Lakh,On Zero down payment,Gurgaon
+840,2019,Maruti,XL6,ZETA AT,Automatic,"21,515 km",1st owner,Petrol,HR26-ED9904,"₹20,937/month",₹11 Lakh,On Zero down payment,Gurgaon
+841,2018,Volkswagen,Ameo,COMFORTLINE 1.0L,Manual,"17,303 km",1st owner,Petrol,DL10-CL5628,"₹10,362/month",₹5.3 Lakh,On Zero down payment,Noida
+842,2021,Renault,Kiger,RXZ MT DUAL TONE,Manual,"45,459 km",1st owner,Petrol,HR76-G8179,"₹13,020/month",₹6.66 Lakh,On Zero down payment,New Delhi
+843,2018,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"99,668 km",1st owner,Diesel,HR36-AD6269,"₹11,847/month",₹6.06 Lakh,On Zero down payment,Gurgaon
+844,2018,Ford,FREESTYLE,TITANIUM PLUS 1.5 DIESEL,Manual,"38,882 km",1st owner,Diesel,HR26-DQ9867,"₹11,046/month",₹5.65 Lakh,On Zero down payment,Gurgaon
+845,2012,Maruti,Swift,VXI,Manual,"86,250 km",1st owner,Petrol,UP14-BR6067,"₹5,220/month",₹2.67 Lakh,On Zero down payment,Noida
+846,2019,KIA,SELTOS,HTX 1.5 PETROL,Manual,"27,579 km",2nd owner,Petrol,DL2C-BB0807,"₹21,965/month",₹11.54 Lakh,On Zero down payment,Noida
+847,2012,Hyundai,i10,SPORTZ 1.2,Manual,"120,569 km",1st owner,CNG,HR51-AT3079,"₹4,418/month",₹2.26 Lakh,On Zero down payment,Gurgaon
+848,2022,Hyundai,NEW I20 N LINE,N6 1.0 TURBO GDI IMT,Manual,"10,616 km",1st owner,Petrol,UP14-FB0380,"₹20,214/month",₹10.62 Lakh,On Zero down payment,Noida
+849,2015,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"79,982 km",1st owner,Petrol,DL10-CG2317,"₹6,412/month",₹3.28 Lakh,On Zero down payment,New Delhi
+850,2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,"17,034 km",1st owner,Petrol,DL1C-AC5837,"₹14,839/month",₹7.59 Lakh,On Zero down payment,New Delhi
+851,2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"38,530 km",2nd owner,Petrol,DL4C-AZ0211,"₹17,607/month",₹9.25 Lakh,On Zero down payment,Noida
+852,2012,Maruti,A Star,VXI (ABS) AT,Automatic,"76,588 km",1st owner,Petrol,DL2C-AP6004,"₹4,086/month",₹2.09 Lakh,On Zero down payment,Noida
+853,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"68,156 km",1st owner,Diesel,HR26-EA8827,"₹13,626/month",₹6.97 Lakh,On Zero down payment,Gurgaon
+854,2018,Maruti,Celerio,VXI (O),Manual,"82,093 km",1st owner,Petrol,DL2C-AY5009,"₹7,879/month",₹4.03 Lakh,On Zero down payment,Noida
+855,2013,Honda,Amaze,1.2L I-VTEC S,Manual,"88,989 km",1st owner,Petrol,DL4C-AN9502,"₹5,846/month",₹2.99 Lakh,On Zero down payment,New Delhi
+856,2019,Hyundai,NEW SANTRO,MAGNA,Manual,"28,413 km",1st owner,Petrol,HR13-Q4240,"₹7,957/month",₹4.07 Lakh,On Zero down payment,New Delhi
+857,2017,Honda,City,1.5L I-VTEC VX CVT,Automatic,"76,697 km",2nd owner,Petrol,DL14-CD1995,"₹15,230/month",₹7.79 Lakh,On Zero down payment,Noida
+858,2019,Ford,Ecosport,TREND 1.5L DIESEL,Manual,"35,212 km",1st owner,Diesel,HR05-BB1368,"₹14,408/month",₹7.37 Lakh,On Zero down payment,Gurgaon
+859,2019,Datsun,Go Plus,T,Manual,"86,237 km",1st owner,Petrol,HR85-D2160,"₹7,781/month",₹3.98 Lakh,On Zero down payment,New Delhi
+860,2018,Tata,NEXON,XT PETROL,Manual,"82,515 km",2nd owner,Petrol,UP78-FC0100,"₹10,889/month",₹5.57 Lakh,On Zero down payment,Ghaziabad
+861,2014,Maruti,Ertiga,VXI,Manual,"43,894 km",1st owner,Petrol,HR29-AH3577,"₹10,440/month",₹5.34 Lakh,On Zero down payment,Gurgaon
+862,2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,"94,499 km",1st owner,Petrol,DL1C-V6139,"₹8,641/month",₹4.42 Lakh,On Zero down payment,Noida
+863,2021,Skoda,Rapid,MONTE CARLO TSI,Manual,"43,210 km",2nd owner,Petrol,DL10-CP7214,"₹18,368/month",₹9.65 Lakh,On Zero down payment,New Delhi
+864,2022,Tata,TIGOR,XZ PLUS CNG,Manual,"28,325 km",1st owner,CNG,HR26-ET8568,"₹14,487/month",₹7.41 Lakh,On Zero down payment,New Delhi
+865,2015,Mahindra,Scorpio,S8,Manual,"81,451 km",1st owner,Diesel,UP16-BD2888,"₹17,607/month",₹9.25 Lakh,On Zero down payment,Noida
+866,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"47,622 km",1st owner,Diesel,UP16-CJ2153,"₹14,174/month",₹7.25 Lakh,On Zero down payment,Ghaziabad
+867,2021,Tata,ALTROZ,XM PLUS PETROL,Manual,"2,493 km",1st owner,Petrol,DL5C-T2141,"₹14,565/month",₹7.45 Lakh,On Zero down payment,Noida
+868,2018,Toyota,Etios,V PLATINUM,Manual,"23,654 km",1st owner,Petrol,UP14-DU8484,"₹11,007/month",₹5.63 Lakh,On Zero down payment,Noida
+869,2022,Renault,Kwid,CLIMBER MT 1.0,Manual,"13,872 km",1st owner,Petrol,DL12-CU8279,"₹8,798/month",₹4.5 Lakh,On Zero down payment,New Delhi
+870,2012,Honda,Brio,S MT,Manual,"43,512 km",1st owner,Petrol,DL9C-U4086,"₹4,809/month",₹2.46 Lakh,On Zero down payment,Noida
+871,2015,Honda,City,1.5L I-VTEC V MT,Manual,"64,942 km",1st owner,Petrol,UP15-BW0408,"₹10,557/month",₹5.4 Lakh,On Zero down payment,Noida
+872,2019,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"39,536 km",1st owner,Petrol,HR26-DX2227,"₹12,023/month",₹6.15 Lakh,On Zero down payment,Faridabad
+873,2011,Hyundai,i20,SPORTZ (O) 1.2,Manual,"56,142 km",1st owner,Petrol,DL2C-AM4597,"₹4,086/month",₹2.09 Lakh,On Zero down payment,Ghaziabad
+874,2018,Honda,Amaze,1.2L I-VTEC V,Manual,"19,663 km",1st owner,Petrol,DL4C-AY3497,"₹11,887/month",₹6.08 Lakh,On Zero down payment,Noida
+875,2017,Hyundai,Elite i20,ASTA 1.2 (O),Manual,"99,507 km",2nd owner,CNG,DL12-CM0956,"₹10,733/month",₹5.49 Lakh,On Zero down payment,New Delhi
+876,2019,Honda,Amaze,1.2L I-VTEC S,Manual,"12,256 km",1st owner,Petrol,HR26-EE5216,"₹12,180/month",₹6.23 Lakh,On Zero down payment,New Delhi
+877,2014,Maruti,Swift Dzire,VXI,Manual,"95,715 km",1st owner,Petrol,UP16-AV9010,"₹6,784/month",₹3.47 Lakh,On Zero down payment,Ghaziabad
+878,2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"99,699 km",1st owner,CNG,DL9C-AV5951,"₹11,847/month",₹6.06 Lakh,On Zero down payment,Ghaziabad
+879,2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,"89,440 km",1st owner,Petrol,UP37-F4825,"₹9,853/month",₹5.04 Lakh,On Zero down payment,Ghaziabad
+880,2011,Volkswagen,Vento,TRENDLINE 1.6,Manual,"69,805 km",3rd owner,Petrol,DL3C-BK0888,"₹3,871/month",₹1.98 Lakh,On Zero down payment,New Delhi
+881,2019,Ford,Ecosport,TREND 1.5L DIESEL,Manual,"28,009 km",1st owner,Diesel,DL10-CM6672,"₹12,864/month",₹6.58 Lakh,On Zero down payment,New Delhi
+882,2021,Datsun,Go Plus,T(O),Manual,"10,742 km",1st owner,Petrol,UP32-MD0384,"₹9,501/month",₹4.86 Lakh,On Zero down payment,Noida
+883,2012,Maruti,Alto 800,LXI,Manual,"24,828 km",1st owner,Petrol,DL12-CC7749,"₹3,715/month",₹1.9 Lakh,On Zero down payment,Noida
+884,2021,Renault,Kwid,RXT 0.8,Manual,"23,561 km",1st owner,Petrol,HR51-CD9293,"₹8,061/month",₹4.12 Lakh,On Zero down payment,New Delhi
+885,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"41,393 km",1st owner,Petrol,DL2C-AM3443,"₹4,184/month",₹2.14 Lakh,On Zero down payment,New Delhi
+886,2019,Tata,NEXON,XZ PLUS PETROL,Manual,"41,861 km",1st owner,Petrol,UP14-EH3032,"₹14,819/month",₹7.58 Lakh,On Zero down payment,Noida
+887,2018,Renault,Kwid,RXL 1.0,Manual,"41,712 km",2nd owner,Petrol,DL9C-AQ1862,"₹5,665/month",₹2.9 Lakh,On Zero down payment,Noida
+888,2015,Maruti,Celerio,ZXI AMT,Automatic,"106,212 km",1st owner,Petrol,HR81-7243,"₹6,621/month",₹3.39 Lakh,On Zero down payment,New Delhi
+889,2012,Honda,City,1.5L I-VTEC V AT,Automatic,"49,122 km",1st owner,Petrol,DL3C-BA7022,"₹7,093/month",₹3.63 Lakh,On Zero down payment,New Delhi
+890,2017,Hyundai,i20 Active,1.2 S,Manual,"57,201 km",1st owner,Petrol,UP32-HZ2382,"₹11,808/month",₹6.04 Lakh,On Zero down payment,Noida
+891,2020,Hyundai,Creta,SX (O) IVT 1.5 PETROL,Automatic,"29,177 km",1st owner,Petrol,UP16-CP7202,"₹27,714/month",₹14.56 Lakh,On Zero down payment,Noida
+892,2010,Maruti,Zen Estilo,LXI,Manual,"19,332 km",1st owner,Petrol,DL4C-AM3771,"₹2,424/month",₹1.24 Lakh,On Zero down payment,New Delhi
+893,2021,Datsun,Redi Go,A,Manual,"15,575 km",1st owner,Petrol,DL7C-S1192,"₹7,507/month",₹3.84 Lakh,On Zero down payment,Noida
+894,2010,Maruti,Alto K10,LXI P,Manual,"52,162 km",1st owner,Petrol,DL2C-AL9120,"₹2,483/month",₹1.27 Lakh,On Zero down payment,New Delhi
+895,2017,Honda,City,1.5L I-VTEC V MT,Manual,"55,234 km",1st owner,Petrol,DL1C-X4012,"₹14,311/month",₹7.32 Lakh,On Zero down payment,New Delhi
+896,2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,"92,274 km",1st owner,Diesel,HR29-AR4451,"₹12,004/month",₹6.14 Lakh,On Zero down payment,New Delhi
+897,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"17,783 km",1st owner,Petrol,DL2C-AX4831,"₹10,650/month",₹5.45 Lakh,On Zero down payment,Noida
+898,2014,Honda,Brio,S MT,Manual,"99,665 km",1st owner,Petrol,HR51-AZ9619,"₹5,279/month",₹2.7 Lakh,On Zero down payment,New Delhi
+899,2011,Maruti,Alto K10,VXI,Manual,"44,019 km",1st owner,Petrol,UP14-BF4110,"₹3,441/month",₹1.76 Lakh,On Zero down payment,Ghaziabad
+900,2012,Maruti,Wagon R 1.0,LXI,Manual,"65,900 km",1st owner,Petrol,DL12-CC4755,"₹4,184/month",₹2.14 Lakh,On Zero down payment,New Delhi
+901,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"46,747 km",1st owner,Petrol,DL6C-Q6988,"₹9,990/month",₹5.11 Lakh,On Zero down payment,New Delhi
+902,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"55,735 km",2nd owner,Petrol,DL7C-L6004,"₹3,871/month",₹1.98 Lakh,On Zero down payment,New Delhi
+903,2020,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,"12,503 km",1st owner,Petrol,UP16-CS6757,"₹9,697/month",₹4.96 Lakh,On Zero down payment,Ghaziabad
+904,2018,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"17,900 km",1st owner,Petrol,HR26-DP5579,"₹10,968/month",₹5.61 Lakh,On Zero down payment,Faridabad
+905,2011,Maruti,Swift,LXI,Manual,"52,400 km",1st owner,Petrol,DL1C-N4182,"₹4,418/month",₹2.26 Lakh,On Zero down payment,New Delhi
+906,2021,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"10,159 km",1st owner,Diesel,HR51-CD5365,"₹18,691/month",₹9.82 Lakh,On Zero down payment,Faridabad
+907,2015,Maruti,Wagon R 1.0,VXI,Manual,"18,413 km",1st owner,Petrol,HR26-CN6750,"₹6,452/month",₹3.3 Lakh,On Zero down payment,Faridabad
+908,2023,Maruti,Swift,LXI,Manual,"5,695 km",1st owner,Petrol,DL7C-U9406,"₹11,691/month",₹5.98 Lakh,On Zero down payment,Noida
+909,2022,Maruti,Vitara Brezza,LXI,Manual,"19,839 km",1st owner,Petrol,DL14-CG0690,"₹14,154/month",₹7.24 Lakh,On Zero down payment,Noida
+910,2022,Tata,NEXON,XM SUNROOF PETROL,Manual,"39,820 km",2nd owner,Petrol,HR26-EU8224,"₹14,819/month",₹7.58 Lakh,On Zero down payment,Gurgaon
+911,2023,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,"4,612 km",1st owner,Petrol,HR87-L0819,"₹22,327/month",₹11.73 Lakh,On Zero down payment,Gurgaon
+912,2020,Hyundai,Verna,SX 1.5 VTVT,Manual,"62,470 km",1st owner,Petrol,UP80-FP8233,"₹17,492/month",₹9.19 Lakh,On Zero down payment,New Delhi
+913,2020,Volkswagen,Polo,1.0 GT TSI AT,Automatic,"41,868 km",1st owner,Petrol,DL10-CP3025,"₹16,484/month",₹8.66 Lakh,On Zero down payment,Gurgaon
+914,2021,Tata,Tiago,XZ PETROL,Manual,"16,257 km",1st owner,Petrol,HR36-AJ2077,"₹9,951/month",₹5.09 Lakh,On Zero down payment,Gurgaon
+915,2015,Skoda,Rapid,ELEGANCE 1.6 MPI AT,Automatic,"121,133 km",1st owner,Petrol,HR26-CN4764,"₹8,583/month",₹4.39 Lakh,On Zero down payment,New Delhi
+916,2020,Hyundai,Creta,EX 1.5 PETROL,Manual,"14,614 km",1st owner,Petrol,UP32-LP9664,"₹19,567/month",₹10.28 Lakh,On Zero down payment,Faridabad
+917,2013,Hyundai,Eon,MAGNA +,Manual,"41,650 km",4th owner,Petrol,DL2C-AR2728,"₹3,480/month",₹1.78 Lakh,On Zero down payment,Ghaziabad
+918,2014,Honda,Amaze,1.2L I-VTEC S,Manual,"57,223 km",1st owner,Petrol,UP16-AW7231,"₹6,107/month",₹3.12 Lakh,On Zero down payment,Noida
+919,2015,Maruti,Alto K10,VXI AMT,Automatic,"13,613 km",1st owner,Petrol,HR26-CT1332,"₹5,861/month",₹3 Lakh,On Zero down payment,Gurgaon
+920,2020,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"37,378 km",1st owner,Petrol,HR26-EG3636,"₹27,695/month",₹14.55 Lakh,On Zero down payment,Gurgaon
+921,2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,"13,934 km",1st owner,Petrol,DL9C-AW6178,"₹27,314/month",₹14.35 Lakh,On Zero down payment,Gurgaon
+922,2018,Hyundai,Verna,1.6 VTVT SX,Manual,"50,302 km",2nd owner,CNG,HR06-BB5683,"₹14,154/month",₹7.24 Lakh,On Zero down payment,Gurgaon
+923,2016,Tata,Tiago,XZ PETROL,Manual,"39,542 km",2nd owner,Petrol,UP16-BL6802,"₹6,764/month",₹3.46 Lakh,On Zero down payment,Noida
+924,2014,Honda,Amaze,1.2L I-VTEC SX,Manual,"71,244 km",1st owner,Petrol,DL9C-U7960,"₹6,412/month",₹3.28 Lakh,On Zero down payment,Noida
+925,2017,Hyundai,Eon,ERA PLUS (O),Manual,"30,119 km",1st owner,Petrol,HR51-BR7762,"₹5,767/month",₹2.95 Lakh,On Zero down payment,Gurgaon
+926,2012,Maruti,Wagon R 1.0,LXI,Manual,"46,399 km",1st owner,Petrol,HR26-BT5062,"₹3,871/month",₹1.98 Lakh,On Zero down payment,Gurgaon
+927,2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"125,957 km",1st owner,Petrol,HR70-E1119,"₹13,666/month",₹6.99 Lakh,On Zero down payment,New Delhi
+928,2019,Toyota,Fortuner,2.8 4X2 MT,Manual,"93,996 km",1st owner,Diesel,UP14-DY3003,"₹51,392/month",₹27 Lakh,On Zero down payment,Noida
+929,2023,Hyundai,Creta,EX 1.5 PETROL,Manual,"14,329 km",1st owner,Petrol,DL9C-BB1402,"₹24,173/month",₹12.7 Lakh,On Zero down payment,Noida
+930,2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,"34,335 km",1st owner,Petrol,CH01-CG6461,"₹26,115/month",₹13.72 Lakh,On Zero down payment,Gurgaon
+931,2017,Maruti,Swift,LXI (O),Manual,"60,531 km",1st owner,Petrol,DL2C-AX1986,"₹7,191/month",₹3.68 Lakh,On Zero down payment,Gurgaon
+932,2021,Mahindra,Bolero,B6 (O),Manual,"59,897 km",1st owner,Diesel,UP15-DM3874,"₹15,464/month",₹7.91 Lakh,On Zero down payment,Noida
+933,2018,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"62,588 km",2nd owner,Petrol,DL9C-AQ2564,"₹11,183/month",₹5.72 Lakh,On Zero down payment,Noida
+934,2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,"97,201 km",1st owner,CNG,HR13-L6754,"₹7,918/month",₹4.05 Lakh,On Zero down payment,Gurgaon
+935,2021,Maruti,Dzire,VXI,Manual,"13,033 km",2nd owner,Petrol,HR26-EP1640,"₹13,001/month",₹6.65 Lakh,On Zero down payment,Gurgaon
+936,2022,Maruti,New Wagon-R,VXI 1.0,Manual,"14,105 km",1st owner,Petrol,DL5C-U0143,"₹9,130/month",₹4.67 Lakh,On Zero down payment,New Delhi
+937,2015,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"99,951 km",2nd owner,Petrol,DL1C-T8018,"₹12,051/month",₹6.16 Lakh,On Zero down payment,New Delhi
+938,2022,Maruti,New Wagon-R,VXI CNG 1.0,Manual,"38,558 km",1st owner,CNG,HR30-Y2873,"₹11,163/month",₹5.71 Lakh,On Zero down payment,Gurgaon
+939,2023,Maruti,Alto,LXI OPT CNG,Manual,"9,840 km",1st owner,CNG,HR26-EZ3234,"₹9,560/month",₹4.89 Lakh,On Zero down payment,Gurgaon
+940,2022,Maruti,Eeco,5 STR AC CNG (O),Manual,"30,328 km",1st owner,CNG,UP16-DK0604,"₹11,398/month",₹5.83 Lakh,On Zero down payment,Noida
+941,2013,Maruti,Swift,VXI,Manual,"65,776 km",1st owner,CNG,DL6C-N1859,"₹5,806/month",₹2.97 Lakh,On Zero down payment,New Delhi
+942,2016,Honda,Amaze,1.2L I-VTEC S,Manual,"63,284 km",1st owner,Petrol,DL10-CG9540,"₹7,370/month",₹3.77 Lakh,On Zero down payment,Noida
+943,2018,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,"71,660 km",1st owner,Petrol,HR26-DQ0550,"₹10,831/month",₹5.54 Lakh,On Zero down payment,Faridabad
+944,2011,Honda,Accord,2.4L I-VTEC MT,Manual,"58,657 km",2nd owner,Petrol,HR26-BK3547,"₹7,234/month",₹3.7 Lakh,On Zero down payment,Faridabad
+945,2014,Maruti,Swift Dzire,VXI,Manual,"58,242 km",1st owner,Petrol,DL5C-J7590,"₹6,119/month",₹3.13 Lakh,On Zero down payment,Gurgaon
+946,2018,Maruti,Swift,ZXI PLUS,Manual,"88,992 km",1st owner,CNG,DL8C-AT5374,"₹11,554/month",₹5.91 Lakh,On Zero down payment,Noida
+947,2019,Maruti,Swift,VXI AMT,Automatic,"10,297 km",1st owner,Petrol,DL8C-AY8756,"₹11,554/month",₹5.91 Lakh,On Zero down payment,Gurgaon
+948,2022,Tata,NEXON,XM PLUS SUNROOF PETROL,Manual,"3,263 km",1st owner,Petrol,HR13-T3580,"₹16,864/month",₹8.86 Lakh,On Zero down payment,Gurgaon
+949,2011,Hyundai,i10,MAGNA 1.1,Manual,"53,164 km",1st owner,Petrol,DL8C-T8175,"₹2,835/month",₹1.45 Lakh,On Zero down payment,New Delhi
+950,2018,Datsun,Redi Go,1.0 T(O) AT,Automatic,"66,945 km",1st owner,Petrol,UP16-CL3866,"₹4,907/month",₹2.51 Lakh,On Zero down payment,Noida
+951,2014,Maruti,Ciaz,VXI+AT,Automatic,"97,770 km",1st owner,Petrol,HR26-CK6768,"₹8,798/month",₹4.5 Lakh,On Zero down payment,New Delhi
+952,2014,Honda,Brio,S MT,Manual,"56,421 km",1st owner,Petrol,DL3C-CG0440,"₹4,966/month",₹2.54 Lakh,On Zero down payment,Noida
+953,2018,Maruti,Celerio,VXI CNG,Manual,"54,064 km",1st owner,CNG,DL2C-AY3299,"₹7,898/month",₹4.04 Lakh,On Zero down payment,Noida
+954,2021,Nissan,MAGNITE,XV MT,Manual,"6,311 km",1st owner,Petrol,DL11-CC3956,"₹13,060/month",₹6.68 Lakh,On Zero down payment,Faridabad
+955,2017,Maruti,Celerio X,VXI AMT,Automatic,"8,046 km",1st owner,Petrol,DL2C-AY1180,"₹7,996/month",₹4.09 Lakh,On Zero down payment,Noida
+956,2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,"57,918 km",2nd owner,Petrol,UP78-EW5552,"₹13,861/month",₹7.09 Lakh,On Zero down payment,Ghaziabad
+957,2018,Maruti,Swift,ZXI PLUS,Manual,"33,872 km",1st owner,Petrol,HR26-DQ7467,"₹12,082/month",₹6.18 Lakh,On Zero down payment,Gurgaon
+958,2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,"1,214 km",1st owner,Petrol,UP16-BU1737,"₹16,883/month",₹8.87 Lakh,On Zero down payment,Noida
+959,2015,Maruti,Swift Dzire,VXI,Manual,"85,818 km",2nd owner,Petrol,DL3C-AH3916,"₹7,285/month",₹3.73 Lakh,On Zero down payment,Noida
+960,2021,Tata,Safari,XT PLUS,Manual,"35,190 km",1st owner,Diesel,HR72-F0644,"₹28,361/month",₹14.9 Lakh,On Zero down payment,Faridabad
+961,2019,Hyundai,Verna,1.4 EX CRDI,Manual,"78,366 km",2nd owner,Diesel,DL7C-R3812,"₹14,076/month",₹7.2 Lakh,On Zero down payment,Gurgaon
+962,2019,Toyota,Innova Crysta,2.8 ZX AT 7 STR,Automatic,"90,337 km",1st owner,Diesel,DL3C-CQ9767,"₹30,093/month",₹15.81 Lakh,On Zero down payment,Noida
+963,2021,Maruti,Vitara Brezza,VXI,Manual,"25,562 km",1st owner,Petrol,HR26-ER7227,"₹15,665/month",₹8.23 Lakh,On Zero down payment,New Delhi
+964,2019,Hyundai,Elite i20,ASTA 1.2 (O),Manual,"33,913 km",1st owner,Petrol,HR26-EB1651,"₹13,509/month",₹6.91 Lakh,On Zero down payment,Gurgaon
+965,2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,"42,027 km",2nd owner,Diesel,DL8C-AY0785,"₹14,487/month",₹7.41 Lakh,On Zero down payment,New Delhi
+966,2019,Hyundai,Verna,1.6 CRDI SX,Manual,"39,796 km",1st owner,Diesel,HR51-BW4839,"₹16,997/month",₹8.93 Lakh,On Zero down payment,Gurgaon
+967,2014,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"72,154 km",1st owner,CNG,DL8C-AF2293,"₹6,100/month",₹3.12 Lakh,On Zero down payment,New Delhi
+968,2013,Hyundai,i10,MAGNA 1.1,Manual,"64,200 km",1st owner,CNG,DL8C-AE0143,"₹4,809/month",₹2.46 Lakh,On Zero down payment,New Delhi
+969,2015,Honda,Brio,S MT,Manual,"74,161 km",2nd owner,Petrol,HR26-CN1145,"₹5,670/month",₹2.9 Lakh,On Zero down payment,New Delhi
+970,2018,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,"61,087 km",2nd owner,Petrol,HR51-BU4853,"₹11,691/month",₹5.98 Lakh,On Zero down payment,Gurgaon
+971,2019,Hyundai,Elite i20,ASTA 1.2 (O),Manual,"32,556 km",1st owner,CNG,DL11-CB7417,"₹13,157/month",₹6.73 Lakh,On Zero down payment,Noida
+972,2022,Renault,TRIBER,RXT,Manual,"13,915 km",2nd owner,Petrol,HR52-G8849,"₹12,766/month",₹6.53 Lakh,On Zero down payment,New Delhi
+973,2022,Maruti,XL6,ALPHA AT,Automatic,"29,106 km",1st owner,Petrol,HR98-E3986,"₹25,696/month",₹13.5 Lakh,On Zero down payment,Gurgaon
+974,2015,Maruti,Swift,LXI,Manual,"34,526 km",1st owner,Petrol,HR26-CS6523,"₹7,449/month",₹3.81 Lakh,On Zero down payment,New Delhi
+975,2018,Honda,Amaze,1.2L I-VTEC S,Manual,"52,466 km",2nd owner,Petrol,DL5C-P8359,"₹8,426/month",₹4.31 Lakh,On Zero down payment,Noida
+976,2013,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"31,228 km",1st owner,Petrol,DL3C-BZ7145,"₹6,354/month",₹3.25 Lakh,On Zero down payment,Ghaziabad
+977,2017,Maruti,Alto 800,LXI,Manual,"113,999 km",2nd owner,Petrol,HR36-AA1796,"₹4,848/month",₹2.48 Lakh,On Zero down payment,Gurgaon
+978,2012,Hyundai,i10,SPORTZ (O) 1.2,Manual,"70,640 km",1st owner,Petrol,DL4C-AQ4161,"₹3,558/month",₹1.82 Lakh,On Zero down payment,Ghaziabad
+979,2022,Hyundai,VENUE,SX 1.2 PETROL,Manual,"17,907 km",1st owner,Petrol,DL8C-BD9042,"₹20,214/month",₹10.62 Lakh,On Zero down payment,Noida
+980,2020,Tata,ALTROZ,XE PETROL,Manual,"44,077 km",1st owner,Petrol,DL9C-AT4278,"₹9,971/month",₹5.1 Lakh,On Zero down payment,Noida
+981,2017,Honda,City,1.5L I-VTEC V MT,Manual,"76,844 km",2nd owner,Petrol,DL8C-AQ6242,"₹12,532/month",₹6.41 Lakh,On Zero down payment,Noida
+982,2020,Hyundai,GRAND I10 NIOS,SPORTZ CNG MT,Manual,"45,240 km",1st owner,CNG,HR51-CA7137,"₹11,202/month",₹5.73 Lakh,On Zero down payment,Gurgaon
+983,2016,Hyundai,Elite i20,ASTA 1.2,Manual,"64,666 km",2nd owner,Petrol,HR26-CX1928,"₹9,834/month",₹5.03 Lakh,On Zero down payment,New Delhi
+984,2012,Nissan,Micra,XV PETROL,Manual,"52,349 km",2nd owner,Petrol,DL1C-P2333,"₹3,597/month",₹1.84 Lakh,On Zero down payment,Noida
+985,2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,"60,741 km",2nd owner,Petrol,HR26-CX6115,"₹14,936/month",₹7.64 Lakh,On Zero down payment,Gurgaon
+986,2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,"71,817 km",1st owner,Petrol,HR51-BT9631,"₹11,476/month",₹5.87 Lakh,On Zero down payment,Gurgaon
+987,2018,Honda,Amaze,1.2L I-VTEC S,Manual,"51,234 km",1st owner,Petrol,HR29-AS7181,"₹10,283/month",₹5.26 Lakh,On Zero down payment,Gurgaon
+988,2018,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"25,329 km",1st owner,Petrol,DL11-CB1536,"₹15,190/month",₹7.77 Lakh,On Zero down payment,Noida
+989,2018,Maruti,Ertiga,VDI SHVS,Manual,"83,567 km",2nd owner,Diesel,DL3C-CP0238,"₹13,171/month",₹6.74 Lakh,On Zero down payment,Gurgaon
+990,2013,Maruti,Ertiga,VXI,Manual,"31,932 km",1st owner,Petrol,HR26-CA8309,"₹9,286/month",₹4.75 Lakh,On Zero down payment,New Delhi
+991,2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"41,301 km",1st owner,CNG,HR87-E0782,"₹15,171/month",₹7.76 Lakh,On Zero down payment,Faridabad
+992,2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,"47,644 km",1st owner,Petrol,HR36-AF6986,"₹11,476/month",₹5.87 Lakh,On Zero down payment,Gurgaon
+993,2020,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"95,701 km",1st owner,Petrol,UP16-CS1318,"₹14,956/month",₹7.65 Lakh,On Zero down payment,Noida
+994,2011,Hyundai,i20,MAGNA (O) 1.2,Manual,"40,565 km",1st owner,Petrol,HR10-Q9746,"₹3,930/month",₹2.01 Lakh,On Zero down payment,Gurgaon
+995,2011,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,"51,130 km",1st owner,Petrol,DL4C-AV6416,"₹4,360/month",₹2.23 Lakh,On Zero down payment,New Delhi
+996,2019,Maruti,Swift,ZXI PLUS AMT,Automatic,"36,023 km",2nd owner,Petrol,HR26-EA6535,"₹13,079/month",₹6.69 Lakh,On Zero down payment,New Delhi
+997,2012,Hyundai,i10,MAGNA 1.2,Manual,"98,106 km",1st owner,CNG,DL2C-AM9022,"₹4,047/month",₹2.07 Lakh,On Zero down payment,Noida
+998,2019,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,"42,652 km",2nd owner,Petrol,DL2C-BA2207,"₹9,638/month",₹4.93 Lakh,On Zero down payment,Noida
+999,2013,Toyota,Etios Liva,G,Manual,"81,876 km",1st owner,CNG,DL10-CE4503,"₹5,494/month",₹2.81 Lakh,On Zero down payment,New Delhi
+1000,2017,Maruti,Alto 800,LXI CNG,Manual,"65,751 km",1st owner,CNG,DL2C-AW5692,"₹5,650/month",₹2.89 Lakh,On Zero down payment,Gurgaon
+1001,2019,Maruti,Vitara Brezza,LDI,Manual,"29,399 km",1st owner,Diesel,DL8C-AZ0867,"₹12,238/month",₹6.26 Lakh,On Zero down payment,Gurgaon
+1002,2018,Honda,City,1.5L I-VTE V CVT,Automatic,"55,313 km",2nd owner,Petrol,DL10-CL7128,"₹15,054/month",₹7.7 Lakh,On Zero down payment,New Delhi
+1003,2018,Maruti,Alto K10,VXI (O) AMT,Automatic,"30,103 km",1st owner,Petrol,HR26-DM5080,"₹7,116/month",₹3.64 Lakh,On Zero down payment,Noida
+1004,2018,Maruti,Swift,VXI,Manual,"62,633 km",1st owner,Petrol,DL12-CN2040,"₹11,132/month",₹5.69 Lakh,On Zero down payment,New Delhi
+1005,2017,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,"61,305 km",1st owner,Petrol,UP14-DE3193,"₹8,270/month",₹4.23 Lakh,On Zero down payment,Ghaziabad
+1006,2018,Honda,WR-V,1.2L I-VTEC S MT,Manual,"68,744 km",2nd owner,CNG,DL11-CB3140,"₹10,772/month",₹5.51 Lakh,On Zero down payment,New Delhi
+1007,2013,Toyota,Etios Liva,G,Manual,"58,426 km",1st owner,Petrol,DL8C-Z8864,"₹5,435/month",₹2.78 Lakh,On Zero down payment,Noida
+1008,2019,Ford,Ecosport,TREND + 1.5L PETROL,Manual,"35,819 km",1st owner,Petrol,HR51-BW6375,"₹12,102/month",₹6.19 Lakh,On Zero down payment,Noida
+1009,2017,Honda,City,1.5L I-VTEC V MT,Manual,"51,997 km",1st owner,Petrol,DL10-CJ7960,"₹13,138/month",₹6.72 Lakh,On Zero down payment,New Delhi
+1010,2018,Maruti,Swift,ZXI,Manual,"30,652 km",1st owner,Petrol,DL9C-AP9654,"₹11,163/month",₹5.71 Lakh,On Zero down payment,New Delhi
+1011,2011,Honda,City,1.5L I-VTEC V MT,Manual,"45,781 km",1st owner,Petrol,DL9C-U2753,"₹5,076/month",₹2.6 Lakh,On Zero down payment,Noida
+1012,2022,Maruti,IGNIS,DELTA 1.2,Manual,"55,146 km",1st owner,Petrol,DL3C-CV4704,"₹10,366/month",₹5.3 Lakh,On Zero down payment,New Delhi
+1013,2013,Maruti,Wagon R 1.0,VXI,Manual,"60,856 km",2nd owner,Petrol,HR26-BX0252,"₹4,340/month",₹2.22 Lakh,On Zero down payment,New Delhi
+1014,2018,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,"37,508 km",1st owner,Petrol,UP16-BV0956,"₹11,965/month",₹6.12 Lakh,On Zero down payment,Noida
+1015,2019,Tata,NEXON,XZ PETROL,Manual,"50,167 km",2nd owner,Petrol,HR36-AF7072,"₹11,847/month",₹6.06 Lakh,On Zero down payment,New Delhi
+1016,2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,"77,139 km",1st owner,Petrol,DL3C-CM0512,"₹11,906/month",₹6.09 Lakh,On Zero down payment,New Delhi
+1017,2017,Maruti,Swift,VXI,Manual,"42,019 km",1st owner,Petrol,UP16-BK5794,"₹9,169/month",₹4.69 Lakh,On Zero down payment,Noida
+1018,2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"29,435 km",1st owner,CNG,HR51-BJ6775,"₹7,996/month",₹4.09 Lakh,On Zero down payment,New Delhi
+1019,2021,Maruti,S PRESSO,VXI CNG,Manual,"62,657 km",1st owner,CNG,HR87-G1274,"₹8,465/month",₹4.33 Lakh,On Zero down payment,Gurgaon
+1020,2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"70,802 km",1st owner,Petrol,UP16-CH4527,"₹13,451/month",₹6.88 Lakh,On Zero down payment,Noida
+1021,2012,Maruti,Swift Dzire,VXI,Manual,"46,392 km",1st owner,Petrol,DL4C-AS0559,"₹5,415/month",₹2.77 Lakh,On Zero down payment,New Delhi
+1022,2015,Maruti,Alto K10,VXI AMT,Automatic,"46,695 km",1st owner,Petrol,UP14-CU3086,"₹5,865/month",₹3 Lakh,On Zero down payment,Ghaziabad
+1023,2019,Maruti,XL6,ALPHA AT,Automatic,"19,696 km",1st owner,Petrol,UP16-CJ8903,"₹18,768/month",₹9.86 Lakh,On Zero down payment,Noida
+1024,2018,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"4,009 km",1st owner,Petrol,DL8C-AU0785,"₹9,697/month",₹4.96 Lakh,On Zero down payment,Noida
+1025,2017,Maruti,Celerio,ZXI AMT,Automatic,"69,170 km",1st owner,Petrol,HR26-DE3767,"₹7,253/month",₹3.71 Lakh,On Zero down payment,Faridabad
+1026,2015,Maruti,Swift,VXI,Manual,"64,579 km",1st owner,Petrol,UP16-BB3490,"₹7,683/month",₹3.93 Lakh,On Zero down payment,Noida
+1027,2022,Tata,Tiago,XZ PLUS CNG,Manual,"31,669 km",1st owner,CNG,DL11-CD1504,"₹12,981/month",₹6.64 Lakh,On Zero down payment,New Delhi
+1028,2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,"89,185 km",1st owner,Petrol,DL3C-CR6417,"₹9,931/month",₹5.08 Lakh,On Zero down payment,New Delhi
+1029,2015,Maruti,Ciaz,VXI+,Manual,"27,587 km",1st owner,Petrol,DL9C-AD6913,"₹10,049/month",₹5.14 Lakh,On Zero down payment,Noida
+1030,2020,Renault,Kwid,RXT 1.0 (O),Manual,"39,598 km",1st owner,Petrol,DL3C-CS5219,"₹7,683/month",₹3.93 Lakh,On Zero down payment,New Delhi
+1031,2021,Ford,Ecosport,TITANIUM 1.5L PETROL,Manual,"15,963 km",1st owner,Petrol,UP78-GQ1407,"₹17,473/month",₹9.18 Lakh,On Zero down payment,Noida
+1032,2018,Mahindra,TUV300,T10,Manual,"45,117 km",1st owner,Diesel,DL12-CQ8599,"₹12,786/month",₹6.54 Lakh,On Zero down payment,Noida
+1033,2014,Hyundai,i20,ASTA 1.2,Manual,"73,313 km",1st owner,Petrol,UP16-AV4120,"₹7,468/month",₹3.82 Lakh,On Zero down payment,New Delhi
+1034,2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"36,879 km",2nd owner,CNG,UP14-EL5051,"₹12,043/month",₹6.16 Lakh,On Zero down payment,Noida
+1035,2017,Maruti,Alto K10,VXI (O) AMT,Automatic,"33,835 km",1st owner,Petrol,DL2C-AX6281,"₹6,803/month",₹3.48 Lakh,On Zero down payment,Noida
+1036,2019,Maruti,New Wagon-R,LXI 1.0,Manual,"12,795 km",1st owner,Petrol,DL5C-Q6001,"₹9,306/month",₹4.76 Lakh,On Zero down payment,Noida
+1037,2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,"25,772 km",1st owner,Petrol,UP16-BX1392,"₹13,568/month",₹6.94 Lakh,On Zero down payment,Noida
+1038,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"43,063 km",2nd owner,Diesel,UP16-CE7995,"₹13,685/month",₹7 Lakh,On Zero down payment,Noida
+1039,2014,Maruti,Swift,ZXI,Manual,"77,700 km",1st owner,Petrol,DL12-CH3395,"₹6,549/month",₹3.35 Lakh,On Zero down payment,Noida
+1040,2021,Maruti,IGNIS,ZETA 1.2 AMT,Automatic,"24,395 km",1st owner,Petrol,DL8C-BB6526,"₹12,825/month",₹6.56 Lakh,On Zero down payment,Noida
+1041,2016,Volkswagen,Vento,HIGHLINE PETROL AT,Automatic,"85,779 km",2nd owner,Petrol,DL1C-U8887,"₹8,465/month",₹4.33 Lakh,On Zero down payment,Noida
+1042,2015,Maruti,Celerio,VXI AMT,Automatic,"52,303 km",2nd owner,Petrol,DL3C-CJ1096,"₹6,569/month",₹3.36 Lakh,On Zero down payment,Noida
+1043,2014,Maruti,Ritz,VXI,Manual,"100,013 km",2nd owner,Petrol,DL6C-P3489,"₹4,368/month",₹2.23 Lakh,On Zero down payment,Noida
+1044,2018,Maruti,Celerio,ZXI AMT,Automatic,"89,666 km",1st owner,Petrol,HR20-AL7105,"₹7,832/month",₹4.01 Lakh,On Zero down payment,New Delhi
+1045,2010,Maruti,Swift Dzire,VXI,Manual,422 km,1st owner,Petrol,DL2C-AN1639,"₹3,715/month",₹1.9 Lakh,On Zero down payment,Noida
+1046,2011,Maruti,Swift,LXI,Manual,"11,463 km",1st owner,Petrol,DL3C-BC6708,"₹4,477/month",₹2.29 Lakh,On Zero down payment,New Delhi
+1047,2014,Maruti,Alto K10,VXI,Manual,"75,896 km",1st owner,Petrol,DL5C-K8368,"₹4,154/month",₹2.13 Lakh,On Zero down payment,Noida
+1048,2022,Toyota,Innova Crysta,2.4 ZX 7 STR,Manual,"15,052 km",1st owner,Diesel,UP16-DH3321,"₹48,156/month",₹25.3 Lakh,On Zero down payment,Noida
+1049,2014,Maruti,Wagon R 1.0,LXI CNG,Manual,"98,810 km",1st owner,CNG,DL12-CH2986,"₹5,682/month",₹2.91 Lakh,On Zero down payment,New Delhi
+1050,2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,"42,841 km",1st owner,Petrol,DL9C-AM8675,"₹10,381/month",₹5.31 Lakh,On Zero down payment,Noida
+1051,2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,"18,886 km",1st owner,Petrol,UP14-DM8146,"₹11,085/month",₹5.67 Lakh,On Zero down payment,Ghaziabad
+1052,2021,Tata,Tiago,XT (O) PETROL,Manual,"31,544 km",1st owner,Petrol,HR26-ER2674,"₹10,538/month",₹5.39 Lakh,On Zero down payment,New Delhi
+1053,2010,Toyota,Corolla Altis,G PETROL,Manual,"69,278 km",2nd owner,Petrol,DL4C-NE4704,"₹4,047/month",₹2.07 Lakh,On Zero down payment,New Delhi
+1054,2018,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"15,596 km",1st owner,Petrol,DL10-CL6105,"₹9,110/month",₹4.66 Lakh,On Zero down payment,Noida
+1055,2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"22,304 km",1st owner,Petrol,DL8C-AK2443,"₹7,390/month",₹3.78 Lakh,On Zero down payment,New Delhi
+1056,2012,Honda,Jazz,1.2L I-VTEC SELECT,Manual,"72,294 km",2nd owner,Petrol,DL4C-NC6586,"₹4,418/month",₹2.26 Lakh,On Zero down payment,Noida
+1057,2019,Ford,Ecosport,1.5 TITANIUM TI VCT,Manual,"57,841 km",1st owner,CNG,DL8C-AX8903,"₹14,051/month",₹7.19 Lakh,On Zero down payment,New Delhi
+1058,2010,Hyundai,Santro Xing,GLS,Manual,"55,293 km",1st owner,Petrol,DL10-CA5638,"₹2,714/month",₹1.39 Lakh,On Zero down payment,Noida
+1059,2010,Hyundai,i10,MAGNA 1.2,Manual,"59,019 km",1st owner,Petrol,DL8C-T6531,"₹2,972/month",₹1.52 Lakh,On Zero down payment,New Delhi
+1060,2013,Hyundai,Santro Xing,GL PLUS,Manual,"79,310 km",1st owner,Petrol,DL7C-P2662,"₹3,871/month",₹1.98 Lakh,On Zero down payment,Noida
+1061,2011,Hyundai,i10,SPORTZ 1.2,Manual,"68,123 km",1st owner,Petrol,UP14-BL5685,"₹3,832/month",₹1.96 Lakh,On Zero down payment,Noida
+1062,2015,Maruti,Swift,VXI,Manual,"39,837 km",1st owner,Petrol,DL3C-CB3854,"₹7,840/month",₹4.01 Lakh,On Zero down payment,New Delhi
+1063,2016,Renault,Kwid,RXT 0.8 (O),Manual,"90,523 km",1st owner,Petrol,HR26-CX2262,"₹4,281/month",₹2.19 Lakh,On Zero down payment,New Delhi
+1064,2017,Renault,Duster,RXS CVT,Automatic,"35,359 km",2nd owner,Petrol,HR26-DF9690,"₹11,202/month",₹5.73 Lakh,On Zero down payment,Gurgaon
+1065,2021,Nissan,MAGNITE,XE,Manual,"21,056 km",1st owner,Petrol,HR51-CE2371,"₹10,283/month",₹5.26 Lakh,On Zero down payment,New Delhi
+1066,2017,Honda,City,1.5L I-VTEC V MT,Manual,"56,359 km",1st owner,Petrol,HR13-M5756,"₹12,903/month",₹6.6 Lakh,On Zero down payment,Gurgaon
+1067,2017,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,"90,228 km",2nd owner,Petrol,HR26-DD5556,"₹14,233/month",₹7.28 Lakh,On Zero down payment,Gurgaon
+1068,2021,Mahindra,XUV500,W7 AT,Automatic,"80,305 km",1st owner,Diesel,HR29-AX0443,"₹23,336/month",₹12.26 Lakh,On Zero down payment,Gurgaon
+1069,2022,Nissan,MAGNITE,XE,Manual,"5,206 km",1st owner,Petrol,DL9C-AY3614,"₹11,613/month",₹5.94 Lakh,On Zero down payment,New Delhi
+1070,2019,Jeep,Compass,LONGITUDE (O) 1.4 PETROL AT,Automatic,"38,475 km",2nd owner,Petrol,HR12-AJ3706,"₹25,315/month",₹13.3 Lakh,On Zero down payment,Gurgaon
+1071,2017,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,"54,531 km",2nd owner,Petrol,HR26-DF7327,"₹10,616/month",₹5.43 Lakh,On Zero down payment,Faridabad
+1072,2021,Honda,City,1.5L I-VTE V CVT,Automatic,"26,269 km",1st owner,Petrol,HR26-ES2758,"₹21,870/month",₹11.49 Lakh,On Zero down payment,Faridabad
+1073,2022,Nissan,MAGNITE,XE,Manual,"18,919 km",1st owner,Petrol,DL3C-CV3883,"₹11,769/month",₹6.02 Lakh,On Zero down payment,Ghaziabad
+1074,2016,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,"113,205 km",1st owner,CNG,DL8C-AN7747,"₹8,309/month",₹4.25 Lakh,On Zero down payment,New Delhi
+1075,2022,Maruti,Celerio,VXI CNG,Manual,"43,182 km",1st owner,CNG,HR50-J2129,"₹11,222/month",₹5.74 Lakh,On Zero down payment,Gurgaon
+1076,2016,Maruti,Swift,VXI,Manual,"34,606 km",1st owner,Petrol,DL2C-AW0250,"₹7,976/month",₹4.08 Lakh,On Zero down payment,Ghaziabad
+1077,2020,Tata,Harrier,XZA PLUS 2.0L DUAL TONE,Automatic,"48,760 km",1st owner,Diesel,HR98-4639,"₹31,064/month",₹16.32 Lakh,On Zero down payment,Gurgaon
+1078,2019,Renault,Kwid,CLIMBER 1.0 AMT,Automatic,"28,872 km",1st owner,Petrol,UP85-BM9519,"₹7,247/month",₹3.71 Lakh,On Zero down payment,Noida
+1079,2019,Hyundai,VENUE,SX 1.0 TURBO,Manual,"41,580 km",1st owner,Petrol,UP16-CK6301,"₹14,799/month",₹7.57 Lakh,On Zero down payment,New Delhi
+1080,2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,"65,618 km",2nd owner,Diesel,HR51-BX5702,"₹12,766/month",₹6.53 Lakh,On Zero down payment,Gurgaon
+1081,2020,Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,Manual,"48,751 km",1st owner,Petrol,HR26-EL3435,"₹9,736/month",₹4.98 Lakh,On Zero down payment,Gurgaon
+1082,2014,Maruti,Swift Dzire,VXI,Manual,"23,373 km",1st owner,Petrol,HR26-CE5428,"₹7,234/month",₹3.7 Lakh,On Zero down payment,Faridabad
+1083,2013,Maruti,Wagon R 1.0,VXI,Manual,"33,685 km",1st owner,Petrol,DL9C-AD3575,"₹4,692/month",₹2.4 Lakh,On Zero down payment,Noida
+1084,2014,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"58,536 km",2nd owner,Petrol,HR26-CG5949,"₹7,292/month",₹3.73 Lakh,On Zero down payment,Gurgaon
+1085,2019,Jeep,Compass,LIMITED 2.0 DIESEL,Manual,"9,346 km",1st owner,Diesel,HR51-BW0949,"₹26,324/month",₹13.83 Lakh,On Zero down payment,Noida
+1086,2022,Hyundai,GRAND I10 NIOS,SPORTZ U2 AMT 1.2 CRDI,Automatic,"42,982 km",1st owner,Diesel,HR05-BG5379,"₹14,096/month",₹7.21 Lakh,On Zero down payment,Gurgaon
+1087,2019,Maruti,Swift,ZXI AMT,Automatic,"22,388 km",1st owner,Petrol,DL2C-BA7194,"₹12,160/month",₹6.22 Lakh,On Zero down payment,New Delhi
+1088,2013,Hyundai,i20,SPORTZ 1.2,Manual,"70,883 km",1st owner,Petrol,DL12-CE4046,"₹5,728/month",₹2.93 Lakh,On Zero down payment,New Delhi
+1089,2011,Maruti,Alto K10,VXI,Manual,"53,083 km",1st owner,Petrol,DL12-CE0156,"₹3,441/month",₹1.76 Lakh,On Zero down payment,Noida
+1090,2017,Maruti,Swift,LXI (O),Manual,"53,127 km",2nd owner,Petrol,DL2C-AX9483,"₹7,410/month",₹3.79 Lakh,On Zero down payment,Noida
+1091,2014,Maruti,Ritz,VXI,Manual,"55,192 km",1st owner,Petrol,DL13-CA9716,"₹5,083/month",₹2.6 Lakh,On Zero down payment,Noida
+1092,2019,KIA,SELTOS,GTX AT 1.4 PETROL,Automatic,"21,429 km",2nd owner,Petrol,UP16-CH6786,"₹23,545/month",₹12.37 Lakh,On Zero down payment,Noida
+1093,2018,Maruti,Swift,VXI,Manual,"63,851 km",1st owner,Petrol,DL9C-AP6919,"₹10,839/month",₹5.54 Lakh,On Zero down payment,Noida
+1094,2014,Maruti,Alto 800,LXI,Manual,"76,394 km",1st owner,Petrol,UP16-AV4302,"₹4,027/month",₹2.06 Lakh,On Zero down payment,Noida
+1095,2019,Datsun,Go,A(O),Manual,"2,056 km",1st owner,Petrol,UP16-CJ1480,"₹8,876/month",₹4.54 Lakh,On Zero down payment,Noida
+1096,2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,"38,880 km",1st owner,Petrol,HR26-DC7789,"₹10,459/month",₹5.35 Lakh,On Zero down payment,Gurgaon
+1097,2021,Maruti,New Wagon-R,LXI CNG 1.0,Manual,"78,988 km",1st owner,CNG,HR19-Q4857,"₹10,010/month",₹5.12 Lakh,On Zero down payment,New Delhi
+1098,2012,Hyundai,i10,SPORTZ 1.2 AT,Automatic,"67,279 km",1st owner,Petrol,DL3C-BZ0117,"₹4,848/month",₹2.48 Lakh,On Zero down payment,Noida
+1099,2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,"79,563 km",1st owner,Petrol,UP16-BR5695,"₹10,088/month",₹5.16 Lakh,On Zero down payment,Noida
+1100,2019,Hyundai,Verna,1.4 EX CRDI,Manual,"53,322 km",1st owner,Diesel,DL7C-R2893,"₹15,601/month",₹7.98 Lakh,On Zero down payment,Noida
+1101,2013,Maruti,Swift Dzire,ZXI,Manual,"51,592 km",1st owner,Petrol,DL12-CH1989,"₹6,725/month",₹3.44 Lakh,On Zero down payment,New Delhi
+1102,2015,Maruti,Celerio,ZXI,Manual,"40,518 km",1st owner,Petrol,DL14-CC3131,"₹7,429/month",₹3.8 Lakh,On Zero down payment,New Delhi

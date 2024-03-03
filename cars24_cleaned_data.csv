@@ -1,0 +1,1104 @@
+CAR_MODEL,BRAND,CAR_NAME,CAR_VARIANT,CAR_TRANSMISSION,KM_DRIVEN,OWNER_TYPE,FUEL_TYPE,REGISTRAION_ID,MONTHLY_EMI,CAR_PRICE,DOWNPAYMENT_AMOUNT,LOCATION
+2022,Maruti,Eeco,7 STR STD(O),Manual,27431,1st,Petrol,DL1C,8915.0,4.56,Zero down payment,Noida
+2020,Hyundai,Verna,SX (O) 1.5 VTVT IVT,Automatic,24243,1st,Petrol,DL8C,21680.0,11.39,Zero down payment,Noida
+2020,Maruti,Vitara Brezza,VXI,Manual,46380,1st,Petrol,HR26,13562.0,6.94,Zero down payment,Gurgaon
+2018,Maruti,Celerio,ZXI,Manual,25527,2nd,Petrol,DL3C,7605.0,3.89,Zero down payment,Noida
+2016,Renault,Kwid,RXT 1.0 (O),Manual,53885,2nd,Petrol,HR26,5455.0,2.79,Zero down payment,Faridabad
+2021,Maruti,New Wagon-R,LXI CNG 1.0,Manual,39261,1st,CNG,DL8C,10577.0,5.41,Zero down payment,Gurgaon
+2018,Jeep,Compass,LIMITED (O) 2.0 DIESEL 4X4,Manual,53437,2nd,Diesel,HR81,21375.0,11.23,Zero down payment,New Delhi
+2016,Renault,Kwid,RXT 1.0 (O),Manual,77559,2nd,Petrol,DL8C,5083.0,2.6,Zero down payment,New Delhi
+2021,Maruti,IGNIS,SIGMA 1.2,Manual,11171,1st,Petrol,DL3C,9619.0,4.92,Zero down payment,Gurgaon
+2020,Maruti,Vitara Brezza,LXI,Manual,34915,1st,Petrol,UP16,13138.0,6.72,Zero down payment,Noida
+2021,Tata,Safari,XT PLUS,Manual,58825,1st,Diesel,HR98,26819.0,14.09,Zero down payment,Gurgaon
+2018,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,62298,2nd,Petrol,HR26,17055.0,8.96,Zero down payment,New Delhi
+2013,Maruti,Swift,VXI,Manual,76217,3rd,Petrol,DL6C,5063.0,2.59,Zero down payment,Gurgaon
+2015,Maruti,Wagon R 1.0,VXI,Manual,66106,1st,Petrol,HR29,5337.0,2.73,Zero down payment,Noida
+2020,KIA,SONET,GTX PLUS 1.5,Manual,32215,2nd,Diesel,HR26,17816.0,9.36,Zero down payment,Gurgaon
+2017,Volkswagen,Polo,HIGHLINE1.2L,Manual,65148,2nd,Petrol,HR29,10180.0,5.21,Zero down payment,Gurgaon
+2018,Nissan,Micra Active,XV SAFETY PACK,Manual,70860,1st,CNG,HR26,7019.0,3.59,Zero down payment,Gurgaon
+2019,Honda,Civic,1.6L I-DTEC ZX MT,Manual,74961,1st,Diesel,CH01,31616.0,16.61,Zero down payment,Gurgaon
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,44794,1st,Petrol,HR26,15646.0,8.22,Zero down payment,Gurgaon
+2020,Tata,ALTROZ,XZ PETROL,Manual,57955,1st,Petrol,HR14,12356.0,6.32,Zero down payment,Gurgaon
+2022,Hyundai,VENUE,SX (O) 1.5 CRDI,Manual,24293,1st,Diesel,HR26,22466.0,11.8,Zero down payment,Gurgaon
+2016,Tata,Tiago,XM PETROL,Manual,89370,1st,Petrol,HR03,6764.0,3.46,Zero down payment,Gurgaon
+2020,Honda,Civic,1.6L I-DTEC ZX MT,Manual,23614,1st,Diesel,UP16,33900.0,17.81,Zero down payment,Noida
+2021,Toyota,URBAN CRUISER,MID GRADE AT,Automatic,29116,1st,Petrol,HR70,18615.0,9.78,Zero down payment,Gurgaon
+2019,Honda,WR-V,1.2 i-VTEC VX MT,Manual,17070,1st,Petrol,DL4C,14154.0,7.24,Zero down payment,Noida
+2015,Maruti,Alto K10,VXI AMT,Automatic,34904,2nd,Petrol,DL3C,5689.0,2.91,Zero down payment,Ghaziabad
+2019,Maruti,Celerio,VXI CNG,Manual,92215,1st,CNG,HR30,7722.0,3.95,Zero down payment,Gurgaon
+2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,32669,1st,Diesel,UP65,14839.0,7.59,Zero down payment,Noida
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,59756,1st,Petrol,DL5C,10792.0,5.52,Zero down payment,Noida
+2017,Jeep,Compass,LIMITED 1.4 PETROL AT,Automatic,123456,2nd,Petrol,HR26,19205.0,10.09,Zero down payment,Gurgaon
+2016,Maruti,Alto K10,VXI,Manual,78597,3rd,CNG,HR16,5846.0,2.99,Zero down payment,Gurgaon
+2015,Hyundai,i20 Active,1.2 S,Manual,76272,2nd,Petrol,HR26,8606.0,4.4,Zero down payment,Gurgaon
+2022,Mahindra,XUV300,W8 1.2 PETROL,Manual,21601,1st,Petrol,HR87,19415.0,10.2,Zero down payment,Gurgaon
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,62560,1st,Petrol,HR30,10362.0,5.3,Zero down payment,Faridabad
+2021,Honda,City,1.5L I-VTE V CVT,Automatic,69943,1st,Petrol,HR10,20005.0,10.51,Zero down payment,Gurgaon
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,65712,2nd,CNG,DL9C,10850.0,5.55,Zero down payment,New Delhi
+2019,Honda,WR-V,1.2L I-VTEC S ALIVE EDITION,Manual,68859,1st,Petrol,UP14,11705.0,5.99,Zero down payment,Ghaziabad
+2015,Honda,CRV,2.0L I-VTEC 2WD AT,Automatic,81888,1st,Petrol,DL3C,14506.0,7.42,Zero down payment,Ghaziabad
+2019,Renault,TRIBER,RXT,Manual,56503,1st,Petrol,DL12,9228.0,4.72,Zero down payment,Noida
+2020,Maruti,XL6,ZETA AT,Automatic,47191,1st,Petrol,DL12,17207.0,9.04,Zero down payment,Faridabad
+2016,Mahindra,Kuv100,K8 5 STR,Manual,46364,2nd,Petrol,HR51,6628.0,3.39,Zero down payment,Faridabad
+2023,Honda,City,1.5L I-VTEC VX CVT,Automatic,24701,1st,Petrol,UP14,25011.0,13.14,Zero down payment,Ghaziabad
+2020,Ford,FREESTYLE,FLAIR EDITION 1.2 PETROL,Manual,23819,1st,Petrol,HR51,11300.0,5.78,Zero down payment,Faridabad
+2012,Maruti,Wagon R 1.0,LXI CNG,Manual,41472,1st,CNG,DL11,4301.0,2.2,Zero down payment,New Delhi
+2021,Maruti,Vitara Brezza,VXI,Manual,24278,1st,Petrol,HR98,15912.0,8.36,Zero down payment,Gurgaon
+2017,Toyota,Fortuner,2.8 4X2 AT,Automatic,103102,1st,Diesel,DL8C,46062.0,24.2,Zero down payment,Gurgaon
+2019,KIA,SELTOS,HTK PLUS 1.5,Manual,43519,2nd,Petrol,HR26,18273.0,9.6,Zero down payment,Gurgaon
+2018,Tata,TIGOR,XM PETROL,Manual,35381,2nd,Petrol,DL12,8078.0,4.13,Zero down payment,Noida
+2019,Mahindra,TUV300,T10,Manual,57818,1st,Diesel,DL8C,14702.0,7.52,Zero down payment,New Delhi
+2016,Maruti,Ertiga,VXI ABS,Manual,43699,1st,Petrol,HR26,14076.0,7.2,Zero down payment,Gurgaon
+2015,Hyundai,Elite i20,ASTA 1.2,Manual,79934,2nd,Petrol,HR26,9599.0,4.91,Zero down payment,Gurgaon
+2022,Tata,Safari,XZA PLUS DARK EDITION,Automatic,36986,1st,Diesel,HR87,39397.0,20.7,Zero down payment,Gurgaon
+2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,29811,1st,Petrol,HR51,7214.0,3.69,Zero down payment,Gurgaon
+2017,Honda,City,1.5L I-VTEC V MT,Manual,58573,1st,Petrol,HR26,13834.0,7.08,Zero down payment,New Delhi
+2017,Maruti,Baleno,RS 1.0 PETROL,Manual,43507,1st,Petrol,HR10,9325.0,4.77,Zero down payment,Gurgaon
+2017,Maruti,Celerio,VXI,Manual,118591,1st,Petrol,HR26,5748.0,2.94,Zero down payment,Gurgaon
+2018,Maruti,Wagon R 1.0,LXI CNG,Manual,66027,1st,CNG,HR87,7468.0,3.82,Zero down payment,Gurgaon
+2022,Mahindra,Bolero,B6,Manual,12854,1st,Diesel,HR10,19320.0,10.15,Zero down payment,Gurgaon
+2019,Hyundai,Creta,SX AT 1.6 PETROL,Automatic,32006,1st,Petrol,DL12,21109.0,11.09,Zero down payment,Noida
+2022,Tata,Tiago,XZ PLUS CNG,Manual,17447,1st,CNG,HR29,13196.0,6.75,Zero down payment,Gurgaon
+2014,Honda,City,1.5L I-VTEC V MT,Manual,62763,1st,Petrol,DL2C,9404.0,4.81,Zero down payment,Ghaziabad
+2022,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,26559,1st,Petrol,DL11,20119.0,10.57,Zero down payment,Ghaziabad
+2021,Skoda,Rapid,AMBITION TSI,Manual,13295,1st,Petrol,HR87,18387.0,9.66,Zero down payment,Gurgaon
+2022,Hyundai,VENUE,S 1.2,Manual,16339,1st,Petrol,UP13,15315.0,8.05,Zero down payment,Noida
+2021,Nissan,MAGNITE,XL,Manual,19104,1st,Petrol,HR51,11398.0,5.83,Zero down payment,Gurgaon
+2012,Honda,Brio,S MT,Manual,77904,2nd,CNG,DL9C,3890.0,1.99,Zero down payment,Faridabad
+2019,Mahindra,XUV300,W8 1.5 DIESEL,Manual,70744,1st,Diesel,DL7C,14385.0,7.36,Zero down payment,Noida
+2021,Tata,Harrier,XMA 2.0L KRYOTEC,Automatic,27724,1st,Diesel,DL10,27847.0,14.63,Zero down payment,Noida
+2022,Volkswagen,VIRTUS,GT PLUS TSI 1.5 EVO DSG,Automatic,18470,1st,Petrol,DL12,30493.0,16.02,Zero down payment,New Delhi
+2023,MG,HECTOR,SHARP 1.5 PETROL CVT,Automatic,10366,1st,Petrol,DL12,37497.0,19.7,Zero down payment,New Delhi
+2014,Toyota,Etios Liva,G,Manual,36837,1st,Petrol,DL10,5630.0,2.88,Zero down payment,Gurgaon
+2019,Renault,Kwid,RXT 1.0 (O),Manual,19938,1st,Petrol,HR26,7253.0,3.71,Zero down payment,Gurgaon
+2019,KIA,SELTOS,HTK PLUS 1.5 DIESEL,Manual,70292,1st,Diesel,UP16,18901.0,9.93,Zero down payment,Gurgaon
+2019,Tata,NEXON,XZA PLUS PETROL,Automatic,30309,2nd,Petrol,HR26,14995.0,7.67,Zero down payment,Noida
+2023,Honda,Amaze,1.2L I-VTEC VX CVT,Automatic,8272,1st,Petrol,HR26,18425.0,9.68,Zero down payment,Gurgaon
+2021,Hyundai,Verna,SX (O) 1.5 CRDI AT,Automatic,63411,1st,Diesel,UP14,22555.0,11.85,Zero down payment,Noida
+2022,Mahindra,XUV300,W4 1.5 DIESEL,Manual,23035,1st,Diesel,UP14,16236.0,8.53,Zero down payment,Noida
+2023,MG,HECTOR,SHARP 1.5 PETROL CVT,Automatic,13580,1st,Petrol,DL7C,36660.0,19.26,Zero down payment,Noida
+2019,Renault,Duster,110 PS RXZ 4X2 AMT DIESEL,Automatic,24617,1st,Diesel,HR26,16579.0,8.71,Zero down payment,Gurgaon
+2020,Mahindra,XUV500,W11(O),Manual,48273,2nd,Diesel,DL12,25677.0,13.49,Zero down payment,New Delhi
+2018,Volkswagen,Ameo,TRENDLINE 1.0L,Manual,30422,2nd,Petrol,DL1C,9169.0,4.69,Zero down payment,Noida
+2019,Tata,Hexa,Varicor 400 XM,Manual,45799,1st,Diesel,HR26,20481.0,10.76,Zero down payment,Gurgaon
+2022,Maruti,Dzire,ZXI CNG,Manual,30011,1st,CNG,HR98,15582.0,7.97,Zero down payment,Faridabad
+2017,Tata,Tiago,XTA PETROL,Automatic,32714,1st,Petrol,CH01,9071.0,4.64,Zero down payment,Gurgaon
+2022,Mahindra,XUV700,AX 7 LUXURY D AWD AT 7 STR,Automatic,16532,1st,Diesel,HR98,50440.0,26.5,Zero down payment,Gurgaon
+2023,Hyundai,AURA,SX 1.2 CNG,Manual,11056,1st,CNG,HR87,16407.0,8.62,Zero down payment,Gurgaon
+2020,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,9806,1st,Petrol,HR26,15327.0,7.84,Zero down payment,Gurgaon
+2019,Jeep,Compass,LONGITUDE (O) 1.4 PETROL AT,Automatic,54448,2nd,Petrol,HR26,22684.0,11.92,Zero down payment,Gurgaon
+2015,Mahindra,Scorpio,S4,Manual,70340,1st,Diesel,DL10,13744.0,7.03,Zero down payment,Noida
+2021,Tata,ALTROZ,XZ 1.5 RTQ,Manual,38257,1st,Diesel,HR26,14487.0,7.41,Zero down payment,Noida
+2021,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,30388,1st,Petrol,DL12,11449.0,5.86,Zero down payment,New Delhi
+2018,Honda,WR-V,1.2 i-VTEC VX MT,Manual,12724,2nd,Petrol,HR26,13040.0,6.67,Zero down payment,Gurgaon
+2017,Maruti,Dzire,VXI,Manual,52020,1st,Petrol,HR87,9286.0,4.75,Zero down payment,Gurgaon
+2018,Tata,Tiago,XE PETROL,Manual,41731,1st,Petrol,HR26,7879.0,4.03,Zero down payment,Gurgaon
+2022,MG,HECTOR,SHARP 2.0 DIESEL,Manual,10184,1st,Diesel,DL14,32529.0,17.09,Zero down payment,Gurgaon
+2017,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,92995,2nd,Petrol,HR36,7429.0,3.8,Zero down payment,New Delhi
+2019,Renault,TRIBER,RXT,Manual,24012,1st,Petrol,UP14,10014.0,5.12,Zero down payment,Ghaziabad
+2019,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,58833,2nd,Petrol,HR26,15475.0,8.13,Zero down payment,Gurgaon
+2023,Tata,NEXON,XZA PLUS PETROL,Automatic,4491,1st,Petrol,DL9C,19853.0,10.43,Zero down payment,New Delhi
+2019,Renault,TRIBER,RXL MT,Manual,33239,1st,Petrol,HR26,11183.0,5.72,Zero down payment,Gurgaon
+2017,Hyundai,Elite i20,ASTA 1.2,Manual,78319,2nd,Petrol,HR26,9228.0,4.72,Zero down payment,New Delhi
+2022,Tata,NEXON,XM SUNROOF DIESEL,Manual,45325,1st,Diesel,HR51,15912.0,8.36,Zero down payment,New Delhi
+2019,Mahindra,XUV500,W7 AT,Automatic,15070,2nd,Diesel,HR26,22670.0,11.91,Zero down payment,Gurgaon
+2021,Skoda,Rapid,AMBITION AT TSI,Automatic,29787,1st,Petrol,DL7C,17797.0,9.35,Zero down payment,New Delhi
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,32917,1st,Diesel,HR51,15503.0,7.93,Zero down payment,Faridabad
+2017,Maruti,Wagon R 1.0,LXI CNG,Manual,80484,1st,CNG,HR26,7136.0,3.65,Zero down payment,New Delhi
+2015,Mahindra,Scorpio,S4 PLUS,Manual,62617,2nd,Diesel,HR26,14584.0,7.46,Zero down payment,Gurgaon
+2016,Honda,Amaze,1.2L I-VTEC SX,Manual,64134,1st,Petrol,HR26,8309.0,4.25,Zero down payment,Gurgaon
+2016,Maruti,Wagon R 1.0,VXI AMT,Automatic,33726,1st,Petrol,HR26,6979.0,3.57,Zero down payment,Gurgaon
+2017,Hyundai,Elite i20,ASTA 1.2 (O),Manual,69158,2nd,Petrol,HR06,10870.0,5.56,Zero down payment,Gurgaon
+2019,Mahindra,XUV500,W5,Manual,67598,1st,Diesel,HR26,20195.0,10.61,Zero down payment,Gurgaon
+2016,Honda,City,1.5L I-VTEC VX,Manual,62128,2nd,Petrol,DL9C,12356.0,6.32,Zero down payment,Gurgaon
+2015,Toyota,Etios,CROSS 1.2 G,Manual,79927,1st,Petrol,DL8C,7742.0,3.96,Zero down payment,Ghaziabad
+2021,Toyota,URBAN CRUISER,MID GRADE MT,Manual,37122,1st,Petrol,DL3C,15484.0,7.92,Zero down payment,New Delhi
+2020,Maruti,Vitara Brezza,VXI AT SHVS,Automatic,42650,1st,CNG,DL2C,15589.0,8.19,Zero down payment,New Delhi
+2022,Nissan,MAGNITE,XV TURBO,Manual,12527,1st,Petrol,HR72,15451.0,7.9,Zero down payment,Gurgaon
+2019,Mahindra,XUV500,W11 AT,Automatic,35860,1st,Diesel,DL12,24744.0,13.0,Zero down payment,Gurgaon
+2022,Maruti,New Wagon-R,VXI CNG 1.0,Manual,51608,1st,CNG,HR50,11632.0,5.95,Zero down payment,Faridabad
+2017,Hyundai,Xcent,SX 1.2,Manual,32493,1st,Petrol,HR26,10127.0,5.18,Zero down payment,Gurgaon
+2019,Mahindra,XUV300,W8 DIESEL MT,Manual,86105,1st,Diesel,DL12,14408.0,7.37,Zero down payment,New Delhi
+2021,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,28627,1st,Petrol,HR26,20747.0,10.9,Zero down payment,Gurgaon
+2019,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,53942,1st,Petrol,HR26,8778.0,4.49,Zero down payment,Gurgaon
+2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,80028,1st,Petrol,DL8C,9521.0,4.87,Zero down payment,New Delhi
+2022,Maruti,BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,28284,1st,Petrol,HR30,22479.0,11.81,Zero down payment,Gurgaon
+2018,Skoda,Rapid,STYLE 1.6 MPI AT,Automatic,84700,1st,Petrol,HR26,14858.0,7.6,Zero down payment,Faridabad
+2020,Tata,NEXON,XZ PLUS DIESEL,Manual,49718,1st,Diesel,HR87,15503.0,7.93,Zero down payment,Gurgaon
+2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,44921,1st,Diesel,UP16,13587.0,6.95,Zero down payment,Noida
+2018,Honda,City,1.5L I-VTE V CVT,Automatic,74813,2nd,Petrol,HR26,14037.0,7.18,Zero down payment,Gurgaon
+2019,Maruti,New Wagon-R,VXI 1.2,Manual,18712,1st,Petrol,HR51,10264.0,5.25,Zero down payment,Gurgaon
+2015,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,39938,1st,Petrol,HR29,7664.0,3.92,Zero down payment,Gurgaon
+2022,Volkswagen,Polo,COMFORTLINE 1.0L TSI AT,Automatic,36797,1st,Petrol,UP14,16268.0,8.55,Zero down payment,Noida
+2021,Skoda,Rapid,STYLE 1.0TSI MT,Manual,13561,1st,Petrol,UP78,18996.0,9.98,Zero down payment,Noida
+2015,Maruti,Celerio,VXI AMT,Automatic,91740,2nd,Petrol,HR26,6354.0,3.25,Zero down payment,Gurgaon
+2019,Honda,Civic,1.6L I-DTEC VX MT,Manual,49735,1st,Diesel,UP14,25525.0,13.41,Zero down payment,Noida
+2020,KIA,SELTOS,HTK PLUS 1.5 DIESEL,Manual,93108,1st,Diesel,HR36,18577.0,9.76,Zero down payment,Faridabad
+2019,Renault,Duster,110 PS RXZ 4X4 MT DIESEL,Manual,35331,1st,Diesel,DL10,17188.0,9.03,Zero down payment,Noida
+2018,Ford,Ecosport,TITANIUM 1.5L PETROL,Manual,47069,1st,Petrol,DL10,13411.0,6.86,Zero down payment,Gurgaon
+2021,Maruti,Dzire,ZXI Plus AMT,Automatic,34855,2nd,Petrol,HR26,14584.0,7.46,Zero down payment,Gurgaon
+2017,Honda,Amaze,1.2L I-VTEC VX,Manual,77854,2nd,Petrol,DL3C,8602.0,4.4,Zero down payment,New Delhi
+2019,Honda,WR-V,1.2L I-VTEC S MT,Manual,70303,1st,Petrol,UP16,11632.0,5.95,Zero down payment,Noida
+2019,Maruti,Alto K10,VXI (O),Manual,21572,2nd,Petrol,HR51,7398.0,3.78,Zero down payment,Faridabad
+2019,Mahindra,XUV300,W8 1.2 PETROL,Manual,17531,1st,Petrol,DL10,16560.0,8.7,Zero down payment,New Delhi
+2015,Hyundai,Elite i20,ASTA 1.2,Manual,53005,1st,Petrol,DL8C,9169.0,4.69,Zero down payment,New Delhi
+2019,Volkswagen,Ameo,HIGHLINE PLUS 1.5L AT 16 ALLOY,Automatic,67811,2nd,Diesel,DL8C,14291.0,7.31,Zero down payment,New Delhi
+2015,Maruti,Wagon R Stingray,VXI,Manual,28281,1st,Petrol,HR26,7429.0,3.8,Zero down payment,Gurgaon
+2011,Honda,City,1.5L I-VTEC S MT,Manual,63735,1st,Petrol,HR10,5220.0,2.67,Zero down payment,Faridabad
+2018,Hyundai,Elite i20,SPORTZ 1.2,Manual,77753,1st,Petrol,HR36,11730.0,6.0,Zero down payment,Gurgaon
+2019,Honda,Amaze,1.5L I-DTEC E,Manual,43683,1st,Diesel,HR10,12727.0,6.51,Zero down payment,Gurgaon
+2021,Tata,Harrier,XZA PLUS 2.0L DUAL TONE,Automatic,34543,1st,Diesel,HR51,33938.0,17.83,Zero down payment,Faridabad
+2022,Mahindra,XUV300,W6 1.5 DIESEL,Manual,30615,1st,Diesel,UP85,17264.0,9.07,Zero down payment,Noida
+2017,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,48227,1st,Petrol,HR51,14017.0,7.17,Zero down payment,Faridabad
+2015,Honda,City,1.5L I-VTEC E MT,Manual,72114,1st,Petrol,HR26,8778.0,4.49,Zero down payment,Gurgaon
+2020,Mahindra,XUV300,W6 1.5 DIESEL AMT,Automatic,85834,1st,Diesel,HR29,15684.0,8.24,Zero down payment,Gurgaon
+2020,Tata,NEXON,XZA PLUS SUNROOF PETROL,Automatic,61402,1st,Petrol,HR26,17182.0,9.03,Zero down payment,Gurgaon
+2019,Jeep,Compass,LIMITED PLUS DIESEL 4X4,Manual,35191,1st,Diesel,HR51,28018.0,14.72,Zero down payment,Noida
+2019,Jeep,Compass,SPORT PLUS 2.0 DIESEL,Manual,45108,1st,Diesel,DL3C,23697.0,12.45,Zero down payment,Ghaziabad
+2018,Tata,NEXON,XM DIESEL,Manual,37384,1st,Diesel,DL5C,12278.0,6.28,Zero down payment,Gurgaon
+2020,KIA,SELTOS,HTX PLUS AT1.5 DIESEL,Automatic,89649,1st,Diesel,UP14,23697.0,12.45,Zero down payment,Ghaziabad
+2019,Maruti,IGNIS,SIGMA 1.2,Manual,13147,1st,Petrol,DL2C,9247.0,4.73,Zero down payment,Gurgaon
+2014,Maruti,Ertiga,VXI,Manual,45864,1st,Petrol,DL9C,11085.0,5.67,Zero down payment,Gurgaon
+2018,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,62411,2nd,Diesel,HR26,10362.0,5.3,Zero down payment,New Delhi
+2016,Honda,Amaze,1.2L I-VTEC SX,Manual,108133,1st,Petrol,HR51,6960.0,3.56,Zero down payment,New Delhi
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,53104,1st,Petrol,DL4C,11828.0,6.05,Zero down payment,Gurgaon
+2021,Skoda,Rapid,1.0 AMBITION TSI MT,Manual,67205,1st,Petrol,HR51,16940.0,8.9,Zero down payment,Gurgaon
+2022,Maruti,Alto,LXI O,Manual,11932,1st,Petrol,DL6C,7617.0,3.9,Zero down payment,Ghaziabad
+2022,Tata,NEXON,XZA PLUS (O) PETROL DARK EDITION,Automatic,11788,1st,Petrol,HR98,20509.0,10.78,Zero down payment,Gurgaon
+2022,Renault,TRIBER,RXL MT,Manual,49749,1st,Petrol,DL3C,10889.0,5.57,Zero down payment,Noida
+2013,Hyundai,i10,SPORTZ 1.2,Manual,41298,1st,Petrol,CH01,5142.0,2.63,Zero down payment,Gurgaon
+2020,KIA,SELTOS,HTX 1.5 DIESEL,Manual,91690,1st,Diesel,HR26,20842.0,10.95,Zero down payment,Faridabad
+2013,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,70735,2nd,Petrol,DL14,5044.0,2.58,Zero down payment,Noida
+2021,Honda,City,1.5L I-VTEC SV,Manual,14840,1st,Petrol,HR26,17492.0,9.19,Zero down payment,Gurgaon
+2021,Tata,TIGOR,XZ PLUS PETROL,Manual,40663,1st,Petrol,HR24,11965.0,6.12,Zero down payment,Gurgaon
+2015,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,84265,2nd,Petrol,HR51,6823.0,3.49,Zero down payment,Gurgaon
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,37783,1st,Petrol,HR30,11671.0,5.97,Zero down payment,Gurgaon
+2018,Hyundai,Creta,SX (O) 1.6 PETROL,Manual,80751,1st,Petrol,UP16,17321.0,9.1,Zero down payment,Noida
+2011,Honda,City,1.5L I-VTEC S MT,Manual,80436,2nd,Petrol,HR26,5161.0,2.64,Zero down payment,Faridabad
+2017,Tata,Tiago,WIZZ EDITION PETROL,Manual,58073,1st,Petrol,HR03,7429.0,3.8,Zero down payment,New Delhi
+2021,Toyota,YARIS,G MT,Manual,23747,1st,Petrol,HR51,16788.0,8.82,Zero down payment,Gurgaon
+2014,Hyundai,Grand i10,MAGNA 1.2 VTVT,Manual,100217,3rd,CNG,DL7C,5513.0,2.82,Zero down payment,New Delhi
+2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,84801,1st,Petrol,HR26,9697.0,4.96,Zero down payment,New Delhi
+2020,Maruti,S Cross,ALPHA AT SMART HYBRID,Automatic,24427,1st,Petrol,HR51,19129.0,10.05,Zero down payment,Gurgaon
+2018,Maruti,Vitara Brezza,VDI (O),Manual,89908,1st,Diesel,HR51,10831.0,5.54,Zero down payment,Gurgaon
+2020,Skoda,Rapid,STYLE TSI,Manual,113946,1st,Petrol,HR26,15341.0,8.06,Zero down payment,Gurgaon
+2016,Honda,City,1.5L I-VTEC E MT,Manual,37672,1st,Petrol,DL14,10674.0,5.46,Zero down payment,Noida
+2019,Honda,Jazz,1.2L I-VTEC V,Manual,35970,1st,Petrol,HR26,10909.0,5.58,Zero down payment,Faridabad
+2011,Maruti,Wagon R 1.0,VXI,Manual,75861,1st,Petrol,HR51,3304.0,1.69,Zero down payment,Gurgaon
+2019,Maruti,Vitara Brezza,ZDI PLUS AMT,Automatic,13001,1st,Diesel,DL5C,15608.0,8.2,Zero down payment,Gurgaon
+2020,Tata,Tiago,XZ PLUS PETROL,Manual,42882,1st,Petrol,HR87,10674.0,5.46,Zero down payment,Gurgaon
+2019,Hyundai,VENUE,S 1.2,Manual,55280,1st,Petrol,HR36,13802.0,7.06,Zero down payment,Faridabad
+2019,Jeep,Compass,LONGITUDE (O) 2.0 DIESEL,Manual,87927,1st,Diesel,DL10,22765.0,11.96,Zero down payment,Gurgaon
+2016,Maruti,Swift,VXI,Manual,68157,1st,CNG,HR36,8485.0,4.34,Zero down payment,Gurgaon
+2021,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,20810,1st,Petrol,DL3C,16617.0,8.73,Zero down payment,Ghaziabad
+2010,Hyundai,i10,SPORTZ 1.2,Manual,122483,1st,Petrol,HR12,2561.0,1.31,Zero down payment,Ghaziabad
+2017,Honda,City,1.5L I-VTEC V MT,Manual,53765,1st,Petrol,HR26,14193.0,7.26,Zero down payment,Gurgaon
+2023,Maruti,New Wagon-R,LXI 1.0,Manual,10661,1st,Petrol,HR98,11339.0,5.8,Zero down payment,Gurgaon
+2021,Hyundai,AURA,S 1.2 CNG,Manual,47673,1st,CNG,HR10,13939.0,7.13,Zero down payment,Gurgaon
+2019,Tata,NEXON,XMA PETROL,Automatic,69521,2nd,Petrol,HR26,12278.0,6.28,Zero down payment,Gurgaon
+2019,Hyundai,Elite i20,MAGNA PLUS 1.4 CRDI,Manual,78813,1st,Diesel,UP14,10929.0,5.59,Zero down payment,Noida
+2019,Ford,Ecosport,TITANIUM 1.5L THUNDER EDTION PETROL,Manual,35355,1st,Petrol,HR26,16503.0,8.67,Zero down payment,Gurgaon
+2019,Hyundai,GRAND I10 NIOS,ASTA U2 1.2 CRDI,Manual,66419,2nd,Diesel,HR06,12375.0,6.33,Zero down payment,Gurgaon
+2022,KIA,SONET,HTK PLUS 1.0 IMT,Manual,11013,1st,Petrol,DL8C,20081.0,10.55,Zero down payment,Noida
+2020,Ford,New Figo,TITANIUM 1.2 PETROL MT,Manual,66833,1st,CNG,DL12,10127.0,5.18,Zero down payment,New Delhi
+2019,Volkswagen,Ameo,TRENDLINE 1.5L,Manual,54341,1st,Diesel,UP14,11202.0,5.73,Zero down payment,Noida
+2015,Maruti,Ciaz,ZXI,Manual,48211,1st,Petrol,HR26,11026.0,5.64,Zero down payment,Gurgaon
+2016,Hyundai,Creta,S 1.6 PETROL,Manual,48483,1st,Petrol,HR11,13255.0,6.78,Zero down payment,Gurgaon
+2015,Toyota,Innova,2.5 GX 8 STR,Manual,82422,1st,Diesel,HR29,20157.0,10.59,Zero down payment,Gurgaon
+2017,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,55162,2nd,Petrol,DL12,10498.0,5.37,Zero down payment,New Delhi
+2018,Mahindra,XUV500,W7,Manual,112969,1st,Diesel,HR51,15932.0,8.37,Zero down payment,Gurgaon
+2019,Mahindra,XUV500,W7 AT,Automatic,36821,2nd,Diesel,DL1C,22837.0,12.0,Zero down payment,Noida
+2020,KIA,SELTOS,HTK PLUS AT 1.5 DIESEL,Automatic,82433,1st,Diesel,HR51,20595.0,10.82,Zero down payment,New Delhi
+2020,KIA,SELTOS,HTX PLUS 1.5 DIESEL,Manual,64655,1st,Diesel,UP14,21451.0,11.27,Zero down payment,Noida
+2019,Renault,Duster,85 PS RXS MT DIESEL,Manual,67396,1st,Diesel,UP14,13822.0,7.07,Zero down payment,Noida
+2017,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,87878,1st,Petrol,DL10,16046.0,8.43,Zero down payment,New Delhi
+2023,Nissan,MAGNITE,XV PREMIUM,Manual,6216,1st,Petrol,DL9C,15627.0,8.21,Zero down payment,Noida
+2020,Honda,City,1.5L I-VTE V CVT,Automatic,55768,1st,Petrol,DL14,17359.0,9.12,Zero down payment,Noida
+2018,Honda,WR-V,1.5L I-DTEC S MT,Manual,51594,2nd,Diesel,DL9C,10010.0,5.12,Zero down payment,Noida
+2017,Renault,Duster,RXS CVT,Automatic,80423,2nd,Petrol,UP16,11776.0,6.02,Zero down payment,New Delhi
+2013,Hyundai,Verna,FLUIDIC 1.6 VTVT SX,Manual,45636,1st,Petrol,HR26,8133.0,4.16,Zero down payment,Gurgaon
+2014,Maruti,Wagon R 1.0,LXI,Manual,42346,2nd,Petrol,DL2C,5670.0,2.9,Zero down payment,Ghaziabad
+2021,Toyota,URBAN CRUISER,MID GRADE AT,Automatic,62441,1st,Petrol,UP16,15570.0,8.18,Zero down payment,New Delhi
+2014,Toyota,Etios,G,Manual,76413,2nd,Petrol,HR26,7664.0,3.92,Zero down payment,Gurgaon
+2018,Maruti,Vitara Brezza,VDI,Manual,48217,1st,Diesel,HR36,12356.0,6.32,Zero down payment,Gurgaon
+2021,Honda,City,1.5L I-VTEC ZX CVT,Automatic,6251,1st,Petrol,UP16,24687.0,12.97,Zero down payment,Ghaziabad
+2015,Skoda,Octavia,AMBITION PLUS 1.4 TSI,Manual,93874,1st,Petrol,DL1C,15015.0,7.68,Zero down payment,Noida
+2018,Toyota,Corolla Altis,G DIESEL,Manual,51848,2nd,Diesel,HR51,19434.0,10.21,Zero down payment,Gurgaon
+2019,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,35110,1st,Petrol,HR10,12766.0,6.53,Zero down payment,Gurgaon
+2018,Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,Manual,80153,1st,Petrol,HR26,12629.0,6.46,Zero down payment,Gurgaon
+2021,Renault,Kiger,RXZ 1.0 TURBO MT,Manual,9787,1st,Petrol,DL3C,15410.0,7.88,Zero down payment,New Delhi
+2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,78882,1st,Petrol,HR36,9931.0,5.08,Zero down payment,Gurgaon
+2016,Honda,Amaze,1.2L I-VTEC SX,Manual,33745,1st,Petrol,DL5C,8504.0,4.35,Zero down payment,New Delhi
+2012,Hyundai,i10,SPORTZ 1.2 AT,Automatic,46284,1st,Petrol,HR26,5200.0,2.66,Zero down payment,Faridabad
+2021,KIA,SONET,HTK PLUS 1.5 AT,Automatic,84800,1st,Diesel,HR13,16864.0,8.86,Zero down payment,Noida
+2016,Volkswagen,Vento,COMFORTLINE 1.6,Manual,96970,1st,Petrol,HR26,9912.0,5.07,Zero down payment,Gurgaon
+2018,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,60674,1st,CNG,HR26,9423.0,4.82,Zero down payment,Gurgaon
+2022,Tata,NEXON,XZA PLUS DIESEL,Automatic,26245,1st,Diesel,HR26,20309.0,10.67,Zero down payment,Faridabad
+2022,Maruti,S PRESSO,VXI (O) CNG,Manual,20856,1st,CNG,DL6C,9478.0,4.85,Zero down payment,New Delhi
+2020,KIA,SELTOS,HTX 1.5 DIESEL,Manual,40754,1st,Diesel,UP16,23279.0,12.23,Zero down payment,Ghaziabad
+2019,Maruti,Swift Dzire,TOUR S DIESEL,Manual,67572,1st,Diesel,HR81,10010.0,5.12,Zero down payment,Gurgaon
+2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,69197,1st,Petrol,DL7C,13556.0,6.93,Zero down payment,Noida
+2017,Hyundai,Grand i10,SPORTZ (O) 1.2 AT VTVT,Automatic,89733,1st,Petrol,HR26,9756.0,4.99,Zero down payment,New Delhi
+2018,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,36472,1st,Petrol,HR51,14369.0,7.35,Zero down payment,Gurgaon
+2020,Maruti,S PRESSO,VXI+,Manual,31102,2nd,Petrol,HR30,8680.0,4.44,Zero down payment,Gurgaon
+2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,94089,1st,Petrol,DL4C,10381.0,5.31,Zero down payment,Noida
+2018,Hyundai,Creta,1.6 CRDI SX PLUS AUTO,Automatic,60349,1st,Diesel,DL8C,19301.0,10.14,Zero down payment,New Delhi
+2018,Honda,City,1.5L I-VTE V CVT,Automatic,52748,1st,Petrol,CH01,15798.0,8.3,Zero down payment,Gurgaon
+2019,Maruti,Vitara Brezza,VDI,Manual,55523,1st,Diesel,HR30,14682.0,7.51,Zero down payment,Gurgaon
+2021,Tata,NEXON,XZ PLUS DIESEL SUNROOF,Manual,46501,2nd,Diesel,HR83,17835.0,9.37,Zero down payment,Faridabad
+2014,Honda,City,1.5L I-VTEC VX CVT,Automatic,84749,2nd,Petrol,DL1C,9677.0,4.95,Zero down payment,Noida
+2018,Datsun,Redi Go,S 1.0 AMT,Automatic,5063,2nd,Petrol,HR51,6256.0,3.2,Zero down payment,Gurgaon
+2019,Hyundai,Elite i20,MAGNA PLUS 1.4 CRDI,Manual,65259,1st,Diesel,HR51,12805.0,6.55,Zero down payment,Gurgaon
+2018,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,89202,2nd,Diesel,HR51,10479.0,5.36,Zero down payment,New Delhi
+2017,Maruti,Swift,VXI,Manual,71763,1st,Petrol,HR51,8211.0,4.2,Zero down payment,Gurgaon
+2019,Maruti,Swift,LXI,Manual,74150,1st,Petrol,HR36,9580.0,4.9,Zero down payment,New Delhi
+2011,Maruti,Swift,LXI,Manual,21840,1st,Petrol,HR51,4321.0,2.21,Zero down payment,Gurgaon
+2018,Maruti,Dzire,VXI AMT,Automatic,73705,1st,Petrol,HR26,10577.0,5.41,Zero down payment,Gurgaon
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,25403,2nd,Petrol,HR26,9208.0,4.71,Zero down payment,New Delhi
+2010,Hyundai,i20,MAGNA (O) 1.2,Manual,45751,1st,Petrol,HR26,3969.0,2.03,Zero down payment,Gurgaon
+2016,Honda,City,1.5L I-VTEC VX,Manual,78853,1st,Petrol,HR51,13001.0,6.65,Zero down payment,New Delhi
+2022,Nissan,MAGNITE,XV TURBO,Manual,12963,1st,Petrol,DL3C,15347.0,7.85,Zero down payment,New Delhi
+2019,Maruti,Vitara Brezza,VDI,Manual,50767,1st,Diesel,HR29,14487.0,7.41,Zero down payment,Gurgaon
+2023,Maruti,New Wagon-R,LXI 1.0,Manual,2187,1st,Petrol,DL9C,11347.0,5.8,Zero down payment,Noida
+2018,Hyundai,Tucson,2WD MT PETROL,Manual,87471,2nd,Petrol,UP14,20092.0,10.56,Zero down payment,Noida
+2013,Maruti,Ertiga,VXI CNG,Manual,45947,1st,CNG,HR26,10994.0,5.62,Zero down payment,Faridabad
+2016,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,85035,1st,CNG,HR26,13763.0,7.04,Zero down payment,New Delhi
+2019,Jeep,Compass,SPORT 2.0 DIESEL,Manual,93467,1st,Diesel,HR50,19510.0,10.25,Zero down payment,Faridabad
+2020,KIA,SONET,HTK PLUS 1.5,Manual,64930,1st,Diesel,HR26,17683.0,9.29,Zero down payment,Gurgaon
+2021,Toyota,Glanza,V,Manual,24378,1st,Petrol,HR82,13386.0,6.85,Zero down payment,Gurgaon
+2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,95055,1st,Petrol,HR26,10459.0,5.35,Zero down payment,Gurgaon
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,12703,1st,Petrol,HR26,13431.0,6.87,Zero down payment,Gurgaon
+2020,KIA,SELTOS,HTX PLUS AT1.5 DIESEL,Automatic,99606,1st,Diesel,UP14,23317.0,12.25,Zero down payment,New Delhi
+2017,Tata,Tiago,XZA PETROL,Automatic,82422,1st,Petrol,DL12,8622.0,4.41,Zero down payment,Noida
+2018,Maruti,Swift,VDI,Manual,66434,1st,Diesel,HR36,11026.0,5.64,Zero down payment,Faridabad
+2017,Ford,Ecosport,TREND+ 1.0L ECOBOOST,Manual,76676,1st,Petrol,DL3C,10107.0,5.17,Zero down payment,New Delhi
+2017,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,36637,1st,Petrol,UP32,9247.0,4.73,Zero down payment,Noida
+2020,Maruti,S PRESSO,VXI PLUS AMT,Automatic,47874,1st,Petrol,DL1C,8583.0,4.39,Zero down payment,Noida
+2019,Maruti,Swift,VXI,Manual,65492,2nd,Petrol,DL9C,9756.0,4.99,Zero down payment,Ghaziabad
+2018,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,99901,1st,Petrol,DL7C,9873.0,5.05,Zero down payment,Faridabad
+2019,Maruti,Ciaz,ALPHA DIESEL 1.5,Manual,92089,3rd,Diesel,HR26,15026.0,7.69,Zero down payment,Faridabad
+2019,Maruti,Ciaz,DELTA DIESEL 1.5,Manual,60619,1st,Diesel,HR05,15085.0,7.72,Zero down payment,Gurgaon
+2010,Honda,City,1.5L I-VTEC V EXCLUSIVE,Manual,101161,1st,Petrol,DL3C,4633.0,2.37,Zero down payment,Gurgaon
+2021,Maruti,Alto,LXI CNG,Manual,27284,1st,CNG,DL6C,8055.0,4.12,Zero down payment,New Delhi
+2019,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,47734,1st,Petrol,HR30,17340.0,9.11,Zero down payment,Faridabad
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,85507,1st,Petrol,HR26,16560.0,8.7,Zero down payment,Faridabad
+2021,Maruti,Dzire,VXI AMT,Automatic,48982,1st,Petrol,HR98,13607.0,6.96,Zero down payment,Gurgaon
+2021,Tata,NEXON,XZ PLUS PETROL SUNROOF,Manual,9875,1st,Petrol,HR34,19320.0,10.15,Zero down payment,Faridabad
+2017,Volkswagen,Polo,COMFORTLINE 1.2L,Manual,94382,2nd,Petrol,HR51,9892.0,5.06,Zero down payment,Faridabad
+2015,Maruti,Swift,VDI ABS,Manual,117499,1st,Diesel,HR30,7148.0,3.66,Zero down payment,Gurgaon
+2012,Hyundai,Verna,FLUIDIC 1.6 VTVT EX,Manual,45507,1st,Petrol,DL10,7077.0,3.62,Zero down payment,Noida
+2019,Jeep,Compass,LIMITED 1.4 PETROL AT,Automatic,65357,1st,Petrol,DL10,24950.0,13.11,Zero down payment,Ghaziabad
+2019,MG,HECTOR,SHARP 2.0 DIESEL,Manual,33073,1st,Diesel,DL8C,25696.0,13.5,Zero down payment,Noida
+2022,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,1085,1st,Petrol,UP14,22403.0,11.77,Zero down payment,Noida
+2014,Toyota,Corolla Altis,VL AT PETROL,Automatic,117664,1st,Petrol,HR26,13716.0,7.02,Zero down payment,Gurgaon
+2011,Toyota,Corolla Altis,G PETROL,Manual,82699,2nd,Petrol,HR26,5689.0,2.91,Zero down payment,Gurgaon
+2020,Volkswagen,Polo,HIGHLINE PLUS 1.0,Manual,96958,1st,Petrol,UP16,12766.0,6.53,Zero down payment,Noida
+2017,Maruti,Swift,LXI (O),Manual,94733,1st,Petrol,DL6C,7116.0,3.64,Zero down payment,Ghaziabad
+2017,Maruti,Ciaz,ZETA 1.4  AT PETROL,Automatic,62406,2nd,CNG,DL9C,13235.0,6.77,Zero down payment,Noida
+2023,Maruti,New Wagon-R,LXI 1.0,Manual,3962,1st,Petrol,HR51,11261.0,5.76,Zero down payment,Gurgaon
+2021,Maruti,Vitara Brezza,LXI,Manual,46319,1st,Petrol,HR26,14213.0,7.27,Zero down payment,Gurgaon
+2016,Hyundai,Creta,S 1.6 PETROL,Manual,54986,1st,Petrol,DL8C,14506.0,7.42,Zero down payment,Gurgaon
+2019,Maruti,IGNIS,DELTA 1.2,Manual,67221,1st,Petrol,HR51,9208.0,4.71,Zero down payment,Faridabad
+2020,Ford,FREESTYLE,TITANIUM PLUS 1.2 PETROL,Manual,66787,1st,Petrol,UP70,11144.0,5.7,Zero down payment,Noida
+2018,Hyundai,Xcent,SX 1.2 (O),Manual,12880,1st,Petrol,DL5C,12082.0,6.18,Zero down payment,New Delhi
+2016,Honda,Amaze,1.2L I-VTEC VX,Manual,50466,2nd,Petrol,HR26,10498.0,5.37,Zero down payment,Faridabad
+2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,58989,1st,Petrol,HR26,17587.0,9.24,Zero down payment,Faridabad
+2021,Maruti,Vitara Brezza,LXI,Manual,26742,1st,Petrol,HR26,14076.0,7.2,Zero down payment,Gurgaon
+2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,26565,1st,Petrol,HR10,18120.0,9.52,Zero down payment,Gurgaon
+2016,Maruti,Celerio,VXI AMT,Automatic,98397,1st,Petrol,HR51,6764.0,3.46,Zero down payment,Gurgaon
+2017,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,71266,2nd,Petrol,DL12,9877.0,5.05,Zero down payment,Noida
+2018,Maruti,Wagon R 1.0,VXI AMT,Automatic,55744,1st,Petrol,UP25,8113.0,4.15,Zero down payment,Ghaziabad
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,63054,1st,Petrol,DL3C,16484.0,8.66,Zero down payment,Noida
+2011,Hyundai,Santro Xing,GL,Manual,40462,2nd,Petrol,DL10,3206.0,1.64,Zero down payment,Noida
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,20856,1st,Petrol,HR51,12473.0,6.38,Zero down payment,New Delhi
+2021,Nissan,MAGNITE,XV TURBO,Manual,9075,2nd,Petrol,UP14,14174.0,7.25,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ MT,Manual,41017,2nd,Petrol,HR26,9873.0,5.05,Zero down payment,Gurgaon
+2015,Toyota,Etios,VX,Manual,14512,2nd,Petrol,DL1C,8895.0,4.55,Zero down payment,Ghaziabad
+2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,96027,2nd,Diesel,HR26,13118.0,6.71,Zero down payment,Gurgaon
+2017,Maruti,Ciaz,ZETA 1.4  MT PETROL,Manual,78523,1st,Petrol,HR26,12395.0,6.34,Zero down payment,Faridabad
+2018,Hyundai,Elite i20,SPORTZ 1.2,Manual,54617,1st,Petrol,HR36,10909.0,5.58,Zero down payment,New Delhi
+2011,Volkswagen,Vento,HIGHLINE PETROL AT,Automatic,67403,2nd,Petrol,DL6C,7136.0,3.65,Zero down payment,Gurgaon
+2020,Maruti,Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,57803,1st,Petrol,DL12,15665.0,8.23,Zero down payment,New Delhi
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,49672,1st,Petrol,UP32,10674.0,5.46,Zero down payment,Noida
+2018,Maruti,Vitara Brezza,VDI,Manual,66135,2nd,Diesel,DL4C,11241.0,5.75,Zero down payment,Noida
+2022,Maruti,BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,23928,1st,Petrol,DL3C,21299.0,11.19,Zero down payment,Noida
+2019,Maruti,S PRESSO,VXI AMT,Automatic,75346,1st,Petrol,HR26,8113.0,4.15,Zero down payment,Gurgaon
+2021,Honda,Amaze,1.5L I-DTEC VX CVT,Automatic,49813,1st,Diesel,HR10,16769.0,8.81,Zero down payment,New Delhi
+2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,30890,2nd,Petrol,HR30,11730.0,6.0,Zero down payment,New Delhi
+2019,Honda,Amaze,1.5L I-DTEC VX CVT,Automatic,55414,2nd,Diesel,HR98,15520.0,8.15,Zero down payment,Gurgaon
+2010,Maruti,Ritz,VXI,Manual,82020,2nd,Petrol,DL2C,2796.0,1.43,Zero down payment,Gurgaon
+2010,Maruti,Wagon R 1.0,VXI,Manual,59180,1st,Petrol,HR26,3363.0,1.72,Zero down payment,New Delhi
+2018,Maruti,Vitara Brezza,ZDI,Manual,90596,1st,Diesel,DL1C,11945.0,6.11,Zero down payment,Noida
+2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,51832,2nd,Petrol,DL14,11183.0,5.72,Zero down payment,Noida
+2012,Honda,City,1.5L I-VTEC V AT,Automatic,67781,1st,Petrol,DL3C,7292.0,3.73,Zero down payment,Noida
+2014,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,26341,1st,Petrol,HR51,7937.0,4.06,Zero down payment,Faridabad
+2022,Tata,TIGOR,XZ PLUS CNG,Manual,52479,1st,CNG,UP16,14205.0,7.27,Zero down payment,Ghaziabad
+2021,Honda,Amaze,1.2L I-VTEC S,Manual,28250,1st,Petrol,HR51,12610.0,6.45,Zero down payment,Faridabad
+2019,Tata,Harrier,XZ 2.0L DARK EDITION,Manual,60431,1st,Diesel,HR26,23374.0,12.28,Zero down payment,New Delhi
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,84073,2nd,Petrol,DL3C,14291.0,7.31,Zero down payment,Noida
+2015,Toyota,Etios Liva,G,Manual,88086,2nd,Petrol,DL8C,6139.0,3.14,Zero down payment,New Delhi
+2010,Hyundai,i10,SPORTZ 1.2,Manual,74924,2nd,Petrol,HR51,2913.0,1.49,Zero down payment,New Delhi
+2020,Tata,Tiago,XE PETROL,Manual,22064,1st,Petrol,UP42,9677.0,4.95,Zero down payment,Ghaziabad
+2013,Honda,Amaze,1.2L I-VTEC S,Manual,55508,1st,Petrol,DL4C,6100.0,3.12,Zero down payment,Ghaziabad
+2019,Maruti,Dzire,ZDI PLUS AMT,Automatic,84007,2nd,Diesel,HR26,13701.0,7.01,Zero down payment,New Delhi
+2023,Maruti,Baleno,ZETA 1.2 AGS,Automatic,15495,1st,Petrol,UP14,15513.0,8.15,Zero down payment,Noida
+2019,Mahindra,XUV500,W9 AT,Automatic,47525,2nd,Diesel,DL8C,24040.0,12.63,Zero down payment,New Delhi
+2019,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,73097,1st,Petrol,DL12,13372.0,6.84,Zero down payment,New Delhi
+2020,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,35948,2nd,Petrol,DL8C,13920.0,7.12,Zero down payment,Noida
+2015,Hyundai,Elite i20,SPORTZ 1.2,Manual,39402,1st,Petrol,DL8C,9247.0,4.73,Zero down payment,New Delhi
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,45289,1st,CNG,DL1C,12583.0,6.44,Zero down payment,New Delhi
+2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,18659,2nd,Petrol,DL12,12004.0,6.14,Zero down payment,New Delhi
+2019,Mahindra,XUV500,W9,Manual,46118,1st,Diesel,UP14,21299.0,11.19,Zero down payment,Noida
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,55321,1st,Diesel,HR26,14272.0,7.3,Zero down payment,Faridabad
+2010,Honda,City,1.5L I-VTEC V MT,Manual,115507,1st,Petrol,DL9C,3343.0,1.71,Zero down payment,New Delhi
+2020,Tata,NEXON,XM SUNROOF DIESEL,Manual,70684,1st,Diesel,DL7C,14995.0,7.67,Zero down payment,Gurgaon
+2018,Volkswagen,Ameo,TRENDLINE 1.0L,Manual,66903,1st,Petrol,HR26,10123.0,5.18,Zero down payment,Faridabad
+2019,Hyundai,NEW SANTRO,SPORTZ AMT,Automatic,16126,1st,Petrol,DL12,10839.0,5.54,Zero down payment,Gurgaon
+2013,Honda,Amaze,1.2L I-VTEC VX AT,Automatic,77130,2nd,Petrol,DL4C,7390.0,3.78,Zero down payment,Noida
+2019,Tata,TIGOR,XZ PETROL,Manual,40223,1st,Petrol,DL4C,9873.0,5.05,Zero down payment,Noida
+2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,17194,1st,Petrol,DL8C,5963.0,3.05,Zero down payment,New Delhi
+2019,Tata,Harrier,XZ DARK EDITION,Manual,52860,2nd,Diesel,HR26,23869.0,12.54,Zero down payment,Gurgaon
+2018,Maruti,Dzire,VXI AMT,Automatic,45469,2nd,Petrol,DL9C,10373.0,5.31,Zero down payment,New Delhi
+2019,Hyundai,VENUE,SX 1.0 (O) TURBO,Manual,26853,1st,Petrol,UP14,16655.0,8.75,Zero down payment,Noida
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,44203,1st,Petrol,DL9C,12669.0,6.48,Zero down payment,Ghaziabad
+2022,Tata,Tiago,XZ PLUS CNG,Manual,37466,1st,CNG,UP16,12786.0,6.54,Zero down payment,Ghaziabad
+2012,Maruti,Swift,ZXI,Manual,70054,1st,Petrol,DL12,6080.0,3.11,Zero down payment,Noida
+2011,Toyota,Etios,G,Manual,75766,1st,Petrol,HR26,4438.0,2.27,Zero down payment,Gurgaon
+2017,Maruti,Swift,VXI O,Manual,97031,1st,Petrol,UP32,7957.0,4.07,Zero down payment,Ghaziabad
+2010,Maruti,Wagon R 1.0,VXI,Manual,84429,1st,Petrol,DL1C,2913.0,1.49,Zero down payment,New Delhi
+2020,Honda,Amaze,1.2L I-VTEC S,Manual,55598,1st,Petrol,UP14,11828.0,6.05,Zero down payment,Noida
+2017,Hyundai,Xcent,SX 1.2,Manual,69550,2nd,CNG,DL7C,10010.0,5.12,Zero down payment,Noida
+2019,Tata,Harrier,XZ 2.0L,Manual,74257,1st,Diesel,UP14,21166.0,11.12,Zero down payment,Noida
+2021,Tata,ALTROZ,XZ PLUS I-TURBO PETROL,Manual,13127,1st,Petrol,DL9C,15230.0,7.79,Zero down payment,Noida
+2019,Honda,Jazz,1.2L I-VTEC VX,Manual,14115,1st,Petrol,DL10,12649.0,6.47,Zero down payment,New Delhi
+2016,Honda,City,1.5L I-VTEC VX,Manual,46324,1st,Petrol,UP14,14076.0,7.2,Zero down payment,Ghaziabad
+2018,Maruti,Baleno,ALPHA PETROL 1.2,Manual,24749,1st,Petrol,HR26,12160.0,6.22,Zero down payment,Faridabad
+2013,Maruti,Wagon R Stingray,LXI,Manual,82031,2nd,Petrol,DL8C,5122.0,2.62,Zero down payment,Noida
+2021,Nissan,MAGNITE,XV MT,Manual,24643,1st,Petrol,DL3C,14174.0,7.25,Zero down payment,Noida
+2022,Tata,Tiago,XZ PLUS CNG,Manual,16712,1st,CNG,DL8C,13392.0,6.85,Zero down payment,Ghaziabad
+2019,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,4511,1st,Petrol,DL9C,15073.0,7.71,Zero down payment,New Delhi
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,43504,1st,CNG,HR30,11926.0,6.1,Zero down payment,Faridabad
+2019,Tata,Harrier,XZ 2.0L,Manual,73787,1st,Diesel,DL10,21661.0,11.38,Zero down payment,Noida
+2016,Honda,Jazz,1.2L I-VTEC VX,Manual,70551,1st,Petrol,DL1C,8837.0,4.52,Zero down payment,New Delhi
+2012,Honda,Brio,E MT,Manual,83271,1st,Petrol,UP16,4164.0,2.13,Zero down payment,Ghaziabad
+2022,Tata,TIGOR,XZ PLUS PETROL,Manual,10841,1st,Petrol,UP16,13255.0,6.78,Zero down payment,Noida
+2016,Honda,City,V MT PETROL,Manual,87833,1st,CNG,DL9C,11476.0,5.87,Zero down payment,Noida
+2020,Ford,Ecosport,TITANIUM 1.5 SPORTS(SUNROOF) PETROL,Manual,68001,1st,Petrol,UP14,19262.0,10.12,Zero down payment,Noida
+2010,Hyundai,i20,SPORTZ 1.2,Manual,46385,1st,Petrol,DL7C,3879.0,1.98,Zero down payment,New Delhi
+2014,Toyota,Corolla Altis,G PETROL,Manual,78895,2nd,Petrol,UP78,10733.0,5.49,Zero down payment,Noida
+2019,Maruti,Baleno,ALPHA DIESEL 1.3,Manual,55396,1st,Diesel,DL9C,12571.0,6.43,Zero down payment,Noida
+2020,Renault,Kwid,RXT 0.8,Manual,26154,1st,Petrol,HR98,8113.0,4.15,Zero down payment,Gurgaon
+2021,Maruti,Swift,VXI AMT,Automatic,35477,1st,Petrol,HR26,14154.0,7.24,Zero down payment,Gurgaon
+2022,Tata,TIGOR,XZ PLUS CNG,Manual,31870,1st,CNG,HR06,15503.0,7.93,Zero down payment,Gurgaon
+2019,Tata,TIGOR,XZA PETROL,Automatic,70408,1st,Petrol,DL3C,10768.0,5.51,Zero down payment,New Delhi
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,29044,2nd,Petrol,UP16,18387.0,9.66,Zero down payment,Noida
+2022,Maruti,Baleno,ALPHA PETROL 1.2,Manual,10090,1st,Petrol,DL5C,17340.0,9.11,Zero down payment,Noida
+2010,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,88686,1st,Petrol,DL4C,3930.0,2.01,Zero down payment,New Delhi
+2017,Ford,Ecosport,TITANIUM + 1.5L PETROL,Manual,53429,1st,Petrol,DL12,12532.0,6.41,Zero down payment,Noida
+2016,Honda,Jazz,1.2L I-VTEC VX,Manual,35788,2nd,Petrol,HR26,9247.0,4.73,Zero down payment,New Delhi
+2018,Mahindra,KUV 100 NXT,K6+ D 6 STR,Manual,63907,2nd,Diesel,DL10,9521.0,4.87,Zero down payment,Ghaziabad
+2014,Maruti,Celerio,VXI AMT,Automatic,53717,1st,Petrol,UP14,6491.0,3.32,Zero down payment,Noida
+2015,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,53772,1st,Petrol,HR26,7468.0,3.82,Zero down payment,Faridabad
+2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,26798,1st,Petrol,HR51,8876.0,4.54,Zero down payment,Faridabad
+2015,Maruti,Ciaz,ZXI,Manual,51093,1st,Petrol,HR26,9912.0,5.07,Zero down payment,Gurgaon
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,38203,1st,Petrol,UP16,19510.0,10.25,Zero down payment,Noida
+2018,Honda,City,1.5L I-DTEC SV,Manual,73514,1st,Diesel,HR51,12102.0,6.19,Zero down payment,New Delhi
+2019,Maruti,S PRESSO,VXI,Manual,54923,2nd,Petrol,HR06,7996.0,4.09,Zero down payment,Gurgaon
+2021,Hyundai,VENUE,SX 1.0 TURBO,Manual,49451,1st,Petrol,DL3C,16636.0,8.74,Zero down payment,Noida
+2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,64129,2nd,Petrol,HR10,10147.0,5.19,Zero down payment,Faridabad
+2019,Tata,NEXON,XM DIESEL,Manual,60433,1st,Diesel,HR26,12324.0,6.3,Zero down payment,Gurgaon
+2021,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,39356,1st,Petrol,UP14,9169.0,4.69,Zero down payment,Noida
+2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,84904,1st,Petrol,DL4C,9540.0,4.88,Zero down payment,New Delhi
+2018,Honda,WR-V,1.5L I-DTEC VX MT,Manual,85959,1st,Diesel,UP16,12193.0,6.24,Zero down payment,Noida
+2019,Ford,FREESTYLE,TITANIUM 1.2 PETROL,Manual,24618,1st,Petrol,UP14,10870.0,5.56,Zero down payment,Ghaziabad
+2021,Tata,Tiago,XT PETROL,Manual,7605,1st,Petrol,DL7C,11308.0,5.78,Zero down payment,Noida
+2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,79740,1st,Petrol,HR20,6686.0,3.42,Zero down payment,Faridabad
+2016,Honda,Jazz,1.2L I-VTEC VX,Manual,71851,1st,Petrol,HR26,9834.0,5.03,Zero down payment,Gurgaon
+2018,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,79697,1st,Diesel,HR30,11799.0,6.04,Zero down payment,New Delhi
+2022,Tata,NEXON,XZ PLUS (HS) PETROL DARK EDITION,Manual,7184,1st,Petrol,DL11,20100.0,10.56,Zero down payment,New Delhi
+2012,Maruti,Swift Dzire,VXI,Manual,102917,2nd,Petrol,DL8C,4438.0,2.27,Zero down payment,Noida
+2017,Maruti,Wagon R 1.0,LXI,Manual,79416,1st,Petrol,HR26,6452.0,3.3,Zero down payment,New Delhi
+2016,Toyota,Etios,VX,Manual,63228,1st,Petrol,DL8C,9580.0,4.9,Zero down payment,Noida
+2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,91980,1st,Petrol,HR26,8641.0,4.42,Zero down payment,Noida
+2016,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,70554,1st,Petrol,HR31,7331.0,3.75,Zero down payment,Gurgaon
+2016,Honda,BR-V,1.5L I-VTEC VX,Manual,68685,1st,Petrol,DL4C,12551.0,6.42,Zero down payment,Noida
+2012,Maruti,Swift Dzire,VXI,Manual,45610,2nd,Petrol,UP16,6608.0,3.38,Zero down payment,Ghaziabad
+2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,62932,2nd,Petrol,HR26,10557.0,5.4,Zero down payment,New Delhi
+2019,Honda,Amaze,1.5L I-DTEC S CVT,Automatic,75354,1st,Diesel,DL8C,11445.0,5.85,Zero down payment,Noida
+2010,Maruti,Wagon R 1.0,VXI,Manual,61569,2nd,Petrol,HR50,3324.0,1.7,Zero down payment,New Delhi
+2010,Hyundai,i10,SPORTZ 1.2,Manual,39838,1st,Petrol,DL2C,3312.0,1.69,Zero down payment,New Delhi
+2014,Maruti,Swift Dzire,ZXI,Manual,108939,2nd,Petrol,HR35,7234.0,3.7,Zero down payment,New Delhi
+2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,66858,2nd,Petrol,DL10,2972.0,1.52,Zero down payment,New Delhi
+2010,Hyundai,i10,ERA 1.1,Manual,67139,1st,Petrol,DL8C,2620.0,1.34,Zero down payment,Noida
+2017,Maruti,Swift Dzire,VXI,Manual,58336,1st,Petrol,UP14,9099.0,4.65,Zero down payment,Noida
+2016,Honda,Jazz,1.2L I-VTEC VX,Manual,68927,1st,Petrol,DL12,8974.0,4.59,Zero down payment,Gurgaon
+2016,Hyundai,Elite i20,MAGNA 1.2,Manual,88751,1st,Petrol,UP14,9325.0,4.77,Zero down payment,Ghaziabad
+2019,Maruti,Dzire,VXI,Manual,48688,1st,Petrol,UP16,10870.0,5.56,Zero down payment,Noida
+2017,Skoda,Rapid,MONTE CARLO 1.6 MPI AT,Automatic,37938,2nd,CNG,DL8C,13705.0,7.01,Zero down payment,Noida
+2022,Tata,NEXON,XMA SUNROOF PETROL,Automatic,15050,1st,Petrol,UP16,17530.0,9.21,Zero down payment,Ghaziabad
+2010,Hyundai,i10,SPORTZ 1.2,Manual,30182,1st,Petrol,DL3C,2757.0,1.41,Zero down payment,New Delhi
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,32116,1st,Petrol,DL3C,3969.0,2.03,Zero down payment,Noida
+2010,Volkswagen,Vento,COMFORTLINE 1.6,Manual,74715,1st,Petrol,DL3C,4184.0,2.14,Zero down payment,New Delhi
+2019,Tata,Harrier,XZ 2.0L,Manual,25979,1st,Diesel,DL10,22237.0,11.68,Zero down payment,Noida
+2022,Renault,TRIBER,RXZ,Manual,19671,1st,Petrol,UP14,14467.0,7.4,Zero down payment,Noida
+2015,Maruti,Swift,LXI,Manual,58607,1st,CNG,HR51,8055.0,4.12,Zero down payment,Faridabad
+2019,Mahindra,XUV500,W5,Manual,54955,2nd,Diesel,UP14,19567.0,10.28,Zero down payment,Noida
+2022,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,39698,1st,Petrol,HR26,17378.0,9.13,Zero down payment,New Delhi
+2018,Maruti,Vitara Brezza,ZDI PLUS,Manual,16023,1st,Diesel,DL6C,14663.0,7.5,Zero down payment,Noida
+2015,Maruti,Swift,VXI,Manual,93322,1st,Petrol,HR26,7097.0,3.63,Zero down payment,Faridabad
+2021,Mahindra,XUV300,W8 (O) 1.5 DIESEL,Manual,68950,1st,Diesel,HR36,19407.0,10.2,Zero down payment,New Delhi
+2021,Tata,TIAGO NRG,XZ MT,Manual,71448,1st,Petrol,UP16,11417.0,5.84,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.2,Manual,88882,1st,Petrol,HR12,3206.0,1.64,Zero down payment,Faridabad
+2019,Hyundai,GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,26940,1st,Petrol,UP14,12141.0,6.21,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,ASTA MT,Manual,65039,1st,Petrol,HR26,8328.0,4.26,Zero down payment,Faridabad
+2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,42032,2nd,Petrol,DL1C,7253.0,3.71,Zero down payment,New Delhi
+2010,Maruti,Alto,LXI,Manual,24809,1st,Petrol,DL9C,2639.0,1.35,Zero down payment,Ghaziabad
+2022,Maruti,IGNIS,SIGMA 1.2,Manual,22521,1st,Petrol,DL10,10049.0,5.14,Zero down payment,New Delhi
+2016,Honda,Jazz,1.2L I-VTEC V,Manual,97508,1st,Petrol,DL9C,7859.0,4.02,Zero down payment,Noida
+2020,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,27579,2nd,Petrol,DL9C,16426.0,8.63,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,31552,1st,CNG,DL9C,10420.0,5.33,Zero down payment,Gurgaon
+2014,Maruti,Swift Dzire,VXI,Manual,32243,2nd,Petrol,DL1C,7664.0,3.92,Zero down payment,Ghaziabad
+2011,Hyundai,Santro Xing,GL PLUS,Manual,27892,1st,Petrol,DL3C,3402.0,1.74,Zero down payment,New Delhi
+2018,Honda,Amaze,1.2L I-VTEC VX,Manual,39972,2nd,Petrol,HR26,11926.0,6.1,Zero down payment,Gurgaon
+2018,Hyundai,Elite i20,ASTA 1.2,Manual,81844,1st,Petrol,DL9C,10733.0,5.49,Zero down payment,Noida
+2010,Honda,City,1.5L I-VTEC V AT,Automatic,64018,1st,Petrol,HR26,4516.0,2.31,Zero down payment,Gurgaon
+2018,Tata,Tiago,XT PETROL,Manual,104077,1st,Petrol,DL12,7625.0,3.9,Zero down payment,New Delhi
+2015,Honda,City,1.5L I-VTEC V MT,Manual,29348,1st,Petrol,DL10,11613.0,5.94,Zero down payment,Noida
+2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,91968,1st,Petrol,HR26,3343.0,1.71,Zero down payment,Faridabad
+2019,Maruti,Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,22776,1st,Petrol,UP14,14785.0,7.56,Zero down payment,Noida
+2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,84002,1st,Diesel,DL11,12317.0,6.3,Zero down payment,Noida
+2018,Maruti,Vitara Brezza,VDI,Manual,99561,1st,Diesel,HR11,12825.0,6.56,Zero down payment,Faridabad
+2022,Renault,TRIBER,RXL MT,Manual,17791,1st,Petrol,DL10,12551.0,6.42,Zero down payment,New Delhi
+2010,Hyundai,Santro Xing,GLS,Manual,43622,1st,Petrol,HR26,2737.0,1.4,Zero down payment,Gurgaon
+2010,Maruti,Alto K10,VXI,Manual,83263,2nd,Petrol,DL2C,2972.0,1.52,Zero down payment,New Delhi
+2018,Maruti,Vitara Brezza,ZDI PLUS AT DUAL TONE,Automatic,67062,1st,Diesel,DL5C,12981.0,6.64,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,65537,1st,Petrol,HR51,9091.0,4.65,Zero down payment,Gurgaon
+2017,Honda,WR-V,1.2L I-VTEC S MT,Manual,28595,1st,Petrol,DL10,11789.0,6.03,Zero down payment,Noida
+2022,Tata,NEXON,XZA PLUS (O) PETROL,Automatic,30129,1st,Petrol,HR72,20252.0,10.64,Zero down payment,New Delhi
+2017,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,54494,1st,Petrol,DL4C,8152.0,4.17,Zero down payment,Ghaziabad
+2016,Honda,Brio,E MT,Manual,58085,2nd,Petrol,CH01,6960.0,3.56,Zero down payment,Gurgaon
+2017,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,70859,1st,Petrol,DL5C,9110.0,4.66,Zero down payment,Noida
+2010,Maruti,Alto K10,VXI,Manual,97701,1st,Petrol,DL3C,2620.0,1.34,Zero down payment,New Delhi
+2017,Maruti,Swift,VXI,Manual,67043,1st,Petrol,HR26,8817.0,4.51,Zero down payment,New Delhi
+2019,Hyundai,Verna,1.6 CRDI SX + AT,Automatic,46983,1st,Diesel,DL12,20728.0,10.89,Zero down payment,Noida
+2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,93616,1st,Petrol,UP16,10479.0,5.36,Zero down payment,Ghaziabad
+2017,Honda,City,1.5L I-VTEC SV,Manual,65468,1st,Petrol,HR26,13294.0,6.8,Zero down payment,New Delhi
+2021,Mahindra,XUV300,W8 (O) 1.5 DIESEL,Manual,18136,2nd,Diesel,UP14,19548.0,10.27,Zero down payment,Ghaziabad
+2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,87530,1st,Petrol,UP16,13353.0,6.83,Zero down payment,Ghaziabad
+2018,Mahindra,XUV500,W5 FWD,Manual,76497,1st,Diesel,UP14,16388.0,8.61,Zero down payment,Noida
+2018,Honda,Amaze,1.5L I-DTEC VX,Manual,89580,2nd,Diesel,DL4C,10831.0,5.54,Zero down payment,New Delhi
+2018,Maruti,Alto 800,LXI,Manual,89267,1st,Petrol,HR36,5806.0,2.97,Zero down payment,New Delhi
+2019,Hyundai,Verna,1.6 VTVT SX,Manual,84507,1st,Petrol,UP51,15445.0,7.9,Zero down payment,Noida
+2018,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,61157,1st,Petrol,DL1C,12102.0,6.19,Zero down payment,Noida
+2017,Maruti,IGNIS,DELTA 1.2,Manual,57093,1st,Petrol,DL9C,8602.0,4.4,Zero down payment,Noida
+2018,Honda,Amaze,1.2L I-VTEC S,Manual,98133,2nd,CNG,DL10,10080.0,5.16,Zero down payment,Noida
+2012,Maruti,Wagon R 1.0,LXI,Manual,45128,1st,Petrol,DL2C,4262.0,2.18,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ MT,Manual,27991,1st,Petrol,HR26,8817.0,4.51,Zero down payment,New Delhi
+2010,Hyundai,i10,SPORTZ (O) 1.2,Manual,52873,1st,Petrol,DL8C,3421.0,1.75,Zero down payment,Noida
+2011,Maruti,Wagon R 1.0,LXI,Manual,60784,1st,Petrol,HR26,3183.0,1.63,Zero down payment,New Delhi
+2020,Hyundai,VENUE,SX 1.0 TURBO,Manual,24972,1st,Petrol,DL5C,18463.0,9.7,Zero down payment,Noida
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,85482,1st,Petrol,HR51,12121.0,6.2,Zero down payment,New Delhi
+2018,Maruti,Alto K10,VXI,Manual,60716,1st,Petrol,HR26,6412.0,3.28,Zero down payment,New Delhi
+2019,Maruti,Ciaz,SIGMA 1.5 SHVS MT  PETROL,Manual,33746,1st,Petrol,DL10,14233.0,7.28,Zero down payment,Ghaziabad
+2011,Toyota,Etios,V,Manual,71830,1st,Petrol,DL8C,4145.0,2.12,Zero down payment,Noida
+2017,Maruti,Ciaz,ALPHA 1.4 PETROL,Manual,65083,1st,Petrol,UP16,11965.0,6.12,Zero down payment,Noida
+2018,Honda,Amaze,1.5L I-DTEC S,Manual,116404,2nd,Diesel,DL10,8504.0,4.35,Zero down payment,Noida
+2021,Maruti,IGNIS,SIGMA 1.2,Manual,44980,1st,Petrol,UP16,10557.0,5.4,Zero down payment,Noida
+2014,Toyota,Etios,G,Manual,89602,2nd,Petrol,DL10,6784.0,3.47,Zero down payment,New Delhi
+2016,Hyundai,Verna,1.6 CRDI SX,Manual,67567,1st,Diesel,UP16,11808.0,6.04,Zero down payment,Noida
+2020,Maruti,Vitara Brezza,ZXI PLUS AT SHVS,Automatic,23710,1st,Petrol,DL12,19415.0,10.2,Zero down payment,Noida
+2019,Tata,NEXON,XM PETROL,Manual,39060,1st,Petrol,DL12,12297.0,6.29,Zero down payment,Ghaziabad
+2021,Toyota,URBAN CRUISER,MID MT,Manual,10138,2nd,Petrol,UP14,16407.0,8.62,Zero down payment,Noida
+2020,Hyundai,NEW SANTRO,ERA EXECUTIVE,Manual,19806,1st,Petrol,DL3C,8856.0,4.53,Zero down payment,Ghaziabad
+2011,Hyundai,i20,MAGNA 1.2,Manual,53907,2nd,Petrol,DL3C,3695.0,1.89,Zero down payment,Noida
+2021,Hyundai,Creta,SX (O) 1.4 TURBO DCT DUAL TONE,Automatic,32162,2nd,Petrol,DL5C,32034.0,16.83,Zero down payment,Noida
+2011,Maruti,Wagon R 1.0,VXI,Manual,43437,1st,Petrol,DL2C,3779.0,1.93,Zero down payment,New Delhi
+2020,Volkswagen,Vento,HIGHLINE PLUS 1.0L TSI,Manual,43444,1st,Petrol,HR26,22327.0,11.73,Zero down payment,Faridabad
+2021,Tata,NEXON,XZA PLUS SUNROOF DIESEL,Automatic,52794,1st,Diesel,HR13,17911.0,9.41,Zero down payment,Noida
+2015,Maruti,Ciaz,VXI+,Manual,44237,1st,Petrol,DL12,10714.0,5.48,Zero down payment,New Delhi
+2020,Mahindra,XUV300,W8 1.5 DIESEL AMT,Automatic,54571,1st,Diesel,UP16,18101.0,9.51,Zero down payment,Noida
+2021,Maruti,Alto,VXI,Manual,13594,2nd,Petrol,HR87,7918.0,4.05,Zero down payment,Faridabad
+2010,Maruti,Alto K10,LXI P,Manual,29299,1st,Petrol,DL5C,2729.0,1.4,Zero down payment,Noida
+2015,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT S,Manual,41660,2nd,Petrol,DL8C,10889.0,5.57,Zero down payment,Noida
+2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,124245,1st,Petrol,DL6C,8524.0,4.36,Zero down payment,New Delhi
+2016,Maruti,Wagon R 1.0,VXI AMT,Automatic,91825,2nd,Petrol,UP14,6393.0,3.27,Zero down payment,Noida
+2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,50555,1st,Petrol,HR51,11144.0,5.7,Zero down payment,New Delhi
+2022,Nissan,MAGNITE,XV PREMIUM TURBO CVT,Automatic,42458,1st,Petrol,UP16,17683.0,9.29,Zero down payment,Ghaziabad
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,21839,1st,Petrol,DL4C,12942.0,6.62,Zero down payment,Noida
+2018,Hyundai,Elite i20,ASTA 1.2 DUAL TONE,Manual,68499,1st,CNG,DL11,13607.0,6.96,Zero down payment,Noida
+2012,Honda,Brio,S MT,Manual,85932,1st,Petrol,DL7C,4262.0,2.18,Zero down payment,Noida
+2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,49001,2nd,Petrol,DL9C,10459.0,5.35,Zero down payment,New Delhi
+2014,Honda,City,VX CVT PETROL,Automatic,62242,2nd,Petrol,DL12,10772.0,5.51,Zero down payment,New Delhi
+2019,Volkswagen,Vento,HIGHLINE DIESEL,Manual,42213,1st,Diesel,UP16,15570.0,8.18,Zero down payment,Noida
+2016,Maruti,Ciaz,ZXI+,Manual,75603,1st,Petrol,DL6C,10362.0,5.3,Zero down payment,New Delhi
+2017,Honda,City,1.5L I-VTEC VX,Manual,88039,1st,Petrol,UP15,14584.0,7.46,Zero down payment,Noida
+2021,Hyundai,NEW I20,SPORTZ 1.2 MT,Manual,16814,1st,Petrol,DL1C,15093.0,7.72,Zero down payment,Noida
+2020,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,32626,1st,Petrol,DL9C,9892.0,5.06,Zero down payment,New Delhi
+2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,25805,1st,Petrol,DL7C,10929.0,5.59,Zero down payment,Noida
+2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,73585,2nd,Petrol,DL1C,10323.0,5.28,Zero down payment,Noida
+2019,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,34824,1st,Petrol,DL2C,10811.0,5.53,Zero down payment,Noida
+2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,96012,1st,Petrol,DL3C,11398.0,5.83,Zero down payment,Noida
+2015,Honda,City,1.5L I-VTEC V MT,Manual,21760,1st,Petrol,UP16,12199.0,6.24,Zero down payment,Noida
+2022,Tata,PUNCH,CREATIVE  1.2 RTN DUAL TONE,Manual,1099,1st,Petrol,DL3C,16598.0,8.72,Zero down payment,Noida
+2022,Tata,Tiago,XT PETROL,Manual,13733,1st,Petrol,DL9C,11111.0,5.68,Zero down payment,Ghaziabad
+2016,Maruti,Baleno,ALPHA PETROL 1.2,Manual,45892,1st,Petrol,DL8C,10901.0,5.58,Zero down payment,Noida
+2016,Hyundai,Verna,FLUIDIC 4S 1.6 VTVT SX,Manual,56604,1st,Petrol,DL8C,11926.0,6.1,Zero down payment,Noida
+2022,Toyota,Innova Crysta,2.4 ZX AT 7 STR,Automatic,25803,1st,Diesel,DL10,49489.0,26.0,Zero down payment,Faridabad
+2019,Maruti,IGNIS,ZETA 1.2,Manual,26790,1st,Petrol,DL3C,11026.0,5.64,Zero down payment,Noida
+2012,Hyundai,i20,SPORTZ 1.2,Manual,67345,1st,Petrol,DL3C,5415.0,2.77,Zero down payment,Ghaziabad
+2018,Toyota,Innova Crysta,2.4 VX 7 STR,Manual,72099,1st,Diesel,DL14,29274.0,15.38,Zero down payment,Noida
+2017,Honda,BR-V,1.5L I-VTEC S,Manual,21895,1st,Petrol,DL14,16750.0,8.8,Zero down payment,Noida
+2010,Maruti,Alto K10,VXI,Manual,68660,1st,Petrol,DL4C,2639.0,1.35,Zero down payment,Noida
+2010,Hyundai,i10,ERA 1.1,Manual,60730,1st,Petrol,DL10,2678.0,1.37,Zero down payment,New Delhi
+2022,Maruti,Celerio,VXI,Manual,33515,1st,Petrol,HR51,9912.0,5.07,Zero down payment,Faridabad
+2011,Hyundai,i10,MAGNA 1.2,Manual,25268,1st,Petrol,DL12,3656.0,1.87,Zero down payment,Noida
+2016,Hyundai,Xcent,SX 1.2,Manual,48199,2nd,Petrol,DL4C,8856.0,4.53,Zero down payment,Noida
+2019,Maruti,Vitara Brezza,ZDI,Manual,102511,1st,Diesel,HR52,14076.0,7.2,Zero down payment,Faridabad
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,61971,1st,Petrol,UP16,12297.0,6.29,Zero down payment,Ghaziabad
+2015,Hyundai,Elite i20,SPORTZ 1.2 (O),Manual,72123,1st,Petrol,DL8C,9756.0,4.99,Zero down payment,New Delhi
+2016,Honda,City,1.5L I-VTEC VX,Manual,48681,1st,Petrol,DL1C,13099.0,6.7,Zero down payment,Noida
+2013,Hyundai,Verna,FLUIDIC 1.6 VTVT SX OPT,Manual,35474,1st,Petrol,DL4C,8974.0,4.59,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,58135,1st,CNG,HR10,9619.0,4.92,Zero down payment,New Delhi
+2014,Maruti,Ertiga,VXI ABS,Manual,41431,1st,Petrol,DL14,10787.0,5.52,Zero down payment,Noida
+2015,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,47122,1st,Petrol,DL8C,8602.0,4.4,Zero down payment,New Delhi
+2011,Toyota,Etios,G SP,Manual,85946,2nd,Petrol,DL3C,3460.0,1.77,Zero down payment,Noida
+2023,Hyundai,NEW I20,SPORTZ 1.2 AT,Automatic,5283,1st,Petrol,DL12,16712.0,8.78,Zero down payment,Noida
+2021,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,40380,1st,CNG,HR26,14213.0,7.27,Zero down payment,Noida
+2020,Maruti,Alto,VXI,Manual,24006,1st,Petrol,DL2C,7664.0,3.92,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,36701,1st,Petrol,DL6C,9306.0,4.76,Zero down payment,Ghaziabad
+2019,Maruti,Vitara Brezza,ZDI AMT,Automatic,80977,1st,Diesel,UP16,14174.0,7.25,Zero down payment,Noida
+2010,Maruti,Swift Dzire,VXI,Manual,65268,2nd,Petrol,HR26,3402.0,1.74,Zero down payment,New Delhi
+2018,Hyundai,Xcent,S 1.2,Manual,94803,2nd,CNG,DL3C,10127.0,5.18,Zero down payment,New Delhi
+2015,Honda,City,1.5L I-VTEC V MT,Manual,57463,1st,Petrol,DL9C,10440.0,5.34,Zero down payment,Noida
+2023,Renault,Kwid,CLIMBER 1.0 (O) DUAL TONE,Manual,2759,1st,Petrol,UP14,9971.0,5.1,Zero down payment,Noida
+2018,Hyundai,Tucson,2WD MT PETROL,Manual,43368,1st,Petrol,HR26,25449.0,13.37,Zero down payment,Noida
+2020,KIA,CARNIVAL,PREMIUM 2.2 7 STR,Automatic,66619,1st,Diesel,UP80,39648.0,20.83,Zero down payment,Noida
+2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,99699,1st,Petrol,DL5C,10049.0,5.14,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.1,Manual,55296,1st,Petrol,DL4C,3451.0,1.76,Zero down payment,Noida
+2011,Hyundai,i10,ERA 1.1,Manual,85469,1st,Petrol,DL2C,3128.0,1.6,Zero down payment,Noida
+2021,Hyundai,Tucson,GLS 2WD AT PETROL,Automatic,76916,1st,Petrol,UP14,33824.0,17.77,Zero down payment,Noida
+2019,Mahindra,XUV500,W11 (O) AT,Automatic,79978,1st,Diesel,DL8C,20928.0,10.99,Zero down payment,New Delhi
+2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,25686,1st,Petrol,DL8C,9697.0,4.96,Zero down payment,Noida
+2020,Maruti,Alto,LXI OPT CNG,Manual,47518,1st,CNG,DL8C,7965.0,4.07,Zero down payment,New Delhi
+2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,22886,1st,Petrol,DL2C,19453.0,10.22,Zero down payment,Noida
+2019,Tata,Harrier,XZ 2.0L,Manual,72077,1st,Diesel,UP14,21109.0,11.09,Zero down payment,Noida
+2017,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,23485,1st,Petrol,UP16,11398.0,5.83,Zero down payment,Noida
+2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,36371,1st,Petrol,DL1C,13626.0,6.97,Zero down payment,Noida
+2021,Renault,Kwid,RXL 1.0,Manual,16901,1st,Petrol,HR26,7996.0,4.09,Zero down payment,Faridabad
+2010,Maruti,Ritz,LXI,Manual,73654,1st,Petrol,DL9C,2757.0,1.41,Zero down payment,Noida
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,56139,1st,Petrol,DL1C,12199.0,6.24,Zero down payment,Noida
+2020,Tata,Tiago,XZA PLUS DUAL TONE PETROL,Automatic,9745,1st,Petrol,UP16,13529.0,6.92,Zero down payment,Noida
+2016,Honda,City,1.5L I-VTEC VX CVT,Automatic,81296,2nd,Petrol,DL9C,12375.0,6.33,Zero down payment,New Delhi
+2020,Maruti,S PRESSO,VXI (O) CNG,Manual,73970,1st,CNG,UP16,8348.0,4.27,Zero down payment,Noida
+2010,Maruti,Swift,LXI,Manual,40949,1st,Petrol,DL8C,3284.0,1.68,Zero down payment,Noida
+2018,Maruti,Ciaz,ZETA 1.4  AT PETROL,Automatic,22234,2nd,Petrol,DL12,15621.0,7.99,Zero down payment,Noida
+2015,Honda,Jazz,1.2L I-VTEC V,Manual,90505,1st,Petrol,HR26,7933.0,4.06,Zero down payment,Faridabad
+2013,Honda,Brio,VX MT,Manual,72852,2nd,Petrol,HR51,6139.0,3.14,Zero down payment,Faridabad
+2020,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,40226,1st,Petrol,HR26,16669.0,8.76,Zero down payment,Faridabad
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,45996,1st,Petrol,DL12,9756.0,4.99,Zero down payment,Ghaziabad
+2022,Renault,Kwid,RXT 1.0 AMT,Automatic,8055,1st,Petrol,UP16,10147.0,5.19,Zero down payment,Noida
+2015,Toyota,Etios,G,Manual,94688,1st,Petrol,DL12,7722.0,3.95,Zero down payment,Ghaziabad
+2011,Hyundai,i20,MAGNA 1.2,Manual,77007,2nd,Petrol,DL1C,3969.0,2.03,Zero down payment,Noida
+2019,Maruti,IGNIS,ZETA 1.2,Manual,51219,1st,Petrol,DL9C,10889.0,5.57,Zero down payment,Noida
+2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,62238,1st,Diesel,DL8C,15798.0,8.3,Zero down payment,Noida
+2018,Honda,BR-V,1.5L I-VTEC VX,Manual,76268,1st,Petrol,UP14,15494.0,8.14,Zero down payment,Noida
+2020,Maruti,Alto,VXI,Manual,13150,1st,Petrol,DL2C,7370.0,3.77,Zero down payment,New Delhi
+2017,Tata,Zest,XT PETROL,Manual,66460,2nd,CNG,DL10,9697.0,4.96,Zero down payment,Noida
+2016,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,49376,1st,Petrol,HR26,8876.0,4.54,Zero down payment,Faridabad
+2018,Volkswagen,Vento,HIGHLINE DIESEL 1.5,Manual,105792,1st,Diesel,UP14,13509.0,6.91,Zero down payment,Noida
+2019,Mahindra,TUV300,T8,Manual,84003,1st,Diesel,DL12,13939.0,7.13,Zero down payment,Noida
+2018,Toyota,Corolla Altis,G DIESEL,Manual,102279,1st,Diesel,HR26,18368.0,9.65,Zero down payment,Noida
+2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,62579,1st,Petrol,DL6C,14233.0,7.28,Zero down payment,Noida
+2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,50125,1st,Petrol,DL1C,5885.0,3.01,Zero down payment,Noida
+2019,Maruti,Celerio,VXI (O) CNG,Manual,112479,1st,CNG,HR36,8524.0,4.36,Zero down payment,Noida
+2015,Honda,City,1.5L I-VTEC VX CVT,Automatic,97182,1st,Petrol,HR26,11716.0,5.99,Zero down payment,New Delhi
+2022,Toyota,Glanza,V,Manual,41129,1st,Petrol,UP16,15684.0,8.24,Zero down payment,Ghaziabad
+2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,86446,1st,Petrol,DL1C,7801.0,3.99,Zero down payment,Noida
+2015,Honda,City,1.5L I-VTEC VX CVT,Automatic,64803,2nd,Petrol,UP32,10850.0,5.55,Zero down payment,Noida
+2012,Maruti,Swift Dzire,VXI,Manual,21338,1st,Petrol,DL6C,6862.0,3.51,Zero down payment,New Delhi
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,81084,1st,CNG,DL10,9423.0,4.82,Zero down payment,Noida
+2016,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,24062,1st,Petrol,DL8C,15608.0,8.2,Zero down payment,Noida
+2016,Hyundai,Verna,1.6 VTVT S,Manual,47793,1st,Petrol,UP32,9951.0,5.09,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.2,Manual,80322,1st,Petrol,DL10,3304.0,1.69,Zero down payment,New Delhi
+2022,Renault,Kwid,RXT 1.0 AMT,Automatic,12028,1st,Petrol,UP16,10714.0,5.48,Zero down payment,Noida
+2011,Hyundai,i10,SPORTZ 1.2,Manual,15024,1st,Petrol,DL2C,3793.0,1.94,Zero down payment,New Delhi
+2022,Renault,Kwid,RXT 1.0,Manual,15260,1st,Petrol,DL7C,10240.0,5.24,Zero down payment,Noida
+2020,Maruti,Dzire,ZXI,Manual,32057,1st,Petrol,DL9C,14311.0,7.32,Zero down payment,Noida
+2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,8960,1st,Petrol,DL9C,14330.0,7.33,Zero down payment,New Delhi
+2011,Maruti,Swift,LXI,Manual,31841,1st,Petrol,DL8C,4848.0,2.48,Zero down payment,Ghaziabad
+2011,Hyundai,i10,SPORTZ 1.2,Manual,82214,1st,Petrol,HR26,3754.0,1.92,Zero down payment,Faridabad
+2021,Maruti,Alto,VXI,Manual,17389,1st,Petrol,HR98,7996.0,4.09,Zero down payment,Faridabad
+2012,Maruti,Swift Dzire,LXI,Manual,94288,1st,Petrol,DL2C,5024.0,2.57,Zero down payment,Noida
+2010,Maruti,Wagon R 1.0,VXI,Manual,76605,1st,Petrol,HR01,3339.0,1.71,Zero down payment,Noida
+2019,Maruti,New Wagon-R,LXI CNG 1.0,Manual,86189,1st,CNG,DL9C,9052.0,4.63,Zero down payment,Noida
+2019,Datsun,Go Plus,A(O),Manual,27561,1st,Petrol,UP14,8250.0,4.22,Zero down payment,Noida
+2011,Toyota,Etios,G,Manual,88478,2nd,Petrol,DL8C,4066.0,2.08,Zero down payment,New Delhi
+2018,Toyota,Innova Crysta,2.8 GX AT 7 STR,Automatic,86545,2nd,Diesel,DL1C,33500.0,17.6,Zero down payment,Noida
+2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,48960,2nd,Petrol,HR26,7781.0,3.98,Zero down payment,New Delhi
+2018,Maruti,Vitara Brezza,ZDI PLUS,Manual,40190,2nd,Diesel,DL9C,13118.0,6.71,Zero down payment,Noida
+2020,Toyota,YARIS,G MT,Manual,37283,1st,Petrol,UP32,17378.0,9.13,Zero down payment,Noida
+2020,Hyundai,Creta,1.6 SX AT CRDI,Automatic,45387,1st,Diesel,UP16,25410.0,13.35,Zero down payment,Noida
+2022,Renault,Kiger,RXZ TURBO CVT,Automatic,13785,1st,Petrol,UP14,16598.0,8.72,Zero down payment,Noida
+2022,Renault,Kwid,RXT 1.0 AMT,Automatic,16209,1st,Petrol,HR51,9990.0,5.11,Zero down payment,New Delhi
+2020,Renault,Kwid,CLIMBER 1.0 (O),Manual,50464,1st,Petrol,HR36,8387.0,4.29,Zero down payment,Faridabad
+2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,50882,2nd,CNG,DL10,11613.0,5.94,Zero down payment,New Delhi
+2011,Maruti,Swift,VXI D,Manual,77021,2nd,Petrol,DL3C,3879.0,1.98,Zero down payment,Noida
+2010,Hyundai,i10,SPORTZ 1.2,Manual,88623,1st,Petrol,HR26,3370.0,1.72,Zero down payment,Faridabad
+2017,Honda,Jazz,1.2L I-VTEC V,Manual,32828,1st,Petrol,DL14,11144.0,5.7,Zero down payment,Noida
+2020,Hyundai,GRAND I10 NIOS,ASTA AMT 1.2 KAPPA VTVT,Automatic,5192,1st,Petrol,DL12,15361.0,8.07,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,36179,1st,Petrol,HR26,10342.0,5.29,Zero down payment,Noida
+2010,Maruti,Alto K10,VXI,Manual,37141,1st,Petrol,DL4C,2776.0,1.42,Zero down payment,New Delhi
+2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,37242,1st,Petrol,DL9C,8700.0,4.45,Zero down payment,New Delhi
+2022,Renault,Kwid,RXL 1.0,Manual,2795,1st,Petrol,UP13,9110.0,4.66,Zero down payment,Noida
+2018,Honda,Amaze,1.2L I-VTEC S,Manual,49061,1st,Petrol,DL1C,10772.0,5.51,Zero down payment,Noida
+2012,Maruti,Swift Dzire,VXI,Manual,48736,1st,Petrol,UP16,6354.0,3.25,Zero down payment,Ghaziabad
+2010,Honda,City,1.5L I-VTEC V MT,Manual,72888,1st,Petrol,HR26,4321.0,2.21,Zero down payment,Faridabad
+2012,Maruti,Swift Dzire,VXI,Manual,70739,1st,Petrol,DL3C,6041.0,3.09,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,71016,1st,CNG,HR29,9658.0,4.94,Zero down payment,New Delhi
+2011,Toyota,Etios,VX,Manual,88332,2nd,Petrol,DL3C,4145.0,2.12,Zero down payment,New Delhi
+2020,Hyundai,NEW SANTRO,MAGNA,Manual,20719,1st,Petrol,DL5C,8211.0,4.2,Zero down payment,Ghaziabad
+2020,Maruti,S PRESSO,VXI+,Manual,20146,2nd,Petrol,DL2C,8622.0,4.41,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.2,Manual,62316,2nd,Petrol,UP14,3480.0,1.78,Zero down payment,Ghaziabad
+2011,Maruti,Ritz,VXI,Manual,53701,2nd,Petrol,DL8C,3167.0,1.62,Zero down payment,Noida
+2021,Renault,TRIBER,RXZ AMT,Automatic,13199,1st,Petrol,DL10,15703.0,8.25,Zero down payment,Noida
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,89429,1st,CNG,UP14,10264.0,5.25,Zero down payment,Ghaziabad
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,83136,1st,Petrol,DL6C,9971.0,5.1,Zero down payment,Noida
+2021,Renault,Kiger,RXZ CVT 1.0 TURBO,Automatic,12944,1st,Petrol,DL3C,16503.0,8.67,Zero down payment,New Delhi
+2017,Maruti,Celerio,ZXI AMT,Automatic,74134,1st,Petrol,HR26,8211.0,4.2,Zero down payment,Faridabad
+2011,Maruti,Swift,VXI,Manual,75485,1st,Petrol,HR26,4066.0,2.08,Zero down payment,Gurgaon
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,67075,1st,CNG,DL8C,13216.0,6.76,Zero down payment,New Delhi
+2011,Honda,Brio,S MT,Manual,68158,1st,Petrol,DL8C,4027.0,2.06,Zero down payment,Noida
+2011,Maruti,Ritz,ZXI,Manual,81983,1st,Petrol,DL3C,3695.0,1.89,Zero down payment,New Delhi
+2020,Hyundai,AURA,SX 1.2 (O),Manual,4881,1st,Petrol,DL5C,13978.0,7.15,Zero down payment,Noida
+2020,Maruti,IGNIS,ZETA 1.2,Manual,15392,1st,Petrol,DL9C,11183.0,5.72,Zero down payment,Noida
+2011,Toyota,Etios,V,Manual,47131,1st,Petrol,DL8C,5142.0,2.63,Zero down payment,Noida
+2010,Toyota,Corolla Altis,1.8 J,Manual,46064,1st,Petrol,DL4C,4526.0,2.31,Zero down payment,Noida
+2018,Hyundai,Grand i10,ASTA 1.2 KAPPA VTVT,Manual,63838,1st,Petrol,DL6C,9482.0,4.85,Zero down payment,New Delhi
+2019,Maruti,Vitara Brezza,VDI AMT,Automatic,21078,1st,Diesel,HR26,14330.0,7.33,Zero down payment,Noida
+2020,Toyota,Glanza,G,Manual,69692,1st,Petrol,UP14,12238.0,6.26,Zero down payment,Noida
+2010,Maruti,Swift Dzire,VXI,Manual,84019,1st,Petrol,DL9C,3480.0,1.78,Zero down payment,Noida
+2015,Honda,City,1.5L I-VTEC V MT,Manual,41122,1st,Petrol,DL4C,11593.0,5.93,Zero down payment,Noida
+2011,Maruti,A Star,VXI,Manual,55566,1st,Petrol,UP16,3421.0,1.75,Zero down payment,New Delhi
+2018,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,85285,1st,Petrol,HR26,13631.0,6.97,Zero down payment,Faridabad
+2018,Tata,NEXON,XZ PLUS DIESEL DUAL TONE,Manual,86829,1st,Diesel,DL3C,11789.0,6.03,Zero down payment,New Delhi
+2020,Hyundai,NEW SANTRO,MAGNA,Manual,20049,1st,Petrol,DL4C,8485.0,4.34,Zero down payment,New Delhi
+2015,Hyundai,Xcent,SX 1.2 (O),Manual,92511,1st,Petrol,DL7C,8387.0,4.29,Zero down payment,Ghaziabad
+2011,Toyota,Etios,G,Manual,72036,1st,Petrol,DL3C,4014.0,2.05,Zero down payment,Noida
+2018,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,93646,1st,Petrol,HR26,14526.0,7.43,Zero down payment,New Delhi
+2013,Hyundai,i10,SPORTZ 1.2 AT,Automatic,48652,1st,Petrol,HR26,6139.0,3.14,Zero down payment,Faridabad
+2017,Maruti,IGNIS,SIGMA 1.2,Manual,17500,1st,Petrol,DL1C,8758.0,4.48,Zero down payment,Noida
+2011,Maruti,Swift,LXI,Manual,28694,1st,Petrol,DL13,4184.0,2.14,Zero down payment,Noida
+2010,Maruti,Alto,LXI,Manual,29331,1st,Petrol,DL4C,2698.0,1.38,Zero down payment,New Delhi
+2021,Maruti,S PRESSO,VXI+,Manual,12450,1st,Petrol,DL1C,8328.0,4.26,Zero down payment,Ghaziabad
+2012,Maruti,Wagon R 1.0,LXI,Manual,69897,1st,Petrol,DL1C,4047.0,2.07,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.2,Manual,83451,1st,CNG,DL8C,3793.0,1.94,Zero down payment,New Delhi
+2020,Toyota,Glanza,G,Manual,49105,1st,Petrol,DL10,13177.0,6.74,Zero down payment,New Delhi
+2018,Honda,Jazz,1.2L I-VTEC V CVT,Automatic,30738,1st,Petrol,HR26,12962.0,6.63,Zero down payment,New Delhi
+2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,27458,1st,CNG,DL9C,13216.0,6.76,Zero down payment,New Delhi
+2011,Toyota,Etios,V,Manual,50339,2nd,Petrol,DL3C,4262.0,2.18,Zero down payment,Ghaziabad
+2010,Hyundai,i10,SPORTZ 1.2,Manual,104176,1st,Petrol,DL8C,2854.0,1.46,Zero down payment,New Delhi
+2012,Maruti,Swift Dzire,VXI,Manual,58586,1st,Petrol,DL9C,6491.0,3.32,Zero down payment,Noida
+2010,Hyundai,i20,ERA 1.2,Manual,80393,2nd,Petrol,DL3C,3519.0,1.8,Zero down payment,Noida
+2015,Maruti,Baleno,DELTA PETROL 1.2,Manual,68675,1st,Petrol,DL1C,9071.0,4.64,Zero down payment,Noida
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,30862,1st,Petrol,DL8C,4497.0,2.3,Zero down payment,New Delhi
+2022,Tata,Safari,XT PLUS,Manual,17708,1st,Diesel,DL9C,36736.0,19.3,Zero down payment,Noida
+2013,Maruti,Swift Dzire,VXI,Manual,70817,1st,Petrol,DL9C,6002.0,3.07,Zero down payment,Ghaziabad
+2011,Toyota,Etios,V,Manual,69350,2nd,Petrol,DL4C,4008.0,2.05,Zero down payment,Ghaziabad
+2014,Honda,Brio,VX MT,Manual,83184,2nd,Petrol,DL13,6217.0,3.18,Zero down payment,Noida
+2010,Maruti,A Star,ZXI,Manual,89623,1st,Petrol,DL2C,3148.0,1.61,Zero down payment,Noida
+2011,Toyota,Etios Liva,G,Manual,51437,1st,Petrol,DL3C,3832.0,1.96,Zero down payment,Noida
+2011,Toyota,Corolla Altis,1.8 G,Manual,100075,2nd,Petrol,DL8C,5986.0,3.06,Zero down payment,New Delhi
+2012,Toyota,Etios,G,Manual,59289,1st,Petrol,DL10,4766.0,2.44,Zero down payment,Noida
+2020,Renault,Kwid,RXT 1.0 AMT (O),Automatic,12183,1st,Petrol,DL9C,9345.0,4.78,Zero down payment,Noida
+2019,Honda,Jazz,1.2L I-VTEC V,Manual,67198,1st,CNG,UP16,12864.0,6.58,Zero down payment,Ghaziabad
+2022,Maruti,Alto,VXI,Manual,5859,1st,Petrol,UP16,8231.0,4.21,Zero down payment,Noida
+2018,Renault,Kwid,RXT 1.0,Manual,20930,1st,Petrol,DL8C,6706.0,3.43,Zero down payment,Noida
+2022,Maruti,Alto,VXI,Manual,5481,1st,Petrol,DL12,8055.0,4.12,Zero down payment,Noida
+2019,Maruti,Vitara Brezza,VDI,Manual,82773,1st,Diesel,UP16,12317.0,6.3,Zero down payment,Noida
+2018,Maruti,Alto 800,LXI,Manual,19021,1st,Petrol,DL1C,6452.0,3.3,Zero down payment,Noida
+2018,Maruti,Vitara Brezza,ZDI AMT,Automatic,70062,1st,Diesel,HR51,13666.0,6.99,Zero down payment,New Delhi
+2014,Maruti,Ertiga,VXI,Manual,87258,1st,Petrol,DL1C,11065.0,5.66,Zero down payment,Faridabad
+2012,Maruti,Swift Dzire,VXI,Manual,22466,2nd,Petrol,DL6C,6002.0,3.07,Zero down payment,New Delhi
+2015,Hyundai,Elite i20,ASTA 1.2,Manual,71456,1st,Petrol,HR26,10283.0,5.26,Zero down payment,New Delhi
+2020,Renault,Kwid,RXL 1.0 AMT,Automatic,17843,1st,Petrol,DL3C,8881.0,4.54,Zero down payment,Noida
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,73221,1st,Petrol,DL7C,3988.0,2.04,Zero down payment,Noida
+2011,Toyota,Etios,G,Manual,76474,1st,Petrol,DL10,4164.0,2.13,Zero down payment,New Delhi
+2013,Maruti,Swift,VXI,Manual,77946,1st,Petrol,HR36,6778.0,3.47,Zero down payment,New Delhi
+2012,Maruti,Ritz,VXI,Manual,91383,1st,Petrol,DL12,4203.0,2.15,Zero down payment,Noida
+2011,Hyundai,i20,MAGNA 1.2,Manual,58090,2nd,Petrol,DL8C,3949.0,2.02,Zero down payment,New Delhi
+2014,Maruti,Ertiga,VXI,Manual,61950,1st,Petrol,HR26,10714.0,5.48,Zero down payment,New Delhi
+2016,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,50477,1st,Petrol,DL3C,10029.0,5.13,Zero down payment,New Delhi
+2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,81800,1st,Petrol,HR36,10518.0,5.38,Zero down payment,Faridabad
+2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,44701,1st,CNG,DL9C,13275.0,6.79,Zero down payment,Noida
+2010,Hyundai,i10,SPORTZ 1.2,Manual,83270,1st,Petrol,DL10,3148.0,1.61,Zero down payment,Noida
+2011,Hyundai,i10,MAGNA 1.2,Manual,47013,1st,Petrol,HR29,3480.0,1.78,Zero down payment,New Delhi
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,89507,2nd,Petrol,HR26,4106.0,2.1,Zero down payment,Faridabad
+2011,Toyota,Etios,G,Manual,55556,1st,Petrol,DL4C,3847.0,1.97,Zero down payment,Noida
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,22733,1st,Petrol,UP16,12794.0,6.54,Zero down payment,Noida
+2020,Maruti,IGNIS,DELTA 1.2,Manual,30917,1st,Petrol,DL8C,11339.0,5.8,Zero down payment,Noida
+2016,Hyundai,Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,54959,1st,Petrol,DL9C,9619.0,4.92,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,82049,1st,CNG,HR29,9865.0,5.05,Zero down payment,New Delhi
+2010,Hyundai,i10,SPORTZ 1.2,Manual,74002,2nd,Petrol,DL10,3265.0,1.67,Zero down payment,New Delhi
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,65413,1st,Petrol,UP16,4501.0,2.3,Zero down payment,Ghaziabad
+2019,Hyundai,NEW SANTRO,SPORTZ CNG,Manual,89405,1st,CNG,HR10,10459.0,5.35,Zero down payment,New Delhi
+2018,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,75831,2nd,Petrol,UP14,14819.0,7.58,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,71475,1st,Petrol,DL12,9951.0,5.09,Zero down payment,Ghaziabad
+2020,Hyundai,GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,15573,1st,Petrol,DL8C,13763.0,7.04,Zero down payment,Noida
+2013,Honda,Brio,S MT,Manual,68998,1st,Petrol,UP80,5435.0,2.78,Zero down payment,Noida
+2011,Toyota,Etios,G,Manual,69278,2nd,Petrol,DL8C,3773.0,1.93,Zero down payment,Noida
+2011,Toyota,Etios,V,Manual,93940,1st,Petrol,DL3C,4047.0,2.07,Zero down payment,New Delhi
+2017,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,64637,1st,Petrol,DL2C,10929.0,5.59,Zero down payment,Noida
+2011,Toyota,Etios,G SP,Manual,96267,1st,Petrol,UP16,4047.0,2.07,Zero down payment,Ghaziabad
+2011,Toyota,Etios,G,Manual,92360,1st,Petrol,DL4C,4027.0,2.06,Zero down payment,Noida
+2015,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,68926,1st,Petrol,UP16,9912.0,5.07,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,55600,1st,Petrol,DL9C,10229.0,5.23,Zero down payment,New Delhi
+2012,Honda,Brio,S MT,Manual,24026,1st,Petrol,DL7C,6100.0,3.12,Zero down payment,New Delhi
+2011,Toyota,Etios,G,Manual,51710,1st,Petrol,DL8C,4536.0,2.32,Zero down payment,Noida
+2011,Toyota,Etios,G,Manual,73320,1st,Petrol,HR51,5337.0,2.73,Zero down payment,Faridabad
+2021,Hyundai,Verna,SX 1.5 VTVT IVT,Automatic,16426,2nd,Petrol,DL3C,20418.0,10.73,Zero down payment,Noida
+2022,Volkswagen,VIRTUS,COMFORTLINE TSI 1.0 MT,Manual,26431,1st,Petrol,HR26,18653.0,9.8,Zero down payment,Gurgaon
+2020,Hyundai,VENUE,S 1.2,Manual,15694,1st,Petrol,DL1C,13392.0,6.85,Zero down payment,New Delhi
+2018,Mahindra,KUV 100 NXT,K4+ P 6 STR,Manual,25655,1st,Petrol,DL8C,7051.0,3.61,Zero down payment,Gurgaon
+2016,Maruti,Alto K10,LXI,Manual,44719,2nd,Petrol,HR13,4575.0,2.34,Zero down payment,New Delhi
+2022,Maruti,Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,32780,1st,Petrol,HR13,20043.0,10.53,Zero down payment,Gurgaon
+2018,Maruti,Swift,LXI,Manual,85999,1st,CNG,HR29,8622.0,4.41,Zero down payment,Faridabad
+2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,47241,1st,Petrol,HR98,26080.0,13.7,Zero down payment,Gurgaon
+2021,Maruti,New Wagon-R,LXI 1.0,Manual,36033,1st,Petrol,HR98,8641.0,4.42,Zero down payment,Gurgaon
+2019,Toyota,Glanza,V CVT,Automatic,38278,1st,Petrol,HR87,13490.0,6.9,Zero down payment,Faridabad
+2012,Hyundai,Eon,MAGNA +,Manual,33784,2nd,Petrol,DL3C,2985.0,1.53,Zero down payment,New Delhi
+2015,Maruti,Wagon R 1.0,VXI,Manual,84642,1st,Petrol,DL3C,5063.0,2.59,Zero down payment,Noida
+2015,Hyundai,Creta,S 1.6 PETROL,Manual,51205,2nd,Petrol,DL10,12974.0,6.64,Zero down payment,New Delhi
+2012,Hyundai,Eon,ERA + SE,Manual,40103,2nd,Petrol,DL12,3382.0,1.73,Zero down payment,New Delhi
+2017,Tata,TIGOR,XZA PETROL,Automatic,34540,1st,Petrol,DL12,9619.0,4.92,Zero down payment,New Delhi
+2017,Honda,Amaze,1.2L I-VTEC S OPT,Manual,49021,1st,Petrol,HR51,8309.0,4.25,Zero down payment,Gurgaon
+2021,Nissan,MAGNITE,XV MT,Manual,30498,1st,Petrol,HR72,12219.0,6.25,Zero down payment,Gurgaon
+2018,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,14362,1st,Petrol,HR76,10948.0,5.6,Zero down payment,Gurgaon
+2017,Maruti,Alto K10,VXI (O) AMT,Automatic,50918,1st,Petrol,UP14,6080.0,3.11,Zero down payment,Noida
+2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,37941,2nd,Petrol,DL4C,7312.0,3.74,Zero down payment,Noida
+2014,Hyundai,Santro Xing,GL PLUS,Manual,95079,2nd,CNG,HR72,4164.0,2.13,Zero down payment,New Delhi
+2017,Honda,WR-V,1.2L I-VTEC S MT,Manual,24349,2nd,Petrol,DL8C,10714.0,5.48,Zero down payment,Noida
+2021,KIA,SONET,HTX PLUS 1.5,Manual,33161,1st,Diesel,HR26,19795.0,10.4,Zero down payment,Gurgaon
+2015,Maruti,Ciaz,ZXI,Manual,75992,1st,Petrol,HR26,9404.0,4.81,Zero down payment,Gurgaon
+2022,Nissan,MAGNITE,XV TURBO CVT,Automatic,20138,1st,Petrol,HR98,16712.0,8.78,Zero down payment,Gurgaon
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,79667,1st,Petrol,HR51,16198.0,8.51,Zero down payment,Gurgaon
+2022,Tata,Harrier,XZA PLUS JET 2.0L,Automatic,40293,1st,Diesel,HR26,35556.0,18.68,Zero down payment,Gurgaon
+2017,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,44261,2nd,Petrol,DL3C,11300.0,5.78,Zero down payment,Noida
+2015,Maruti,Wagon R 1.0,LXI,Manual,28644,1st,Petrol,DL5C,5292.0,2.71,Zero down payment,Noida
+2020,Renault,Kwid,RXT 1.0 AMT (O),Automatic,26669,2nd,Petrol,HR26,7722.0,3.95,Zero down payment,New Delhi
+2021,Maruti,Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,11169,1st,Petrol,HR26,16293.0,8.56,Zero down payment,Gurgaon
+2014,Maruti,Swift,VDI,Manual,68744,3rd,Diesel,UP80,5857.0,3.0,Zero down payment,Gurgaon
+2013,Maruti,Wagon R 1.0,VXI,Manual,33910,1st,Petrol,DL13,4665.0,2.39,Zero down payment,Ghaziabad
+2016,Honda,City,1.5L I-VTEC V MT,Manual,79622,2nd,Petrol,HR72,10362.0,5.3,Zero down payment,New Delhi
+2021,Jeep,Compass,SPORT 1.4 PETROL DCT,Automatic,37129,2nd,Petrol,DL1C,31825.0,16.72,Zero down payment,Gurgaon
+2018,Hyundai,Verna,1.6 VTVT SX,Manual,56462,2nd,Petrol,DL9C,14252.0,7.29,Zero down payment,Noida
+2019,Maruti,Alto K10,VXI,Manual,58036,1st,Petrol,HR26,5904.0,3.02,Zero down payment,New Delhi
+2019,Honda,Amaze,1.2L I-VTEC E,Manual,46995,1st,Petrol,DL4C,10127.0,5.18,Zero down payment,New Delhi
+2017,Maruti,Swift,LXI (O),Manual,80205,1st,Petrol,DL6C,6745.0,3.45,Zero down payment,Noida
+2020,Tata,NEXON,XM SUNROOF DIESEL,Manual,36490,1st,Diesel,HR13,15366.0,7.86,Zero down payment,New Delhi
+2021,Renault,TRIBER,RXE MT,Manual,32062,1st,Petrol,UP14,10538.0,5.39,Zero down payment,Noida
+2021,Renault,Kwid,RXT 1.0 AMT (O),Automatic,31377,1st,Petrol,HR04,8553.0,4.38,Zero down payment,Gurgaon
+2017,Hyundai,New Elantra,2.0 SX(O) AT PETROL,Automatic,113960,1st,Petrol,DL12,17435.0,9.16,Zero down payment,Gurgaon
+2017,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,48909,2nd,Petrol,DL7C,7625.0,3.9,Zero down payment,Noida
+2018,Maruti,Wagon R 1.0,LXI,Manual,30644,1st,Petrol,UP14,7273.0,3.72,Zero down payment,Noida
+2019,Tata,Harrier,XZ 2.0L,Manual,72524,1st,Diesel,HR26,19763.0,10.38,Zero down payment,Gurgaon
+2017,Hyundai,Grand i10,ERA 1.2 KAPPA VTVT,Manual,31437,1st,Petrol,DL7C,7664.0,3.92,Zero down payment,Noida
+2023,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,12237,1st,Petrol,HR31,22365.0,11.75,Zero down payment,Faridabad
+2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,13401,1st,Petrol,DL14,9873.0,5.05,Zero down payment,Noida
+2022,Tata,NEXON,XZA PLUS (PREMIUM) KAZIRANGA PETROL,Automatic,17436,1st,Petrol,HR26,22860.0,12.01,Zero down payment,Gurgaon
+2021,Nissan,MAGNITE,XE,Manual,26162,1st,Petrol,DL8C,11183.0,5.72,Zero down payment,Noida
+2020,Maruti,Baleno,DELTA PETROL 1.2,Manual,13737,1st,Petrol,HR87,11808.0,6.04,Zero down payment,Gurgaon
+2015,Maruti,Swift Dzire,LXI (O),Manual,27847,1st,Petrol,DL6C,7898.0,4.04,Zero down payment,New Delhi
+2013,Honda,CRV,2.4 AWD AT,Automatic,92293,1st,Petrol,DL3C,13451.0,6.88,Zero down payment,Noida
+2018,Renault,Captur,RXT PETROL,Manual,35829,1st,Petrol,HR26,15327.0,7.84,Zero down payment,Gurgaon
+2020,Honda,City,1.5L I-VTEC VX,Manual,10579,1st,Petrol,DL10,20005.0,10.51,Zero down payment,New Delhi
+2012,Volkswagen,Polo,TRENDLINE 1.2L PETROL,Manual,89814,1st,Petrol,UP80,4848.0,2.48,Zero down payment,Ghaziabad
+2019,Maruti,Dzire,ZDI PLUS AMT,Automatic,44933,3rd,Diesel,HR26,13196.0,6.75,Zero down payment,New Delhi
+2020,Mahindra,XUV300,W6 1.5 DIESEL AMT,Automatic,14394,1st,Diesel,DL12,18368.0,9.65,Zero down payment,Gurgaon
+2019,Maruti,Baleno,ALPHA PETROL 1.2,Manual,25418,2nd,Petrol,HR26,13060.0,6.68,Zero down payment,Gurgaon
+2021,Renault,TRIBER,1.0 RXE Petrol,Manual,19652,1st,Petrol,DL8C,10733.0,5.49,Zero down payment,Ghaziabad
+2022,Tata,Safari,XMA,Automatic,20858,1st,Diesel,HR98,35879.0,18.85,Zero down payment,Gurgaon
+2022,Hyundai,VENUE,S 1.2,Manual,94282,1st,Petrol,UP15,14721.0,7.53,Zero down payment,Ghaziabad
+2021,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,20911,1st,Petrol,DL2C,17302.0,9.09,Zero down payment,Noida
+2017,Maruti,Baleno,SIGMA PETROL 1.2,Manual,22956,1st,Petrol,HR51,9169.0,4.69,Zero down payment,Gurgaon
+2011,Hyundai,Eon,MAGNA +,Manual,64150,1st,Petrol,HR26,3558.0,1.82,Zero down payment,Gurgaon
+2016,Hyundai,Elite i20,SPORTZ 1.2,Manual,38606,1st,Petrol,UP16,10186.0,5.21,Zero down payment,Noida
+2019,Maruti,Baleno,ZETA CVT PETROL 1.2,Automatic,64013,1st,Petrol,DL5C,12102.0,6.19,Zero down payment,Noida
+2018,Mahindra,KUV 100 NXT,K2+ P 6 STR,Manual,28356,1st,Petrol,DL12,8884.0,4.54,Zero down payment,Noida
+2018,Renault,Kwid,RXT 1.0 AMT (O),Automatic,100669,1st,Petrol,DL3C,5943.0,3.04,Zero down payment,Gurgaon
+2017,Toyota,Corolla Altis,G AT,Automatic,75836,1st,Petrol,DL10,18406.0,9.67,Zero down payment,New Delhi
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,27661,1st,Petrol,DL12,11750.0,6.01,Zero down payment,Noida
+2019,Maruti,Vitara Brezza,VDI,Manual,61307,1st,Diesel,HR30,13451.0,6.88,Zero down payment,Gurgaon
+2016,Honda,Amaze,1.2L I-VTEC SX,Manual,43841,1st,Petrol,DL4C,8446.0,4.32,Zero down payment,New Delhi
+2017,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,46749,1st,Petrol,DL10,8739.0,4.47,Zero down payment,New Delhi
+2011,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,74103,1st,Petrol,DL3C,4281.0,2.19,Zero down payment,New Delhi
+2021,Honda,Amaze,1.2L I-VTEC VX,Manual,32496,1st,Petrol,DL10,13939.0,7.13,Zero down payment,New Delhi
+2017,Maruti,Swift Dzire,VXI,Manual,60749,1st,Petrol,DL2C,9286.0,4.75,Zero down payment,Ghaziabad
+2013,Maruti,Wagon R Stingray,VXI,Manual,49149,1st,Petrol,DL5C,5630.0,2.88,Zero down payment,Noida
+2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,125070,2nd,Petrol,DL2C,5826.0,2.98,Zero down payment,New Delhi
+2011,Maruti,Wagon R 1.0,VXI,Manual,24576,1st,Petrol,HR26,3683.0,1.88,Zero down payment,Faridabad
+2019,Honda,Jazz,1.5L I-DTEC VX,Manual,27238,1st,Diesel,UP14,13333.0,6.82,Zero down payment,Noida
+2018,Hyundai,Elite i20,MAGNA EXECUTIVE 1.2,Manual,48565,1st,Petrol,HR30,10166.0,5.2,Zero down payment,New Delhi
+2019,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,28461,1st,Petrol,HR26,10889.0,5.57,Zero down payment,Gurgaon
+2019,Maruti,XL6,ZETA AT,Automatic,21515,1st,Petrol,HR26,20937.0,11.0,Zero down payment,Gurgaon
+2018,Volkswagen,Ameo,COMFORTLINE 1.0L,Manual,17303,1st,Petrol,DL10,10362.0,5.3,Zero down payment,Noida
+2021,Renault,Kiger,RXZ MT DUAL TONE,Manual,45459,1st,Petrol,HR76,13020.0,6.66,Zero down payment,New Delhi
+2018,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,99668,1st,Diesel,HR36,11847.0,6.06,Zero down payment,Gurgaon
+2018,Ford,FREESTYLE,TITANIUM PLUS 1.5 DIESEL,Manual,38882,1st,Diesel,HR26,11046.0,5.65,Zero down payment,Gurgaon
+2012,Maruti,Swift,VXI,Manual,86250,1st,Petrol,UP14,5220.0,2.67,Zero down payment,Noida
+2019,KIA,SELTOS,HTX 1.5 PETROL,Manual,27579,2nd,Petrol,DL2C,21965.0,11.54,Zero down payment,Noida
+2012,Hyundai,i10,SPORTZ 1.2,Manual,120569,1st,CNG,HR51,4418.0,2.26,Zero down payment,Gurgaon
+2022,Hyundai,NEW I20 N LINE,N6 1.0 TURBO GDI IMT,Manual,10616,1st,Petrol,UP14,20214.0,10.62,Zero down payment,Noida
+2015,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,79982,1st,Petrol,DL10,6412.0,3.28,Zero down payment,New Delhi
+2020,Maruti,Baleno,ZETA PETROL 1.2,Manual,17034,1st,Petrol,DL1C,14839.0,7.59,Zero down payment,New Delhi
+2019,Hyundai,VENUE,SX PLUS 1.0 TURBO DCT,Automatic,38530,2nd,Petrol,DL4C,17607.0,9.25,Zero down payment,Noida
+2012,Maruti,A Star,VXI (ABS) AT,Automatic,76588,1st,Petrol,DL2C,4086.0,2.09,Zero down payment,Noida
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,68156,1st,Diesel,HR26,13626.0,6.97,Zero down payment,Gurgaon
+2018,Maruti,Celerio,VXI (O),Manual,82093,1st,Petrol,DL2C,7879.0,4.03,Zero down payment,Noida
+2013,Honda,Amaze,1.2L I-VTEC S,Manual,88989,1st,Petrol,DL4C,5846.0,2.99,Zero down payment,New Delhi
+2019,Hyundai,NEW SANTRO,MAGNA,Manual,28413,1st,Petrol,HR13,7957.0,4.07,Zero down payment,New Delhi
+2017,Honda,City,1.5L I-VTEC VX CVT,Automatic,76697,2nd,Petrol,DL14,15230.0,7.79,Zero down payment,Noida
+2019,Ford,Ecosport,TREND 1.5L DIESEL,Manual,35212,1st,Diesel,HR05,14408.0,7.37,Zero down payment,Gurgaon
+2019,Datsun,Go Plus,T,Manual,86237,1st,Petrol,HR85,7781.0,3.98,Zero down payment,New Delhi
+2018,Tata,NEXON,XT PETROL,Manual,82515,2nd,Petrol,UP78,10889.0,5.57,Zero down payment,Ghaziabad
+2014,Maruti,Ertiga,VXI,Manual,43894,1st,Petrol,HR29,10440.0,5.34,Zero down payment,Gurgaon
+2016,Maruti,Baleno,ZETA PETROL 1.2,Manual,94499,1st,Petrol,DL1C,8641.0,4.42,Zero down payment,Noida
+2021,Skoda,Rapid,MONTE CARLO TSI,Manual,43210,2nd,Petrol,DL10,18368.0,9.65,Zero down payment,New Delhi
+2022,Tata,TIGOR,XZ PLUS CNG,Manual,28325,1st,CNG,HR26,14487.0,7.41,Zero down payment,New Delhi
+2015,Mahindra,Scorpio,S8,Manual,81451,1st,Diesel,UP16,17607.0,9.25,Zero down payment,Noida
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,47622,1st,Diesel,UP16,14174.0,7.25,Zero down payment,Ghaziabad
+2021,Tata,ALTROZ,XM PLUS PETROL,Manual,2493,1st,Petrol,DL5C,14565.0,7.45,Zero down payment,Noida
+2018,Toyota,Etios,V PLATINUM,Manual,23654,1st,Petrol,UP14,11007.0,5.63,Zero down payment,Noida
+2022,Renault,Kwid,CLIMBER MT 1.0,Manual,13872,1st,Petrol,DL12,8798.0,4.5,Zero down payment,New Delhi
+2012,Honda,Brio,S MT,Manual,43512,1st,Petrol,DL9C,4809.0,2.46,Zero down payment,Noida
+2015,Honda,City,1.5L I-VTEC V MT,Manual,64942,1st,Petrol,UP15,10557.0,5.4,Zero down payment,Noida
+2019,Hyundai,Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,39536,1st,Petrol,HR26,12023.0,6.15,Zero down payment,Faridabad
+2011,Hyundai,i20,SPORTZ (O) 1.2,Manual,56142,1st,Petrol,DL2C,4086.0,2.09,Zero down payment,Ghaziabad
+2018,Honda,Amaze,1.2L I-VTEC V,Manual,19663,1st,Petrol,DL4C,11887.0,6.08,Zero down payment,Noida
+2017,Hyundai,Elite i20,ASTA 1.2 (O),Manual,99507,2nd,CNG,DL12,10733.0,5.49,Zero down payment,New Delhi
+2019,Honda,Amaze,1.2L I-VTEC S,Manual,12256,1st,Petrol,HR26,12180.0,6.23,Zero down payment,New Delhi
+2014,Maruti,Swift Dzire,VXI,Manual,95715,1st,Petrol,UP16,6784.0,3.47,Zero down payment,Ghaziabad
+2021,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,99699,1st,CNG,DL9C,11847.0,6.06,Zero down payment,Ghaziabad
+2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,89440,1st,Petrol,UP37,9853.0,5.04,Zero down payment,Ghaziabad
+2011,Volkswagen,Vento,TRENDLINE 1.6,Manual,69805,3rd,Petrol,DL3C,3871.0,1.98,Zero down payment,New Delhi
+2019,Ford,Ecosport,TREND 1.5L DIESEL,Manual,28009,1st,Diesel,DL10,12864.0,6.58,Zero down payment,New Delhi
+2021,Datsun,Go Plus,T(O),Manual,10742,1st,Petrol,UP32,9501.0,4.86,Zero down payment,Noida
+2012,Maruti,Alto 800,LXI,Manual,24828,1st,Petrol,DL12,3715.0,1.9,Zero down payment,Noida
+2021,Renault,Kwid,RXT 0.8,Manual,23561,1st,Petrol,HR51,8061.0,4.12,Zero down payment,New Delhi
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,41393,1st,Petrol,DL2C,4184.0,2.14,Zero down payment,New Delhi
+2019,Tata,NEXON,XZ PLUS PETROL,Manual,41861,1st,Petrol,UP14,14819.0,7.58,Zero down payment,Noida
+2018,Renault,Kwid,RXL 1.0,Manual,41712,2nd,Petrol,DL9C,5665.0,2.9,Zero down payment,Noida
+2015,Maruti,Celerio,ZXI AMT,Automatic,106212,1st,Petrol,HR81,6621.0,3.39,Zero down payment,New Delhi
+2012,Honda,City,1.5L I-VTEC V AT,Automatic,49122,1st,Petrol,DL3C,7093.0,3.63,Zero down payment,New Delhi
+2017,Hyundai,i20 Active,1.2 S,Manual,57201,1st,Petrol,UP32,11808.0,6.04,Zero down payment,Noida
+2020,Hyundai,Creta,SX (O) IVT 1.5 PETROL,Automatic,29177,1st,Petrol,UP16,27714.0,14.56,Zero down payment,Noida
+2010,Maruti,Zen Estilo,LXI,Manual,19332,1st,Petrol,DL4C,2424.0,1.24,Zero down payment,New Delhi
+2021,Datsun,Redi Go,A,Manual,15575,1st,Petrol,DL7C,7507.0,3.84,Zero down payment,Noida
+2010,Maruti,Alto K10,LXI P,Manual,52162,1st,Petrol,DL2C,2483.0,1.27,Zero down payment,New Delhi
+2017,Honda,City,1.5L I-VTEC V MT,Manual,55234,1st,Petrol,DL1C,14311.0,7.32,Zero down payment,New Delhi
+2018,Ford,Ecosport,TITANIUM + 1.5L DIESEL,Manual,92274,1st,Diesel,HR29,12004.0,6.14,Zero down payment,New Delhi
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,17783,1st,Petrol,DL2C,10650.0,5.45,Zero down payment,Noida
+2014,Honda,Brio,S MT,Manual,99665,1st,Petrol,HR51,5279.0,2.7,Zero down payment,New Delhi
+2011,Maruti,Alto K10,VXI,Manual,44019,1st,Petrol,UP14,3441.0,1.76,Zero down payment,Ghaziabad
+2012,Maruti,Wagon R 1.0,LXI,Manual,65900,1st,Petrol,DL12,4184.0,2.14,Zero down payment,New Delhi
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,46747,1st,Petrol,DL6C,9990.0,5.11,Zero down payment,New Delhi
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,55735,2nd,Petrol,DL7C,3871.0,1.98,Zero down payment,New Delhi
+2020,Renault,Kwid,CLIMBER 1.0 AMT (O),Automatic,12503,1st,Petrol,UP16,9697.0,4.96,Zero down payment,Ghaziabad
+2018,Hyundai,Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,17900,1st,Petrol,HR26,10968.0,5.61,Zero down payment,Faridabad
+2011,Maruti,Swift,LXI,Manual,52400,1st,Petrol,DL1C,4418.0,2.26,Zero down payment,New Delhi
+2021,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,10159,1st,Diesel,HR51,18691.0,9.82,Zero down payment,Faridabad
+2015,Maruti,Wagon R 1.0,VXI,Manual,18413,1st,Petrol,HR26,6452.0,3.3,Zero down payment,Faridabad
+2023,Maruti,Swift,LXI,Manual,5695,1st,Petrol,DL7C,11691.0,5.98,Zero down payment,Noida
+2022,Maruti,Vitara Brezza,LXI,Manual,19839,1st,Petrol,DL14,14154.0,7.24,Zero down payment,Noida
+2022,Tata,NEXON,XM SUNROOF PETROL,Manual,39820,2nd,Petrol,HR26,14819.0,7.58,Zero down payment,Gurgaon
+2023,Maruti,BREZZA,ZXI SMART HYBRID ,Manual,4612,1st,Petrol,HR87,22327.0,11.73,Zero down payment,Gurgaon
+2020,Hyundai,Verna,SX 1.5 VTVT,Manual,62470,1st,Petrol,UP80,17492.0,9.19,Zero down payment,New Delhi
+2020,Volkswagen,Polo,1.0 GT TSI AT,Automatic,41868,1st,Petrol,DL10,16484.0,8.66,Zero down payment,Gurgaon
+2021,Tata,Tiago,XZ PETROL,Manual,16257,1st,Petrol,HR36,9951.0,5.09,Zero down payment,Gurgaon
+2015,Skoda,Rapid,ELEGANCE 1.6 MPI AT,Automatic,121133,1st,Petrol,HR26,8583.0,4.39,Zero down payment,New Delhi
+2020,Hyundai,Creta,EX 1.5 PETROL,Manual,14614,1st,Petrol,UP32,19567.0,10.28,Zero down payment,Faridabad
+2013,Hyundai,Eon,MAGNA +,Manual,41650,4th,Petrol,DL2C,3480.0,1.78,Zero down payment,Ghaziabad
+2014,Honda,Amaze,1.2L I-VTEC S,Manual,57223,1st,Petrol,UP16,6107.0,3.12,Zero down payment,Noida
+2015,Maruti,Alto K10,VXI AMT,Automatic,13613,1st,Petrol,HR26,5861.0,3.0,Zero down payment,Gurgaon
+2020,KIA,SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,37378,1st,Petrol,HR26,27695.0,14.55,Zero down payment,Gurgaon
+2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,13934,1st,Petrol,DL9C,27314.0,14.35,Zero down payment,Gurgaon
+2018,Hyundai,Verna,1.6 VTVT SX,Manual,50302,2nd,CNG,HR06,14154.0,7.24,Zero down payment,Gurgaon
+2016,Tata,Tiago,XZ PETROL,Manual,39542,2nd,Petrol,UP16,6764.0,3.46,Zero down payment,Noida
+2014,Honda,Amaze,1.2L I-VTEC SX,Manual,71244,1st,Petrol,DL9C,6412.0,3.28,Zero down payment,Noida
+2017,Hyundai,Eon,ERA PLUS (O),Manual,30119,1st,Petrol,HR51,5767.0,2.95,Zero down payment,Gurgaon
+2012,Maruti,Wagon R 1.0,LXI,Manual,46399,1st,Petrol,HR26,3871.0,1.98,Zero down payment,Gurgaon
+2017,Honda,City,1.5L I-VTEC ZX CVT,Automatic,125957,1st,Petrol,HR70,13666.0,6.99,Zero down payment,New Delhi
+2019,Toyota,Fortuner,2.8 4X2 MT,Manual,93996,1st,Diesel,UP14,51392.0,27.0,Zero down payment,Noida
+2023,Hyundai,Creta,EX 1.5 PETROL,Manual,14329,1st,Petrol,DL9C,24173.0,12.7,Zero down payment,Noida
+2021,Mahindra,Thar,LX PETROL HT 4WD AT,Automatic,34335,1st,Petrol,CH01,26115.0,13.72,Zero down payment,Gurgaon
+2017,Maruti,Swift,LXI (O),Manual,60531,1st,Petrol,DL2C,7191.0,3.68,Zero down payment,Gurgaon
+2021,Mahindra,Bolero,B6 (O),Manual,59897,1st,Diesel,UP15,15464.0,7.91,Zero down payment,Noida
+2018,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,62588,2nd,Petrol,DL9C,11183.0,5.72,Zero down payment,Noida
+2016,Maruti,Baleno,DELTA PETROL 1.2,Manual,97201,1st,CNG,HR13,7918.0,4.05,Zero down payment,Gurgaon
+2021,Maruti,Dzire,VXI,Manual,13033,2nd,Petrol,HR26,13001.0,6.65,Zero down payment,Gurgaon
+2022,Maruti,New Wagon-R,VXI 1.0,Manual,14105,1st,Petrol,DL5C,9130.0,4.67,Zero down payment,New Delhi
+2015,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,99951,2nd,Petrol,DL1C,12051.0,6.16,Zero down payment,New Delhi
+2022,Maruti,New Wagon-R,VXI CNG 1.0,Manual,38558,1st,CNG,HR30,11163.0,5.71,Zero down payment,Gurgaon
+2023,Maruti,Alto,LXI OPT CNG,Manual,9840,1st,CNG,HR26,9560.0,4.89,Zero down payment,Gurgaon
+2022,Maruti,Eeco,5 STR AC CNG (O),Manual,30328,1st,CNG,UP16,11398.0,5.83,Zero down payment,Noida
+2013,Maruti,Swift,VXI,Manual,65776,1st,CNG,DL6C,5806.0,2.97,Zero down payment,New Delhi
+2016,Honda,Amaze,1.2L I-VTEC S,Manual,63284,1st,Petrol,DL10,7370.0,3.77,Zero down payment,Noida
+2018,Maruti,Baleno,ALPHA CVT PETROL 1.2,Automatic,71660,1st,Petrol,HR26,10831.0,5.54,Zero down payment,Faridabad
+2011,Honda,Accord,2.4L I-VTEC MT,Manual,58657,2nd,Petrol,HR26,7234.0,3.7,Zero down payment,Faridabad
+2014,Maruti,Swift Dzire,VXI,Manual,58242,1st,Petrol,DL5C,6119.0,3.13,Zero down payment,Gurgaon
+2018,Maruti,Swift,ZXI PLUS,Manual,88992,1st,CNG,DL8C,11554.0,5.91,Zero down payment,Noida
+2019,Maruti,Swift,VXI AMT,Automatic,10297,1st,Petrol,DL8C,11554.0,5.91,Zero down payment,Gurgaon
+2022,Tata,NEXON,XM PLUS SUNROOF PETROL,Manual,3263,1st,Petrol,HR13,16864.0,8.86,Zero down payment,Gurgaon
+2011,Hyundai,i10,MAGNA 1.1,Manual,53164,1st,Petrol,DL8C,2835.0,1.45,Zero down payment,New Delhi
+2018,Datsun,Redi Go,1.0 T(O) AT,Automatic,66945,1st,Petrol,UP16,4907.0,2.51,Zero down payment,Noida
+2014,Maruti,Ciaz,VXI+AT,Automatic,97770,1st,Petrol,HR26,8798.0,4.5,Zero down payment,New Delhi
+2014,Honda,Brio,S MT,Manual,56421,1st,Petrol,DL3C,4966.0,2.54,Zero down payment,Noida
+2018,Maruti,Celerio,VXI CNG,Manual,54064,1st,CNG,DL2C,7898.0,4.04,Zero down payment,Noida
+2021,Nissan,MAGNITE,XV MT,Manual,6311,1st,Petrol,DL11,13060.0,6.68,Zero down payment,Faridabad
+2017,Maruti,Celerio X,VXI AMT,Automatic,8046,1st,Petrol,DL2C,7996.0,4.09,Zero down payment,Noida
+2017,Hyundai,Creta,E PLUS 1.6 PETROL,Manual,57918,2nd,Petrol,UP78,13861.0,7.09,Zero down payment,Ghaziabad
+2018,Maruti,Swift,ZXI PLUS,Manual,33872,1st,Petrol,HR26,12082.0,6.18,Zero down payment,Gurgaon
+2018,Honda,City,1.5L I-VTEC ZX CVT,Automatic,1214,1st,Petrol,UP16,16883.0,8.87,Zero down payment,Noida
+2015,Maruti,Swift Dzire,VXI,Manual,85818,2nd,Petrol,DL3C,7285.0,3.73,Zero down payment,Noida
+2021,Tata,Safari,XT PLUS,Manual,35190,1st,Diesel,HR72,28361.0,14.9,Zero down payment,Faridabad
+2019,Hyundai,Verna,1.4 EX CRDI,Manual,78366,2nd,Diesel,DL7C,14076.0,7.2,Zero down payment,Gurgaon
+2019,Toyota,Innova Crysta,2.8 ZX AT 7 STR,Automatic,90337,1st,Diesel,DL3C,30093.0,15.81,Zero down payment,Noida
+2021,Maruti,Vitara Brezza,VXI,Manual,25562,1st,Petrol,HR26,15665.0,8.23,Zero down payment,New Delhi
+2019,Hyundai,Elite i20,ASTA 1.2 (O),Manual,33913,1st,Petrol,HR26,13509.0,6.91,Zero down payment,Gurgaon
+2019,Mahindra,XUV300,W6 1.5 DIESEL,Manual,42027,2nd,Diesel,DL8C,14487.0,7.41,Zero down payment,New Delhi
+2019,Hyundai,Verna,1.6 CRDI SX,Manual,39796,1st,Diesel,HR51,16997.0,8.93,Zero down payment,Gurgaon
+2014,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,72154,1st,CNG,DL8C,6100.0,3.12,Zero down payment,New Delhi
+2013,Hyundai,i10,MAGNA 1.1,Manual,64200,1st,CNG,DL8C,4809.0,2.46,Zero down payment,New Delhi
+2015,Honda,Brio,S MT,Manual,74161,2nd,Petrol,HR26,5670.0,2.9,Zero down payment,New Delhi
+2018,Ford,Ecosport,AMBIENTE 1.5L PETROL,Manual,61087,2nd,Petrol,HR51,11691.0,5.98,Zero down payment,Gurgaon
+2019,Hyundai,Elite i20,ASTA 1.2 (O),Manual,32556,1st,CNG,DL11,13157.0,6.73,Zero down payment,Noida
+2022,Renault,TRIBER,RXT,Manual,13915,2nd,Petrol,HR52,12766.0,6.53,Zero down payment,New Delhi
+2022,Maruti,XL6,ALPHA AT,Automatic,29106,1st,Petrol,HR98,25696.0,13.5,Zero down payment,Gurgaon
+2015,Maruti,Swift,LXI,Manual,34526,1st,Petrol,HR26,7449.0,3.81,Zero down payment,New Delhi
+2018,Honda,Amaze,1.2L I-VTEC S,Manual,52466,2nd,Petrol,DL5C,8426.0,4.31,Zero down payment,Noida
+2013,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,31228,1st,Petrol,DL3C,6354.0,3.25,Zero down payment,Ghaziabad
+2017,Maruti,Alto 800,LXI,Manual,113999,2nd,Petrol,HR36,4848.0,2.48,Zero down payment,Gurgaon
+2012,Hyundai,i10,SPORTZ (O) 1.2,Manual,70640,1st,Petrol,DL4C,3558.0,1.82,Zero down payment,Ghaziabad
+2022,Hyundai,VENUE,SX 1.2 PETROL,Manual,17907,1st,Petrol,DL8C,20214.0,10.62,Zero down payment,Noida
+2020,Tata,ALTROZ,XE PETROL,Manual,44077,1st,Petrol,DL9C,9971.0,5.1,Zero down payment,Noida
+2017,Honda,City,1.5L I-VTEC V MT,Manual,76844,2nd,Petrol,DL8C,12532.0,6.41,Zero down payment,Noida
+2020,Hyundai,GRAND I10 NIOS,SPORTZ CNG MT,Manual,45240,1st,CNG,HR51,11202.0,5.73,Zero down payment,Gurgaon
+2016,Hyundai,Elite i20,ASTA 1.2,Manual,64666,2nd,Petrol,HR26,9834.0,5.03,Zero down payment,New Delhi
+2012,Nissan,Micra,XV PETROL,Manual,52349,2nd,Petrol,DL1C,3597.0,1.84,Zero down payment,Noida
+2016,Hyundai,Creta,SX PLUS AT 1.6 PETROL,Automatic,60741,2nd,Petrol,HR26,14936.0,7.64,Zero down payment,Gurgaon
+2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,71817,1st,Petrol,HR51,11476.0,5.87,Zero down payment,Gurgaon
+2018,Honda,Amaze,1.2L I-VTEC S,Manual,51234,1st,Petrol,HR29,10283.0,5.26,Zero down payment,Gurgaon
+2018,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,25329,1st,Petrol,DL11,15190.0,7.77,Zero down payment,Noida
+2018,Maruti,Ertiga,VDI SHVS,Manual,83567,2nd,Diesel,DL3C,13171.0,6.74,Zero down payment,Gurgaon
+2013,Maruti,Ertiga,VXI,Manual,31932,1st,Petrol,HR26,9286.0,4.75,Zero down payment,New Delhi
+2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,41301,1st,CNG,HR87,15171.0,7.76,Zero down payment,Faridabad
+2019,Maruti,Baleno,ZETA PETROL 1.2,Manual,47644,1st,Petrol,HR36,11476.0,5.87,Zero down payment,Gurgaon
+2020,Ford,Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,95701,1st,Petrol,UP16,14956.0,7.65,Zero down payment,Noida
+2011,Hyundai,i20,MAGNA (O) 1.2,Manual,40565,1st,Petrol,HR10,3930.0,2.01,Zero down payment,Gurgaon
+2011,Volkswagen,Polo,COMFORTLINE 1.2L PETROL,Manual,51130,1st,Petrol,DL4C,4360.0,2.23,Zero down payment,New Delhi
+2019,Maruti,Swift,ZXI PLUS AMT,Automatic,36023,2nd,Petrol,HR26,13079.0,6.69,Zero down payment,New Delhi
+2012,Hyundai,i10,MAGNA 1.2,Manual,98106,1st,CNG,DL2C,4047.0,2.07,Zero down payment,Noida
+2019,Hyundai,Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,42652,2nd,Petrol,DL2C,9638.0,4.93,Zero down payment,Noida
+2013,Toyota,Etios Liva,G,Manual,81876,1st,CNG,DL10,5494.0,2.81,Zero down payment,New Delhi
+2017,Maruti,Alto 800,LXI CNG,Manual,65751,1st,CNG,DL2C,5650.0,2.89,Zero down payment,Gurgaon
+2019,Maruti,Vitara Brezza,LDI,Manual,29399,1st,Diesel,DL8C,12238.0,6.26,Zero down payment,Gurgaon
+2018,Honda,City,1.5L I-VTE V CVT,Automatic,55313,2nd,Petrol,DL10,15054.0,7.7,Zero down payment,New Delhi
+2018,Maruti,Alto K10,VXI (O) AMT,Automatic,30103,1st,Petrol,HR26,7116.0,3.64,Zero down payment,Noida
+2018,Maruti,Swift,VXI,Manual,62633,1st,Petrol,DL12,11132.0,5.69,Zero down payment,New Delhi
+2017,Maruti,IGNIS,DELTA 1.2 AMT,Automatic,61305,1st,Petrol,UP14,8270.0,4.23,Zero down payment,Ghaziabad
+2018,Honda,WR-V,1.2L I-VTEC S MT,Manual,68744,2nd,CNG,DL11,10772.0,5.51,Zero down payment,New Delhi
+2013,Toyota,Etios Liva,G,Manual,58426,1st,Petrol,DL8C,5435.0,2.78,Zero down payment,Noida
+2019,Ford,Ecosport,TREND + 1.5L PETROL,Manual,35819,1st,Petrol,HR51,12102.0,6.19,Zero down payment,Noida
+2017,Honda,City,1.5L I-VTEC V MT,Manual,51997,1st,Petrol,DL10,13138.0,6.72,Zero down payment,New Delhi
+2018,Maruti,Swift,ZXI,Manual,30652,1st,Petrol,DL9C,11163.0,5.71,Zero down payment,New Delhi
+2011,Honda,City,1.5L I-VTEC V MT,Manual,45781,1st,Petrol,DL9C,5076.0,2.6,Zero down payment,Noida
+2022,Maruti,IGNIS,DELTA 1.2,Manual,55146,1st,Petrol,DL3C,10366.0,5.3,Zero down payment,New Delhi
+2013,Maruti,Wagon R 1.0,VXI,Manual,60856,2nd,Petrol,HR26,4340.0,2.22,Zero down payment,New Delhi
+2018,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,37508,1st,Petrol,UP16,11965.0,6.12,Zero down payment,Noida
+2019,Tata,NEXON,XZ PETROL,Manual,50167,2nd,Petrol,HR36,11847.0,6.06,Zero down payment,New Delhi
+2017,Honda,WR-V,1.2L I-VTEC VX MT,Manual,77139,1st,Petrol,DL3C,11906.0,6.09,Zero down payment,New Delhi
+2017,Maruti,Swift,VXI,Manual,42019,1st,Petrol,UP16,9169.0,4.69,Zero down payment,Noida
+2016,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,29435,1st,CNG,HR51,7996.0,4.09,Zero down payment,New Delhi
+2021,Maruti,S PRESSO,VXI CNG,Manual,62657,1st,CNG,HR87,8465.0,4.33,Zero down payment,Gurgaon
+2019,Maruti,Ciaz,ALPHA 1.5 SHVS PETROL,Manual,70802,1st,Petrol,UP16,13451.0,6.88,Zero down payment,Noida
+2012,Maruti,Swift Dzire,VXI,Manual,46392,1st,Petrol,DL4C,5415.0,2.77,Zero down payment,New Delhi
+2015,Maruti,Alto K10,VXI AMT,Automatic,46695,1st,Petrol,UP14,5865.0,3.0,Zero down payment,Ghaziabad
+2019,Maruti,XL6,ALPHA AT,Automatic,19696,1st,Petrol,UP16,18768.0,9.86,Zero down payment,Noida
+2018,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,4009,1st,Petrol,DL8C,9697.0,4.96,Zero down payment,Noida
+2017,Maruti,Celerio,ZXI AMT,Automatic,69170,1st,Petrol,HR26,7253.0,3.71,Zero down payment,Faridabad
+2015,Maruti,Swift,VXI,Manual,64579,1st,Petrol,UP16,7683.0,3.93,Zero down payment,Noida
+2022,Tata,Tiago,XZ PLUS CNG,Manual,31669,1st,CNG,DL11,12981.0,6.64,Zero down payment,New Delhi
+2019,Maruti,Baleno,DELTA PETROL 1.2,Manual,89185,1st,Petrol,DL3C,9931.0,5.08,Zero down payment,New Delhi
+2015,Maruti,Ciaz,VXI+,Manual,27587,1st,Petrol,DL9C,10049.0,5.14,Zero down payment,Noida
+2020,Renault,Kwid,RXT 1.0 (O),Manual,39598,1st,Petrol,DL3C,7683.0,3.93,Zero down payment,New Delhi
+2021,Ford,Ecosport,TITANIUM 1.5L PETROL,Manual,15963,1st,Petrol,UP78,17473.0,9.18,Zero down payment,Noida
+2018,Mahindra,TUV300,T10,Manual,45117,1st,Diesel,DL12,12786.0,6.54,Zero down payment,Noida
+2014,Hyundai,i20,ASTA 1.2,Manual,73313,1st,Petrol,UP16,7468.0,3.82,Zero down payment,New Delhi
+2020,Hyundai,GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,36879,2nd,CNG,UP14,12043.0,6.16,Zero down payment,Noida
+2017,Maruti,Alto K10,VXI (O) AMT,Automatic,33835,1st,Petrol,DL2C,6803.0,3.48,Zero down payment,Noida
+2019,Maruti,New Wagon-R,LXI 1.0,Manual,12795,1st,Petrol,DL5C,9306.0,4.76,Zero down payment,Noida
+2018,Honda,Amaze,1.2L I-VTEC V CVT,Automatic,25772,1st,Petrol,UP16,13568.0,6.94,Zero down payment,Noida
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,43063,2nd,Diesel,UP16,13685.0,7.0,Zero down payment,Noida
+2014,Maruti,Swift,ZXI,Manual,77700,1st,Petrol,DL12,6549.0,3.35,Zero down payment,Noida
+2021,Maruti,IGNIS,ZETA 1.2 AMT,Automatic,24395,1st,Petrol,DL8C,12825.0,6.56,Zero down payment,Noida
+2016,Volkswagen,Vento,HIGHLINE PETROL AT,Automatic,85779,2nd,Petrol,DL1C,8465.0,4.33,Zero down payment,Noida
+2015,Maruti,Celerio,VXI AMT,Automatic,52303,2nd,Petrol,DL3C,6569.0,3.36,Zero down payment,Noida
+2014,Maruti,Ritz,VXI,Manual,100013,2nd,Petrol,DL6C,4368.0,2.23,Zero down payment,Noida
+2018,Maruti,Celerio,ZXI AMT,Automatic,89666,1st,Petrol,HR20,7832.0,4.01,Zero down payment,New Delhi
+2010,Maruti,Swift Dzire,VXI,Manual,422,1st,Petrol,DL2C,3715.0,1.9,Zero down payment,Noida
+2011,Maruti,Swift,LXI,Manual,11463,1st,Petrol,DL3C,4477.0,2.29,Zero down payment,New Delhi
+2014,Maruti,Alto K10,VXI,Manual,75896,1st,Petrol,DL5C,4154.0,2.13,Zero down payment,Noida
+2022,Toyota,Innova Crysta,2.4 ZX 7 STR,Manual,15052,1st,Diesel,UP16,48156.0,25.3,Zero down payment,Noida
+2014,Maruti,Wagon R 1.0,LXI CNG,Manual,98810,1st,CNG,DL12,5682.0,2.91,Zero down payment,New Delhi
+2017,Maruti,Baleno,ZETA PETROL 1.2,Manual,42841,1st,Petrol,DL9C,10381.0,5.31,Zero down payment,Noida
+2017,Hyundai,Elite i20,SPORTZ 1.2,Manual,18886,1st,Petrol,UP14,11085.0,5.67,Zero down payment,Ghaziabad
+2021,Tata,Tiago,XT (O) PETROL,Manual,31544,1st,Petrol,HR26,10538.0,5.39,Zero down payment,New Delhi
+2010,Toyota,Corolla Altis,G PETROL,Manual,69278,2nd,Petrol,DL4C,4047.0,2.07,Zero down payment,New Delhi
+2018,Hyundai,Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,15596,1st,Petrol,DL10,9110.0,4.66,Zero down payment,Noida
+2014,Hyundai,Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,22304,1st,Petrol,DL8C,7390.0,3.78,Zero down payment,New Delhi
+2012,Honda,Jazz,1.2L I-VTEC SELECT,Manual,72294,2nd,Petrol,DL4C,4418.0,2.26,Zero down payment,Noida
+2019,Ford,Ecosport,1.5 TITANIUM TI VCT,Manual,57841,1st,CNG,DL8C,14051.0,7.19,Zero down payment,New Delhi
+2010,Hyundai,Santro Xing,GLS,Manual,55293,1st,Petrol,DL10,2714.0,1.39,Zero down payment,Noida
+2010,Hyundai,i10,MAGNA 1.2,Manual,59019,1st,Petrol,DL8C,2972.0,1.52,Zero down payment,New Delhi
+2013,Hyundai,Santro Xing,GL PLUS,Manual,79310,1st,Petrol,DL7C,3871.0,1.98,Zero down payment,Noida
+2011,Hyundai,i10,SPORTZ 1.2,Manual,68123,1st,Petrol,UP14,3832.0,1.96,Zero down payment,Noida
+2015,Maruti,Swift,VXI,Manual,39837,1st,Petrol,DL3C,7840.0,4.01,Zero down payment,New Delhi
+2016,Renault,Kwid,RXT 0.8 (O),Manual,90523,1st,Petrol,HR26,4281.0,2.19,Zero down payment,New Delhi
+2017,Renault,Duster,RXS CVT,Automatic,35359,2nd,Petrol,HR26,11202.0,5.73,Zero down payment,Gurgaon
+2021,Nissan,MAGNITE,XE,Manual,21056,1st,Petrol,HR51,10283.0,5.26,Zero down payment,New Delhi
+2017,Honda,City,1.5L I-VTEC V MT,Manual,56359,1st,Petrol,HR13,12903.0,6.6,Zero down payment,Gurgaon
+2017,Hyundai,Creta,SX PLUS 1.6 PETROL,Manual,90228,2nd,Petrol,HR26,14233.0,7.28,Zero down payment,Gurgaon
+2021,Mahindra,XUV500,W7 AT,Automatic,80305,1st,Diesel,HR29,23336.0,12.26,Zero down payment,Gurgaon
+2022,Nissan,MAGNITE,XE,Manual,5206,1st,Petrol,DL9C,11613.0,5.94,Zero down payment,New Delhi
+2019,Jeep,Compass,LONGITUDE (O) 1.4 PETROL AT,Automatic,38475,2nd,Petrol,HR12,25315.0,13.3,Zero down payment,Gurgaon
+2017,Maruti,Ciaz,DELTA 1.4 MT PETROL,Manual,54531,2nd,Petrol,HR26,10616.0,5.43,Zero down payment,Faridabad
+2021,Honda,City,1.5L I-VTE V CVT,Automatic,26269,1st,Petrol,HR26,21870.0,11.49,Zero down payment,Faridabad
+2022,Nissan,MAGNITE,XE,Manual,18919,1st,Petrol,DL3C,11769.0,6.02,Zero down payment,Ghaziabad
+2016,Maruti,Baleno,DELTA CVT PETROL 1.2,Automatic,113205,1st,CNG,DL8C,8309.0,4.25,Zero down payment,New Delhi
+2022,Maruti,Celerio,VXI CNG,Manual,43182,1st,CNG,HR50,11222.0,5.74,Zero down payment,Gurgaon
+2016,Maruti,Swift,VXI,Manual,34606,1st,Petrol,DL2C,7976.0,4.08,Zero down payment,Ghaziabad
+2020,Tata,Harrier,XZA PLUS 2.0L DUAL TONE,Automatic,48760,1st,Diesel,HR98,31064.0,16.32,Zero down payment,Gurgaon
+2019,Renault,Kwid,CLIMBER 1.0 AMT,Automatic,28872,1st,Petrol,UP85,7247.0,3.71,Zero down payment,Noida
+2019,Hyundai,VENUE,SX 1.0 TURBO,Manual,41580,1st,Petrol,UP16,14799.0,7.57,Zero down payment,New Delhi
+2019,Ford,Ecosport,TITANIUM 1.5L DIESEL,Manual,65618,2nd,Diesel,HR51,12766.0,6.53,Zero down payment,Gurgaon
+2020,Hyundai,GRAND I10 NIOS,MAGNA CORPORATE EDITION 1.2 KAPPA VTVT,Manual,48751,1st,Petrol,HR26,9736.0,4.98,Zero down payment,Gurgaon
+2014,Maruti,Swift Dzire,VXI,Manual,23373,1st,Petrol,HR26,7234.0,3.7,Zero down payment,Faridabad
+2013,Maruti,Wagon R 1.0,VXI,Manual,33685,1st,Petrol,DL9C,4692.0,2.4,Zero down payment,Noida
+2014,Hyundai,Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,58536,2nd,Petrol,HR26,7292.0,3.73,Zero down payment,Gurgaon
+2019,Jeep,Compass,LIMITED 2.0 DIESEL,Manual,9346,1st,Diesel,HR51,26324.0,13.83,Zero down payment,Noida
+2022,Hyundai,GRAND I10 NIOS,SPORTZ U2 AMT 1.2 CRDI,Automatic,42982,1st,Diesel,HR05,14096.0,7.21,Zero down payment,Gurgaon
+2019,Maruti,Swift,ZXI AMT,Automatic,22388,1st,Petrol,DL2C,12160.0,6.22,Zero down payment,New Delhi
+2013,Hyundai,i20,SPORTZ 1.2,Manual,70883,1st,Petrol,DL12,5728.0,2.93,Zero down payment,New Delhi
+2011,Maruti,Alto K10,VXI,Manual,53083,1st,Petrol,DL12,3441.0,1.76,Zero down payment,Noida
+2017,Maruti,Swift,LXI (O),Manual,53127,2nd,Petrol,DL2C,7410.0,3.79,Zero down payment,Noida
+2014,Maruti,Ritz,VXI,Manual,55192,1st,Petrol,DL13,5083.0,2.6,Zero down payment,Noida
+2019,KIA,SELTOS,GTX AT 1.4 PETROL,Automatic,21429,2nd,Petrol,UP16,23545.0,12.37,Zero down payment,Noida
+2018,Maruti,Swift,VXI,Manual,63851,1st,Petrol,DL9C,10839.0,5.54,Zero down payment,Noida
+2014,Maruti,Alto 800,LXI,Manual,76394,1st,Petrol,UP16,4027.0,2.06,Zero down payment,Noida
+2019,Datsun,Go,A(O),Manual,2056,1st,Petrol,UP16,8876.0,4.54,Zero down payment,Noida
+2017,Maruti,Baleno,DELTA PETROL 1.2,Manual,38880,1st,Petrol,HR26,10459.0,5.35,Zero down payment,Gurgaon
+2021,Maruti,New Wagon-R,LXI CNG 1.0,Manual,78988,1st,CNG,HR19,10010.0,5.12,Zero down payment,New Delhi
+2012,Hyundai,i10,SPORTZ 1.2 AT,Automatic,67279,1st,Petrol,DL3C,4848.0,2.48,Zero down payment,Noida
+2017,Honda,Jazz,1.2L I-VTEC V AT,Automatic,79563,1st,Petrol,UP16,10088.0,5.16,Zero down payment,Noida
+2019,Hyundai,Verna,1.4 EX CRDI,Manual,53322,1st,Diesel,DL7C,15601.0,7.98,Zero down payment,Noida
+2013,Maruti,Swift Dzire,ZXI,Manual,51592,1st,Petrol,DL12,6725.0,3.44,Zero down payment,New Delhi
+2015,Maruti,Celerio,ZXI,Manual,40518,1st,Petrol,DL14,7429.0,3.8,Zero down payment,New Delhi
