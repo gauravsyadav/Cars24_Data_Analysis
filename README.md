@@ -5,7 +5,7 @@ The primary objective of this project is to analyze car pricing data to uncover 
 The dataset consists of 1103 rows and 13 columns. It contains detailed information about various car models, including their prices, specifications, km_driven, owner type, and more.
 
 Steps: 
-1.) Data Collection (Web scraping with Python): We have used various python libraries like Pandas, BeautifulSoup, Selenium etc. to scrape the data and stored it into a tabular format like csv or excel.
+1.) Data Collection (Web scraping & cleaning with Python): We have used various python libraries like Pandas, BeautifulSoup, Selenium etc. to scrape the data and stored it into a tabular format like csv or excel.
 2.) EDA (With SQL queries): We have performed EDA with the help of SQL queries. We have used SQL queries to filter, group, aggregate, and manipulate the data to find meaningful insights.
 3.) Visualization (Excel Dashboard): We have used excel features like Pivot tables, charts, graphs, and other Excel features to create an interactive dashboard.
 
